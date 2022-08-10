@@ -8,7 +8,7 @@ The bikes can be returned to the same station or to another station. The City of
 ## About dataset:
 Since the data from Divvy are anonymous, we have created fake rider and account profiles along with fake payment data to go along with the data from Divvy. The dataset looks like this:
 
-![This is a alt text.](https://video.udacity-data.com/topher/2022/February/6205b1d2_divvy-erd/divvy-erd.png "This is a sample image.")
+![This is a alt text.](https://video.udacity-data.com/topher/2022/March/6239366d_dend-project-erd/dend-project-erd.jpeg "This is a sample image.")
 
 
 ### About Schema for Song Play Analysis:
