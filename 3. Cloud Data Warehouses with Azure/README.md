@@ -24,6 +24,8 @@ Since the data from Divvy are anonymous, we have created fake rider and account 
     
     - schema_and_data.pdf: star schema information and data sample after tranform stage.
 
+    - images folder: contains some images (star schema, ingest , extract stage)
+
     - README.md provides informantion about project.
 
 ## Quick start:
