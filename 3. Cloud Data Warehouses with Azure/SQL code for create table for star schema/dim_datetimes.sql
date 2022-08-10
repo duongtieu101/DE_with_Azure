@@ -5,32 +5,34 @@ END
 
 GO;
 
-CREATE TABLE dim_datetimes
-WITH
-( 
-	DISTRIBUTION = HASH("datetime"), 
-	CLUSTERED COLUMNSTORE INDEX
-)
-AS
+DECLARE @StartDate DATETIME2
+DECLARE @EndDate DATETIME2
+SET @StartDate = (SELECT MIN(TRY_CONVERT(datetime, left(start_at, 19))) FROM staging_trips)
+SET @EndDate = DATEADD(year, 5, (SELECT MAX(TRY_CONVERT(datetime, left(start_at, 19))) FROM staging_trips))
 
-SELECT 
-    CONVERT(DATETIME2, ST.start_at) AS "datetime",
-    DATEPART(hour, CONVERT(DATETIME2, ST.start_at)) AS "hour",
-    DATEPART(day, CONVERT(DATETIME2, ST.start_at)) AS "day",
-    DATEPART(week, CONVERT(DATETIME2, ST.start_at)) AS "week",
-    DATEPART(weekday, CONVERT(DATETIME2, ST.start_at)) AS "weekday",
-    DATEPART(month, CONVERT(DATETIME2, ST.start_at)) AS "month",
-    DATEPART(quarter, CONVERT(DATETIME2, ST.start_at)) AS "quarter",
-    DATEPART(year, CONVERT(DATETIME2, ST.start_at)) AS "year"
-    FROM staging_trips ST
-UNION
-SELECT 
-    CONVERT(DATETIME2, SP.date) AS "datetime",
-    DATEPART(hour, CONVERT(DATETIME2, SP.date)) AS "hour",
-    DATEPART(day, CONVERT(DATETIME2, SP.date)) AS "day",
-    DATEPART(week, CONVERT(DATETIME2, SP.date)) AS "week",
-    DATEPART(weekday, CONVERT(DATETIME2, SP.date)) AS "weekday",
-    DATEPART(month, CONVERT(DATETIME2, SP.date)) AS "month",
-    DATEPART(quarter, CONVERT(DATETIME2, SP.date)) AS "quarter",
-    DATEPART(year, CONVERT(DATETIME2, SP.date)) AS "year"
-    FROM staging_payments SP;
+
+CREATE TABLE dim_datetimes (
+    "datetime" DATETIME2,
+    "hour" int,
+    "day" int,
+    "week" int,
+    "weekday" int,
+    "month" int,
+    "quarter" int,
+    "year" int
+)
+WHILE @StartDate <= @EndDate
+      BEGIN
+             INSERT INTO [dim_datetimes]
+             SELECT
+                   @StartDate,
+                   DATEPART(HOUR, @StartDate),
+                   DATEPART(WEEKDAY, @StartDate),
+                   DATEPART(DAY, @StartDate),
+                   DATEPART(WEEK, @StartDate),
+                   DATEPART(QUARTER, @StartDate),
+                   DATEPART(MONTH, @StartDate),
+                   DATEPART(YEAR, @StartDate)
+
+             SET @StartDate = DATEADD(hh, 1, @StartDate)
+      END;

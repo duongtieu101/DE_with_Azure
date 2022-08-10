@@ -22,8 +22,8 @@ AS
         CONVERT(DATETIME2, ST.ended_at) AS ended_at,
         DATEDIFF(minute, start_at, ended_at) AS "trip_duration (minute)",
         CASE
-            WHEN SR.account_end_date IS NOT NULL THEN DATEDIFF(day, SR.account_start_date, SR.account_end_date)
-            ELSE DATEDIFF(day, SR.account_start_date, GETDATE())
+            WHEN SR.account_end_date IS NOT NULL THEN DATEDIFF(day, SR.birthday, SR.account_end_date)
+            ELSE DATEDIFF(day, SR.birthday, GETDATE())
         END AS "account_age (day)"
     FROM staging_trips ST
     LEFT JOIN staging_riders SR
