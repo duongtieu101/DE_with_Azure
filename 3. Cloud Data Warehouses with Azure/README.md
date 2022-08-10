@@ -1,7 +1,9 @@
 # Data warehouse project
 
 ## Overview:
-Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to purchase a pass at a kiosk or use a mobile application to unlock a bike at stations around the city and use the bike for a specified amount of time. The bikes can be returned to the same station or to another station. The City of Chicago makes the anonymized bike trip data publicly available for projects like this where we can analyze the data.
+Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to purchase a pass at a kiosk or use a mobile application to unlock a bike at stations around the city and use the bike for a specified amount of time. 
+
+The bikes can be returned to the same station or to another station. The City of Chicago makes the anonymized bike trip data publicly available for projects like this where we can analyze the data.
 
 ## About dataset:
 Since the data from Divvy are anonymous, we have created fake rider and account profiles along with fake payment data to go along with the data from Divvy. The dataset looks like this:
@@ -27,11 +29,17 @@ Since the data from Divvy are anonymous, we have created fake rider and account 
 ## Quick start:
 ### To access AWS, we need to do in AWS the following:
 Create an Azure PostgreSQL database.
+
 Create an Azure Synapse workspace.
+
 Create a Dedicated SQL Pool and database within the Synapse workspace.
+
 Install python3 environment and psycopg2 in local machine. Fill host, user and password of Azure PostgreSQL database to DataToPostgres.py file, after that please run this file.
+
 Go to Azure Synapse workspace, create linked service for Azure PostgreSQL database and Azure Blob Storage. After that, ingest data from PostgreSQL database to Blob Storage (extract stage).
+
 Run code from Scipts for creating external table folder to create and load data for external table (load stage).
+
 Run code from SQL code for create table for star schema folder to create and load data for table of star schema (tranform stage ).
 
 
