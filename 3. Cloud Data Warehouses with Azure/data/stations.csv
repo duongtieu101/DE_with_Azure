@@ -1,3110 +1,838 @@
-,station_id,name,latitude,longitude
-0,525,"0    Glenwood Ave & Touhy Ave
-Name: start_station_name, dtype: object","0    42.0128
-Name: start_lat, dtype: float64","0   -87.665906
-Name: start_lng, dtype: float64"
-1,TA1306000016,"2    Sheffield Ave & Fullerton Ave
-Name: start_station_name, dtype: object","2    41.925602
-Name: start_lat, dtype: float64","2   -87.653708
-Name: start_lng, dtype: float64"
-2,KA1504000151,"3    Clark St & Bryn Mawr Ave
-Name: start_station_name, dtype: object","3    41.983593
-Name: start_lat, dtype: float64","3   -87.669154
-Name: start_lng, dtype: float64"
-3,TA1309000002,"4    Michigan Ave & Jackson Blvd
-Name: start_station_name, dtype: object","4    41.87785
-Name: start_lat, dtype: float64","4   -87.62408
-Name: start_lng, dtype: float64"
-4,637,"5    Wood St & Chicago Ave
-Name: start_station_name, dtype: object","5    41.895634
-Name: start_lat, dtype: float64","5   -87.672069
-Name: start_lng, dtype: float64"
-5,KA1504000158,"6    Oakley Ave & Irving Park Rd
-Name: start_station_name, dtype: object","6    41.954341
-Name: start_lat, dtype: float64","6   -87.68608
-Name: start_lng, dtype: float64"
-6,13304,"8    Racine Ave & 15th St
-Name: start_station_name, dtype: object","8    41.861251
-Name: start_lat, dtype: float64","8   -87.6565
-Name: start_lng, dtype: float64"
-7,TA1309000004,"9    LaSalle St & Jackson Blvd
-Name: start_station_name, dtype: object","9    41.878166
-Name: start_lat, dtype: float64","9   -87.631929
-Name: start_lng, dtype: float64"
-8,TA1307000119,"11    Clarendon Ave & Leland Ave
-Name: start_station_name, dtype: object","11    41.967962
-Name: start_lat, dtype: float64","11   -87.650029
-Name: start_lng, dtype: float64"
-9,15530,"13    Rush St & Superior St
-Name: start_station_name, dtype: object","13    41.895765
-Name: start_lat, dtype: float64","13   -87.625908
-Name: start_lng, dtype: float64"
-10,LP-,"15    Lincoln Park Conservatory
-Name: start_station_name, dtype: object","15    41.923931
-Name: start_lat, dtype: float64","15   -87.635825
-Name: start_lng, dtype: float64"
-11,TA1307000038,"21    Sedgwick St & North Ave
-Name: start_station_name, dtype: object","21    41.911386
-Name: start_lat, dtype: float64","21   -87.638677
-Name: start_lng, dtype: float64"
-12,15646,"22    California Ave & Altgeld St
-Name: start_station_name, dtype: object","22    41.926647
-Name: start_lat, dtype: float64","22   -87.697661
-Name: start_lng, dtype: float64"
-13,TA1308000036,"25    Indiana Ave & 31st St
-Name: start_station_name, dtype: object","25    41.838842
-Name: start_lat, dtype: float64","25   -87.621857
-Name: start_lng, dtype: float64"
-14,TA1309000063,"27    Lake Park Ave & 56th St
-Name: start_station_name, dtype: object","27    41.793242
-Name: start_lat, dtype: float64","27   -87.587782
-Name: start_lng, dtype: float64"
-15,TA1307000107,"30    Sheridan Rd & Montrose Ave
-Name: start_station_name, dtype: object","30    41.961647
-Name: start_lat, dtype: float64","30   -87.654632
-Name: start_lng, dtype: float64"
-16,SL-007,"32    State St & Harrison St
-Name: start_station_name, dtype: object","32    41.874053
-Name: start_lat, dtype: float64","32   -87.627716
-Name: start_lng, dtype: float64"
-17,KA1504000117,"33    Halsted St & North Branch St
-Name: start_station_name, dtype: object","33    41.899331
-Name: start_lat, dtype: float64","33   -87.648567
-Name: start_lng, dtype: float64"
-18,KA1504000080,"38    Washtenaw Ave & Lawrence Ave
-Name: start_station_name, dtype: object","38    41.968747
-Name: start_lat, dtype: float64","38   -87.696182
-Name: start_lng, dtype: float64"
-19,KA1503000071,"42    University Ave & 57th St
-Name: start_station_name, dtype: object","42    41.791478
-Name: start_lat, dtype: float64","42   -87.599861
-Name: start_lng, dtype: float64"
-20,331,"46    Halsted St & Clybourn Ave
-Name: start_station_name, dtype: object","46    41.909668
-Name: start_lat, dtype: float64","46   -87.648128
-Name: start_lng, dtype: float64"
-21,13021,"47    Clinton St & Lake St
-Name: start_station_name, dtype: object","47    41.885637
-Name: start_lat, dtype: float64","47   -87.641823
-Name: start_lng, dtype: float64"
-22,661,"49    Evanston Civic Center
-Name: start_station_name, dtype: object","49    42.057044
-Name: start_lat, dtype: float64","49   -87.686554
-Name: start_lng, dtype: float64"
-23,WL-008,"50    Clinton St & Roosevelt Rd
-Name: start_station_name, dtype: object","50    41.867118
-Name: start_lat, dtype: float64","50   -87.641088
-Name: start_lng, dtype: float64"
-24,13133,"52    Damen Ave & Cortland St
-Name: start_station_name, dtype: object","52    41.91595
-Name: start_lat, dtype: float64","52   -87.67738
-Name: start_lng, dtype: float64"
-25,TA1308000021,"56    Winthrop Ave & Lawrence Ave
-Name: start_station_name, dtype: object","56    41.968881
-Name: start_lat, dtype: float64","56   -87.657706
-Name: start_lng, dtype: float64"
-26,TA1307000134,"57    Wilton Ave & Belmont Ave
-Name: start_station_name, dtype: object","57    41.940051
-Name: start_lat, dtype: float64","57   -87.65293
-Name: start_lng, dtype: float64"
-27,13235,"58    Southport Ave & Waveland Ave
-Name: start_station_name, dtype: object","58    41.948048
-Name: start_lat, dtype: float64","58   -87.664191
-Name: start_lng, dtype: float64"
-28,TA1305000037,"60    Paulina Ave & North Ave
-Name: start_station_name, dtype: object","60    41.909855
-Name: start_lat, dtype: float64","60   -87.66993
-Name: start_lng, dtype: float64"
-29,TA1307000166,"61    Halsted St & Willow St
-Name: start_station_name, dtype: object","61    41.913863
-Name: start_lat, dtype: float64","61   -87.648701
-Name: start_lng, dtype: float64"
-30,KA1503000012,"62    Clark St & Lake St
-Name: start_station_name, dtype: object","62    41.886021
-Name: start_lat, dtype: float64","62   -87.630876
-Name: start_lng, dtype: float64"
-31,TA1309000001,"63    Halsted St & Maxwell St
-Name: start_station_name, dtype: object","63    41.864877
-Name: start_lat, dtype: float64","63   -87.647285
-Name: start_lng, dtype: float64"
-32,TA1307000126,"64    Sheffield Ave & Waveland Ave
-Name: start_station_name, dtype: object","64    41.949399
-Name: start_lat, dtype: float64","64   -87.654529
-Name: start_lng, dtype: float64"
-33,13016,"71    St. Clair St & Erie St
-Name: start_station_name, dtype: object","71    41.894346
-Name: start_lat, dtype: float64","71   -87.622862
-Name: start_lng, dtype: float64"
-34,13331,"72    May St & Cullerton St
-Name: start_station_name, dtype: object","72    41.855136
-Name: start_lat, dtype: float64","72   -87.654127
-Name: start_lng, dtype: float64"
-35,TA1307000061,"73    State St & Pearson St
-Name: start_station_name, dtype: object","73    41.897448
-Name: start_lat, dtype: float64","73   -87.628722
-Name: start_lng, dtype: float64"
-36,TA1305000020,"74    Ogden Ave & Chicago Ave
-Name: start_station_name, dtype: object","74    41.896362
-Name: start_lat, dtype: float64","74   -87.654061
-Name: start_lng, dtype: float64"
-37,LF-005,"75    DuSable Lake Shore Dr & North Blvd
-Name: start_station_name, dtype: object","75    41.911757
-Name: start_lat, dtype: float64","75   -87.626763
-Name: start_lng, dtype: float64"
-38,13221,"76    Wood St & Milwaukee Ave
-Name: start_station_name, dtype: object","76    41.907655
-Name: start_lat, dtype: float64","76   -87.672552
-Name: start_lng, dtype: float64"
-39,13061,"77    Ashland Ave & Division St
-Name: start_station_name, dtype: object","77    41.903337
-Name: start_lat, dtype: float64","77   -87.668054
-Name: start_lng, dtype: float64"
-40,TA1306000012,"81    Wells St & Huron St
-Name: start_station_name, dtype: object","81    41.894771
-Name: start_lat, dtype: float64","81   -87.634387
-Name: start_lng, dtype: float64"
-41,13288,"83    Damen Ave & Charleston St
-Name: start_station_name, dtype: object","83    41.920079
-Name: start_lat, dtype: float64","83   -87.677931
-Name: start_lng, dtype: float64"
-42,TA1307000124,"84    Michigan Ave & 14th St
-Name: start_station_name, dtype: object","84    41.864059
-Name: start_lat, dtype: float64","84   -87.623727
-Name: start_lng, dtype: float64"
-43,425,"85    Rockwell St & Cermak Rd
-Name: start_station_name, dtype: object","85    41.85
-Name: start_lat, dtype: float64","85   -87.69
-Name: start_lng, dtype: float64"
-44,638,"87    Clinton St & Jackson Blvd
-Name: start_station_name, dtype: object","87    41.878317
-Name: start_lat, dtype: float64","87   -87.640981
-Name: start_lng, dtype: float64"
-45,13398,"88    Blackstone Ave & Hyde Park Blvd
-Name: start_station_name, dtype: object","88    41.802562
-Name: start_lat, dtype: float64","88   -87.590368
-Name: start_lng, dtype: float64"
-46,13319,"89    Ashland Ave & Grace St
-Name: start_station_name, dtype: object","89    41.950647
-Name: start_lat, dtype: float64","89   -87.668672
-Name: start_lng, dtype: float64"
-47,15542,"92    Clinton St & Polk St
-Name: start_station_name, dtype: object","92    41.871467
-Name: start_lat, dtype: float64","92   -87.640949
-Name: start_lng, dtype: float64"
-48,E002,"93    Chicago Ave & Washington St
-Name: start_station_name, dtype: object","93    42.032562
-Name: start_lat, dtype: float64","93   -87.679101
-Name: start_lng, dtype: float64"
-49,TA1309000042,"96    Lincoln Ave & Belmont Ave
-Name: start_station_name, dtype: object","96    41.939537
-Name: start_lat, dtype: float64","96   -87.668308
-Name: start_lng, dtype: float64"
-50,TA1307000052,"98    Sheffield Ave & Wellington Ave
-Name: start_station_name, dtype: object","98    41.936253
-Name: start_lat, dtype: float64","98   -87.652662
-Name: start_lng, dtype: float64"
-51,TA1307000131,"101    Wabash Ave & Wacker Pl
-Name: start_station_name, dtype: object","101    41.886875
-Name: start_lat, dtype: float64","101   -87.62603
-Name: start_lng, dtype: float64"
-52,13008,"102    Millennium Park
-Name: start_station_name, dtype: object","102    41.881032
-Name: start_lat, dtype: float64","102   -87.624084
-Name: start_lng, dtype: float64"
-53,TA1309000026,"103    Lincoln Ave & Belle Plaine Ave
-Name: start_station_name, dtype: object","103    41.956054
-Name: start_lat, dtype: float64","103   -87.680289
-Name: start_lng, dtype: float64"
-54,13196,"109    Carpenter St & Huron St
-Name: start_station_name, dtype: object","109    41.89451
-Name: start_lat, dtype: float64","109   -87.653453
-Name: start_lng, dtype: float64"
-55,TA1309000025,"110    Halsted St & Roscoe St
-Name: start_station_name, dtype: object","110    41.94367
-Name: start_lat, dtype: float64","110   -87.64895
-Name: start_lng, dtype: float64"
-56,TA1307000117,"111    Wabash Ave & Grand Ave
-Name: start_station_name, dtype: object","111    41.891466
-Name: start_lat, dtype: float64","111   -87.626761
-Name: start_lng, dtype: float64"
-57,TA1305000003,"112    Fairbanks Ct & Grand Ave
-Name: start_station_name, dtype: object","112    41.891847
-Name: start_lat, dtype: float64","112   -87.62058
-Name: start_lng, dtype: float64"
-58,TA1308000009,"119    Shore Dr & 55th St
-Name: start_station_name, dtype: object","119    41.795212
-Name: start_lat, dtype: float64","119   -87.580715
-Name: start_lng, dtype: float64"
-59,13432,"121    Wood St & Hubbard St
-Name: start_station_name, dtype: object","121    41.889882
-Name: start_lat, dtype: float64","121   -87.671574
-Name: start_lng, dtype: float64"
-60,18062,"126    Aberdeen St & Randolph St
-Name: start_station_name, dtype: object","126    41.884114
-Name: start_lat, dtype: float64","126   -87.654264
-Name: start_lng, dtype: float64"
-61,RN-,"127    Franklin St & Illinois St
-Name: start_station_name, dtype: object","127    41.891051
-Name: start_lat, dtype: float64","127   -87.635492
-Name: start_lng, dtype: float64"
-62,KA1503000019,"129    Stony Island Ave & 75th St
-Name: start_station_name, dtype: object","129    41.75867
-Name: start_lat, dtype: float64","129   -87.586883
-Name: start_lng, dtype: float64"
-63,20257.0,"130    N Southport Ave & W Newport Ave
-Name: start_station_name, dtype: object","130    41.94
-Name: start_lat, dtype: float64","130   -87.66
-Name: start_lng, dtype: float64"
-64,TA1307000129,"132    State St & 35th St
-Name: start_station_name, dtype: object","132    41.831036
-Name: start_lat, dtype: float64","132   -87.626798
-Name: start_lng, dtype: float64"
-65,15645,"134    Richmond St & Diversey Ave
-Name: start_station_name, dtype: object","134    41.931902
-Name: start_lat, dtype: float64","134   -87.701195
-Name: start_lng, dtype: float64"
-66,13144,"135    Seeley Ave & Roscoe St
-Name: start_station_name, dtype: object","135    41.94333
-Name: start_lat, dtype: float64","135   -87.679675
-Name: start_lng, dtype: float64"
-67,TA1309000011,"136    Ellis Ave & 58th St
-Name: start_station_name, dtype: object","136    41.788746
-Name: start_lat, dtype: float64","136   -87.601334
-Name: start_lng, dtype: float64"
-68,13247,"144    Ashland Ave & Chicago Ave
-Name: start_station_name, dtype: object","144    41.895974
-Name: start_lat, dtype: float64","144   -87.667725
-Name: start_lng, dtype: float64"
-69,TA1309000027,"145    Sheridan Rd & Buena Ave
-Name: start_station_name, dtype: object","145    41.958494
-Name: start_lat, dtype: float64","145   -87.654966
-Name: start_lng, dtype: float64"
-70,TA1309000007,"146    Franklin St & Monroe St
-Name: start_station_name, dtype: object","146    41.879185
-Name: start_lat, dtype: float64","146   -87.635619
-Name: start_lng, dtype: float64"
-71,TA1308000035,"147    Lake Park Ave & 47th St
-Name: start_station_name, dtype: object","147    41.809443
-Name: start_lat, dtype: float64","147   -87.591875
-Name: start_lng, dtype: float64"
-72,TA1309000055,"148    Emerald Ave & 31st St
-Name: start_station_name, dtype: object","148    41.838198
-Name: start_lat, dtype: float64","148   -87.645143
-Name: start_lng, dtype: float64"
-73,TA1307000136,"155    Clark St & Wellington Ave
-Name: start_station_name, dtype: object","155    41.936497
-Name: start_lat, dtype: float64","155   -87.647539
-Name: start_lng, dtype: float64"
-74,SL-005,"157    Indiana Ave & Roosevelt Rd
-Name: start_station_name, dtype: object","157    41.867888
-Name: start_lat, dtype: float64","157   -87.623041
-Name: start_lng, dtype: float64"
-75,13253,"158    Lincoln Ave & Waveland Ave
-Name: start_station_name, dtype: object","158    41.948797
-Name: start_lat, dtype: float64","158   -87.675278
-Name: start_lng, dtype: float64"
-76,TA1305000002,"160    Wabash Ave & Roosevelt Rd
-Name: start_station_name, dtype: object","160    41.867227
-Name: start_lat, dtype: float64","160   -87.625961
-Name: start_lng, dtype: float64"
-77,624,"161    Dearborn St & Van Buren St
-Name: start_station_name, dtype: object","161    41.876268
-Name: start_lat, dtype: float64","161   -87.629155
-Name: start_lng, dtype: float64"
-78,13006,"163    LaSalle St & Washington St
-Name: start_station_name, dtype: object","163    41.882664
-Name: start_lat, dtype: float64","163   -87.63253
-Name: start_lng, dtype: float64"
-79,TA1305000029,"166    State St & Randolph St
-Name: start_station_name, dtype: object","166    41.884611
-Name: start_lat, dtype: float64","166   -87.628156
-Name: start_lng, dtype: float64"
-80,13300,"168    DuSable Lake Shore Dr & Monroe St
-Name: start_station_name, dtype: object","168    41.880958
-Name: start_lat, dtype: float64","168   -87.616743
-Name: start_lng, dtype: float64"
-81,TA1308000050,"172    Wells St & Concord Ln
-Name: start_station_name, dtype: object","172    41.912133
-Name: start_lat, dtype: float64","172   -87.634656
-Name: start_lng, dtype: float64"
-82,KA1504000147,"177    Winchester (Ravenswood) Ave & Balmoral Ave
-Name: start_station_name, dtype: object","177    41.979775
-Name: start_lat, dtype: float64","177   -87.677484
-Name: start_lng, dtype: float64"
-83,KA1504000156,"178    Clark St & Schreiber Ave
-Name: start_station_name, dtype: object","178    41.999252
-Name: start_lat, dtype: float64","178   -87.671377
-Name: start_lng, dtype: float64"
-84,15575,"180    Broadway & Thorndale Ave
-Name: start_station_name, dtype: object","180    41.989743
-Name: start_lat, dtype: float64","180   -87.660141
-Name: start_lng, dtype: float64"
-85,KA1504000076,"184    Ellis Ave & 55th St
-Name: start_station_name, dtype: object","184    41.794301
-Name: start_lat, dtype: float64","184   -87.60145
-Name: start_lng, dtype: float64"
-86,15571,"185    Broadway & Granville Ave
-Name: start_station_name, dtype: object","185    41.99478
-Name: start_lat, dtype: float64","185   -87.660285
-Name: start_lng, dtype: float64"
-87,646,"186    State St & 54th St
-Name: start_station_name, dtype: object","186    41.796623
-Name: start_lat, dtype: float64","186   -87.625955
-Name: start_lng, dtype: float64"
-88,13193,"187    Larrabee St & Webster Ave
-Name: start_station_name, dtype: object","187    41.921822
-Name: start_lat, dtype: float64","187   -87.64414
-Name: start_lng, dtype: float64"
-89,SL-008,"189    Federal St & Polk St
-Name: start_station_name, dtype: object","189    41.872078
-Name: start_lat, dtype: float64","189   -87.629544
-Name: start_lng, dtype: float64"
-90,13099,"191    Halsted St & 18th St
-Name: start_station_name, dtype: object","191    41.857612
-Name: start_lat, dtype: float64","191   -87.646154
-Name: start_lng, dtype: float64"
-91,TA1306000026,"193    Racine Ave & Fullerton Ave
-Name: start_station_name, dtype: object","193    41.925563
-Name: start_lat, dtype: float64","193   -87.658404
-Name: start_lng, dtype: float64"
-92,13434,"194    Ashland Ave & Grand Ave
-Name: start_station_name, dtype: object","194    41.891072
-Name: start_lat, dtype: float64","194   -87.666611
-Name: start_lng, dtype: float64"
-93,13194,"195    Ogden Ave & Race Ave
-Name: start_station_name, dtype: object","195    41.891795
-Name: start_lat, dtype: float64","195   -87.658751
-Name: start_lng, dtype: float64"
-94,KP1705001026,"196    LaSalle Dr & Huron St
-Name: start_station_name, dtype: object","196    41.894877
-Name: start_lat, dtype: float64","196   -87.632326
-Name: start_lng, dtype: float64"
-95,TA1307000149,"202    Ravenswood Ave & Irving Park Rd
-Name: start_station_name, dtype: object","202    41.95469
-Name: start_lat, dtype: float64","202   -87.67393
-Name: start_lng, dtype: float64"
-96,SL-010,"203    Financial Pl & Ida B Wells Dr
-Name: start_station_name, dtype: object","203    41.875024
-Name: start_lat, dtype: float64","203   -87.633094
-Name: start_lng, dtype: float64"
-97,TA1306000010,"210    Daley Center Plaza
-Name: start_station_name, dtype: object","210    41.884241
-Name: start_lat, dtype: float64","210   -87.629634
-Name: start_lng, dtype: float64"
-98,13056,"212    Canal St & Monroe St
-Name: start_station_name, dtype: object","212    41.88169
-Name: start_lat, dtype: float64","212   -87.63953
-Name: start_lng, dtype: float64"
-99,KA1503000009,"214    Princeton Ave & 47th St
-Name: start_station_name, dtype: object","214    41.809292
-Name: start_lat, dtype: float64","214   -87.633469
-Name: start_lng, dtype: float64"
-100,TA1305000005,"215    Dearborn St & Adams St
-Name: start_station_name, dtype: object","215    41.878987
-Name: start_lat, dtype: float64","215   -87.630043
-Name: start_lng, dtype: float64"
-101,15550,"216    Canal St & Taylor St
-Name: start_station_name, dtype: object","216    41.870257
-Name: start_lat, dtype: float64","216   -87.639474
-Name: start_lng, dtype: float64"
-102,KA1504000133,"217    Rush St & Cedar St
-Name: start_station_name, dtype: object","217    41.902309
-Name: start_lat, dtype: float64","217   -87.627691
-Name: start_lng, dtype: float64"
-103,16991,"220    Milwaukee Ave & Cuyler Ave
-Name: start_station_name, dtype: object","220    41.95447
-Name: start_lat, dtype: float64","220   -87.749524
-Name: start_lng, dtype: float64"
-104,TA1308000026,"221    Wentworth Ave & 24th St (Temp)
-Name: start_station_name, dtype: object","221    41.850084
-Name: start_lat, dtype: float64","221   -87.632141
-Name: start_lng, dtype: float64"
-105,KA1504000155,"222    2112 W Peterson Ave
-Name: start_station_name, dtype: object","222    41.991175
-Name: start_lat, dtype: float64","222   -87.683632
-Name: start_lng, dtype: float64"
-106,TA1307000153,"224    Emerald Ave & 28th St
-Name: start_station_name, dtype: object","224    41.84358
-Name: start_lat, dtype: float64","224   -87.645368
-Name: start_lng, dtype: float64"
-107,13217,"225    Calumet Ave & 33rd St
-Name: start_station_name, dtype: object","225    41.8349
-Name: start_lat, dtype: float64","225   -87.61793
-Name: start_lng, dtype: float64"
-108,TA1308000013,"228    Halsted St & Archer Ave
-Name: start_station_name, dtype: object","228    41.847203
-Name: start_lat, dtype: float64","228   -87.646795
-Name: start_lng, dtype: float64"
-109,13156,"235    Aberdeen St & Monroe St
-Name: start_station_name, dtype: object","235    41.880419
-Name: start_lat, dtype: float64","235   -87.655519
-Name: start_lng, dtype: float64"
-110,13165,"237    Racine Ave & 13th St
-Name: start_station_name, dtype: object","237    41.865066
-Name: start_lat, dtype: float64","237   -87.656986
-Name: start_lng, dtype: float64"
-111,TA1305000025,"238    Franklin St & Jackson Blvd
-Name: start_station_name, dtype: object","238    41.877708
-Name: start_lat, dtype: float64","238   -87.635321
-Name: start_lng, dtype: float64"
-112,TA1307000139,"240    MLK Jr Dr & 29th St
-Name: start_station_name, dtype: object","240    41.842052
-Name: start_lat, dtype: float64","240   -87.617
-Name: start_lng, dtype: float64"
-113,KA1503000066,"241    Wood St & 35th St
-Name: start_station_name, dtype: object","241    41.830178
-Name: start_lat, dtype: float64","241   -87.670339
-Name: start_lng, dtype: float64"
-114,15535,"244    Desplaines St & Randolph St
-Name: start_station_name, dtype: object","244    41.884579
-Name: start_lat, dtype: float64","244   -87.644385
-Name: start_lng, dtype: float64"
-115,13053,"245    Green St & Randolph St
-Name: start_station_name, dtype: object","245    41.883181
-Name: start_lat, dtype: float64","245   -87.648725
-Name: start_lng, dtype: float64"
-116,TA1308000045,"246    Wallace St & 35th St
-Name: start_station_name, dtype: object","246    41.831014
-Name: start_lat, dtype: float64","246   -87.641184
-Name: start_lng, dtype: float64"
-117,13033,"249    Milwaukee Ave & Grand Ave
-Name: start_station_name, dtype: object","249    41.891578
-Name: start_lat, dtype: float64","249   -87.648384
-Name: start_lng, dtype: float64"
-118,,"Series([], Name: end_station_name, dtype: object)","Series([], Name: end_lat, dtype: float64)","Series([], Name: end_lng, dtype: float64)"
-119,TA1307000070,"259    Damen Ave & Thomas St (Augusta Blvd)
-Name: start_station_name, dtype: object","259    41.901261
-Name: start_lat, dtype: float64","259   -87.67751
-Name: start_lng, dtype: float64"
-120,TA1307000120,"260    Green St & Madison St
-Name: start_station_name, dtype: object","260    41.881856
-Name: start_lat, dtype: float64","260   -87.648845
-Name: start_lng, dtype: float64"
-121,TA1305000035,"261    State St & Van Buren St
-Name: start_station_name, dtype: object","261    41.877181
-Name: start_lat, dtype: float64","261   -87.627844
-Name: start_lng, dtype: float64"
-122,TA1305000030,"262    Clark St & Randolph St
-Name: start_station_name, dtype: object","262    41.884576
-Name: start_lat, dtype: float64","262   -87.63189
-Name: start_lng, dtype: float64"
-123,13341,"265    Canal St & Madison St
-Name: start_station_name, dtype: object","265    41.882091
-Name: start_lat, dtype: float64","265   -87.639833
-Name: start_lng, dtype: float64"
-124,KA17018054,"267    Damen Ave & Walnut (Lake) St
-Name: start_station_name, dtype: object","267    41.885951
-Name: start_lat, dtype: float64","267   -87.677009
-Name: start_lng, dtype: float64"
-125,13001,"269    Michigan Ave & Washington St
-Name: start_station_name, dtype: object","269    41.883585
-Name: start_lat, dtype: float64","269   -87.623721
-Name: start_lng, dtype: float64"
-126,KA1504000079,"270    Larrabee St & Division St
-Name: start_station_name, dtype: object","270    41.903486
-Name: start_lat, dtype: float64","270   -87.643353
-Name: start_lng, dtype: float64"
-127,13036,"273    Michigan Ave & Madison St
-Name: start_station_name, dtype: object","273    41.882134
-Name: start_lat, dtype: float64","273   -87.625125
-Name: start_lng, dtype: float64"
-128,636,"281    Orleans St & Hubbard St
-Name: start_station_name, dtype: object","281    41.890028
-Name: start_lat, dtype: float64","281   -87.636618
-Name: start_lng, dtype: float64"
-129,TA1309000010,"285    Wabash Ave & 9th St
-Name: start_station_name, dtype: object","285    41.870769
-Name: start_lat, dtype: float64","285   -87.625734
-Name: start_lng, dtype: float64"
-130,13037,"286    Clinton St & Tilden St
-Name: start_station_name, dtype: object","286    41.875872
-Name: start_lat, dtype: float64","286   -87.640742
-Name: start_lng, dtype: float64"
-131,20.0,"288    Damen Ave & Wabansia Ave
-Name: start_station_name, dtype: object","288    41.91
-Name: start_lat, dtype: float64","288   -87.68
-Name: start_lng, dtype: float64"
-132,13068,"290    Western Ave & Winnebago Ave
-Name: start_station_name, dtype: object","290    41.91552
-Name: start_lat, dtype: float64","290   -87.687022
-Name: start_lng, dtype: float64"
-133,SL-012,"291    Wabash Ave & 16th St
-Name: start_station_name, dtype: object","291    41.860384
-Name: start_lat, dtype: float64","291   -87.625813
-Name: start_lng, dtype: float64"
-134,KA1503000005,"294    Wentworth Ave & 35th St
-Name: start_station_name, dtype: object","294    41.830777
-Name: start_lat, dtype: float64","294   -87.632504
-Name: start_lng, dtype: float64"
-135,TA1309000064,"304    Wolcott Ave & Polk St
-Name: start_station_name, dtype: object","304    41.871262
-Name: start_lat, dtype: float64","304   -87.673688
-Name: start_lng, dtype: float64"
-136,13285,"305    Wood St & Taylor St (Temp)
-Name: start_station_name, dtype: object","305    41.869265
-Name: start_lat, dtype: float64","305   -87.673731
-Name: start_lng, dtype: float64"
-137,18017,"309    Central Park Ave & Bloomingdale Ave
-Name: start_station_name, dtype: object","309    41.914152
-Name: start_lat, dtype: float64","309   -87.716736
-Name: start_lng, dtype: float64"
-138,13249,"314    Ashland Ave & Belle Plaine Ave
-Name: start_station_name, dtype: object","314    41.956095
-Name: start_lat, dtype: float64","314   -87.668953
-Name: start_lng, dtype: float64"
-139,15621,"316    Albany Ave & Montrose Ave
-Name: start_station_name, dtype: object","316    41.961041
-Name: start_lat, dtype: float64","316   -87.705866
-Name: start_lng, dtype: float64"
-140,TA1309000012,"318    Damen Ave & Sunnyside Ave
-Name: start_station_name, dtype: object","318    41.963267
-Name: start_lat, dtype: float64","318   -87.679296
-Name: start_lng, dtype: float64"
-141,13345,"322    Calumet Ave & 35th St
-Name: start_station_name, dtype: object","322    41.831379
-Name: start_lat, dtype: float64","322   -87.618034
-Name: start_lng, dtype: float64"
-142,13266,"325    Stave St & Armitage Ave
-Name: start_station_name, dtype: object","325    41.917757
-Name: start_lat, dtype: float64","325   -87.69144
-Name: start_lng, dtype: float64"
-143,TA1307000001,"328    Greenview Ave & Fullerton Ave
-Name: start_station_name, dtype: object","328    41.925446
-Name: start_lat, dtype: float64","328   -87.665824
-Name: start_lng, dtype: float64"
-144,13154,"330    Sheffield Ave & Kingsbury St
-Name: start_station_name, dtype: object","330    41.910522
-Name: start_lat, dtype: float64","330   -87.653106
-Name: start_lng, dtype: float64"
-145,KA1503000069,"335    Dorchester Ave & 49th St
-Name: start_station_name, dtype: object","335    41.805772
-Name: start_lat, dtype: float64","335   -87.592464
-Name: start_lng, dtype: float64"
-146,13085,"339    Kedzie Ave & Milwaukee Ave
-Name: start_station_name, dtype: object","339    41.929567
-Name: start_lat, dtype: float64","339   -87.707857
-Name: start_lng, dtype: float64"
-147,TA1305000034,"342    Honore St & Division St
-Name: start_station_name, dtype: object","342    41.903119
-Name: start_lat, dtype: float64","342   -87.673935
-Name: start_lng, dtype: float64"
-148,TA1309000023,"345    Sheffield Ave & Wrightwood Ave
-Name: start_station_name, dtype: object","345    41.928712
-Name: start_lat, dtype: float64","345   -87.653833
-Name: start_lng, dtype: float64"
-149,13216,"346    State St & 33rd St
-Name: start_station_name, dtype: object","346    41.834734
-Name: start_lat, dtype: float64","346   -87.625813
-Name: start_lng, dtype: float64"
-150,KA1503000070,"350    Harper Ave & 59th St
-Name: start_station_name, dtype: object","350    41.787943
-Name: start_lat, dtype: float64","350   -87.588315
-Name: start_lng, dtype: float64"
-151,TA1306000014,"353    Wilton Ave & Diversey Pkwy
-Name: start_station_name, dtype: object","353    41.932418
-Name: start_lat, dtype: float64","353   -87.652705
-Name: start_lng, dtype: float64"
-152,15650,"358    Spaulding Ave & Armitage Ave
-Name: start_station_name, dtype: object","358    41.917108
-Name: start_lat, dtype: float64","358   -87.710221
-Name: start_lng, dtype: float64"
-153,442,"359    Lincoln Ave & Balmoral Ave
-Name: start_station_name, dtype: object","359    41.98
-Name: start_lat, dtype: float64","359   -87.69
-Name: start_lng, dtype: float64"
-154,TA1308000001,"360    Theater on the Lake
-Name: start_station_name, dtype: object","360    41.926277
-Name: start_lat, dtype: float64","360   -87.630834
-Name: start_lng, dtype: float64"
-155,13091,"363    Western Ave & 21st St
-Name: start_station_name, dtype: object","363    41.854109
-Name: start_lat, dtype: float64","363   -87.685838
-Name: start_lng, dtype: float64"
-156,13132,"365    Damen Ave & Chicago Ave
-Name: start_station_name, dtype: object","365    41.895769
-Name: start_lat, dtype: float64","365   -87.67722
-Name: start_lng, dtype: float64"
-157,17660,"367    California Ave & Cortez St
-Name: start_station_name, dtype: object","367    41.90036
-Name: start_lat, dtype: float64","367   -87.69672
-Name: start_lng, dtype: float64"
-158,654,"374    Racine Ave & Washington Blvd
-Name: start_station_name, dtype: object","374    41.883093
-Name: start_lat, dtype: float64","374   -87.657034
-Name: start_lng, dtype: float64"
-159,18058,"379    Leavitt St & Chicago Ave
-Name: start_station_name, dtype: object","379    41.8955
-Name: start_lat, dtype: float64","379   -87.681989
-Name: start_lng, dtype: float64"
-160,13128,"381    Clark St & North Ave
-Name: start_station_name, dtype: object","381    41.911974
-Name: start_lat, dtype: float64","381   -87.631942
-Name: start_lng, dtype: float64"
-161,TA1307000143,"384    Sedgwick St & Schiller St
-Name: start_station_name, dtype: object","384    41.907695
-Name: start_lat, dtype: float64","384   -87.638565
-Name: start_lng, dtype: float64"
-162,TA1307000144,"385    Wolcott (Ravenswood) Ave & Montrose Ave
-Name: start_station_name, dtype: object","385    41.961406
-Name: start_lat, dtype: float64","385   -87.676169
-Name: start_lng, dtype: float64"
-163,13081,"398    Ogden Ave & Congress Pkwy
-Name: start_station_name, dtype: object","398    41.87501
-Name: start_lat, dtype: float64","398   -87.67328
-Name: start_lng, dtype: float64"
-164,TA1308000031,"401    Logan Blvd & Elston Ave
-Name: start_station_name, dtype: object","401    41.929481
-Name: start_lat, dtype: float64","401   -87.684185
-Name: start_lng, dtype: float64"
-165,TA1307000142,"421    Clark St & Drummond Pl
-Name: start_station_name, dtype: object","421    41.931214
-Name: start_lat, dtype: float64","421   -87.64428
-Name: start_lng, dtype: float64"
-166,13135,"431    Blue Island Ave & 18th St
-Name: start_station_name, dtype: object","431    41.857556
-Name: start_lat, dtype: float64","431   -87.661535
-Name: start_lng, dtype: float64"
-167,KA1503000041,"438    McClurg Ct & Erie St
-Name: start_station_name, dtype: object","438    41.894427
-Name: start_lat, dtype: float64","438   -87.617775
-Name: start_lng, dtype: float64"
-168,13150,"439    Michigan Ave & 18th St
-Name: start_station_name, dtype: object","439    41.857813
-Name: start_lat, dtype: float64","439   -87.62455
-Name: start_lng, dtype: float64"
-169,15640,"441    Avers Ave & Belmont Ave
-Name: start_station_name, dtype: object","441    41.939408
-Name: start_lat, dtype: float64","441   -87.723574
-Name: start_lng, dtype: float64"
-170,15654,"445    Spaulding Ave & Division St
-Name: start_station_name, dtype: object","445    41.902741
-Name: start_lat, dtype: float64","445   -87.709333
-Name: start_lng, dtype: float64"
-171,13242,"452    Milwaukee Ave & Rockwell St
-Name: start_station_name, dtype: object","452    41.920266
-Name: start_lat, dtype: float64","452   -87.692676
-Name: start_lng, dtype: float64"
-172,362.0,"460    Lawndale Ave & 16th St
-Name: start_station_name, dtype: object","460    41.86
-Name: start_lat, dtype: float64","460   -87.72
-Name: start_lng, dtype: float64"
-173,13420,"462    MLK Jr Dr & Pershing Rd
-Name: start_station_name, dtype: object","462    41.8246
-Name: start_lat, dtype: float64","462   -87.61678
-Name: start_lng, dtype: float64"
-174,KA1504000167,"472    Kedzie Ave & Bryn Mawr Ave
-Name: start_station_name, dtype: object","472    41.98223
-Name: start_lat, dtype: float64","472   -87.708887
-Name: start_lng, dtype: float64"
-175,KA1504000175,"473    Glenwood Ave & Morse Ave
-Name: start_station_name, dtype: object","473    42.007993
-Name: start_lat, dtype: float64","473   -87.665484
-Name: start_lng, dtype: float64"
-176,KA1503000007,"478    Cornell Ave & Hyde Park Blvd
-Name: start_station_name, dtype: object","478    41.802406
-Name: start_lat, dtype: float64","478   -87.586924
-Name: start_lng, dtype: float64"
-177,TA1307000158,"480    Damen Ave & Leland Ave
-Name: start_station_name, dtype: object","480    41.967094
-Name: start_lat, dtype: float64","480   -87.679028
-Name: start_lng, dtype: float64"
-178,13102,"491    Calumet Ave & 18th St
-Name: start_station_name, dtype: object","491    41.857624
-Name: start_lat, dtype: float64","491   -87.619434
-Name: start_lng, dtype: float64"
-179,KA1503000052,"495    Ellis Ave & 53rd St
-Name: start_station_name, dtype: object","495    41.799336
-Name: start_lat, dtype: float64","495   -87.600958
-Name: start_lng, dtype: float64"
-180,KA1503000045,"496    Stony Island Ave & 71st St
-Name: start_station_name, dtype: object","496    41.766528
-Name: start_lat, dtype: float64","496   -87.586479
-Name: start_lng, dtype: float64"
-181,KA1706005007,"501    Delano Ct & Roosevelt Rd
-Name: start_station_name, dtype: object","501    41.867491
-Name: start_lat, dtype: float64","501   -87.63219
-Name: start_lng, dtype: float64"
-182,TA1306000009,"510    Larrabee St & Kingsbury St
-Name: start_station_name, dtype: object","510    41.897632
-Name: start_lat, dtype: float64","510   -87.643388
-Name: start_lng, dtype: float64"
-183,369,"512    Central Park Ave & Ohio St
-Name: start_station_name, dtype: object","512    41.89
-Name: start_lat, dtype: float64","512   -87.72
-Name: start_lng, dtype: float64"
-184,13157,"551    Aberdeen St & Jackson Blvd
-Name: start_station_name, dtype: object","551    41.877726
-Name: start_lat, dtype: float64","551   -87.654787
-Name: start_lng, dtype: float64"
-185,515,"558    Paulina St & Howard St
-Name: start_station_name, dtype: object","558    42.019159
-Name: start_lat, dtype: float64","558   -87.673573
-Name: start_lng, dtype: float64"
-186,13289,"561    Eckhart Park
-Name: start_station_name, dtype: object","561    41.896373
-Name: start_lat, dtype: float64","561   -87.660984
-Name: start_lng, dtype: float64"
-187,20128,"569    S Wentworth Ave & W 111th St
-Name: start_station_name, dtype: object","569    41.69
-Name: start_lat, dtype: float64","569   -87.63
-Name: start_lng, dtype: float64"
-188,TA1305000039,"576    Elston Ave & Cortland St
-Name: start_station_name, dtype: object","576    41.916433
-Name: start_lat, dtype: float64","576   -87.666746
-Name: start_lng, dtype: float64"
-189,KA1503000023,"579    Stony Island Ave & 67th St
-Name: start_station_name, dtype: object","579    41.773458
-Name: start_lat, dtype: float64","579   -87.58534
-Name: start_lng, dtype: float64"
-190,13146,"581    Clark St & Armitage Ave
-Name: start_station_name, dtype: object","581    41.918306
-Name: start_lat, dtype: float64","581   -87.636282
-Name: start_lng, dtype: float64"
-191,13191,"588    Sedgwick St & Webster Ave
-Name: start_station_name, dtype: object","588    41.922209
-Name: start_lat, dtype: float64","588   -87.63901
-Name: start_lng, dtype: float64"
-192,13063,"590    Sheridan Rd & Irving Park Rd
-Name: start_station_name, dtype: object","590    41.954245
-Name: start_lat, dtype: float64","590   -87.654406
-Name: start_lng, dtype: float64"
-193,15539,"591    Desplaines St & Jackson Blvd
-Name: start_station_name, dtype: object","591    41.87809
-Name: start_lat, dtype: float64","591   -87.644197
-Name: start_lng, dtype: float64"
-194,KA17018068,"594    Leavitt St & Belmont Ave
-Name: start_station_name, dtype: object","594    41.93928
-Name: start_lat, dtype: float64","594   -87.683298
-Name: start_lng, dtype: float64"
-195,TA1309000041,"601    Sheridan Rd & Lawrence Ave
-Name: start_station_name, dtype: object","601    41.969491
-Name: start_lat, dtype: float64","601   -87.654681
-Name: start_lng, dtype: float64"
-196,TA1309000030,"604    Southport Ave & Clybourn Ave
-Name: start_station_name, dtype: object","604    41.920771
-Name: start_lat, dtype: float64","604   -87.663712
-Name: start_lng, dtype: float64"
-197,13257,"615    Campbell Ave & North Ave
-Name: start_station_name, dtype: object","615    41.910535
-Name: start_lat, dtype: float64","615   -87.689556
-Name: start_lng, dtype: float64"
-198,21544,"637    State St & Chicago Ave
-Name: start_station_name, dtype: object","637    41.896617
-Name: start_lat, dtype: float64","637   -87.628579
-Name: start_lng, dtype: float64"
-199,643,"644    Smith Park
-Name: start_station_name, dtype: object","644    41.892083
-Name: start_lat, dtype: float64","644   -87.689415
-Name: start_lng, dtype: float64"
-200,TA1306000008,"657    Larrabee St & North Ave
-Name: start_station_name, dtype: object","657    41.910213
-Name: start_lat, dtype: float64","657   -87.64349
-Name: start_lng, dtype: float64"
-201,15534,"679    Field Blvd & South Water St
-Name: start_station_name, dtype: object","679    41.88578
-Name: start_lat, dtype: float64","679   -87.617231
-Name: start_lng, dtype: float64"
-202,TA1307000111,"689    Franklin St & Lake St
-Name: start_station_name, dtype: object","689    41.885837
-Name: start_lat, dtype: float64","689   -87.6355
-Name: start_lng, dtype: float64"
-203,13326,"690    Canal St & Harrison St
-Name: start_station_name, dtype: object","690    41.874275
-Name: start_lat, dtype: float64","690   -87.639576
-Name: start_lng, dtype: float64"
-204,20246.0,"703    N Green St & W Lake St
-Name: start_station_name, dtype: object","703    41.89
-Name: start_lat, dtype: float64","703   -87.65
-Name: start_lng, dtype: float64"
-205,13427,"717    Cityfront Plaza Dr & Pioneer Ct
-Name: start_station_name, dtype: object","717    41.890573
-Name: start_lat, dtype: float64","717   -87.622072
-Name: start_lng, dtype: float64"
-206,658,"726    Leavitt St & Division St
-Name: start_station_name, dtype: object","726    41.902997
-Name: start_lat, dtype: float64","726   -87.683825
-Name: start_lng, dtype: float64"
-207,13389,"738    Clarendon Ave & Junior Ter
-Name: start_station_name, dtype: object","738    41.961004
-Name: start_lat, dtype: float64","738   -87.649603
-Name: start_lng, dtype: float64"
-208,13243,"742    Milwaukee Ave & Wabansia Ave
-Name: start_station_name, dtype: object","742    41.912633
-Name: start_lat, dtype: float64","742   -87.681477
-Name: start_lng, dtype: float64"
-209,15544,"747    Shedd Aquarium
-Name: start_station_name, dtype: object","747    41.867253
-Name: start_lat, dtype: float64","747   -87.615377
-Name: start_lng, dtype: float64"
-210,KA1503000064,"781    Dusable Harbor
-Name: start_station_name, dtype: object","781    41.886976
-Name: start_lat, dtype: float64","781   -87.612813
-Name: start_lng, dtype: float64"
-211,TA1305000017,"800    Halsted St & Roosevelt Rd
-Name: start_station_name, dtype: object","800    41.867324
-Name: start_lat, dtype: float64","800   -87.648625
-Name: start_lng, dtype: float64"
-212,13229,"818    Southport Ave & Belmont Ave
-Name: start_station_name, dtype: object","818    41.939478
-Name: start_lat, dtype: float64","818   -87.663748
-Name: start_lng, dtype: float64"
-213,18003,"836    Fairbanks St & Superior St
-Name: start_station_name, dtype: object","836    41.895748
-Name: start_lat, dtype: float64","836   -87.620104
-Name: start_lng, dtype: float64"
-214,15668,"840    Western Ave & Congress Pkwy
-Name: start_station_name, dtype: object","840    41.874602
-Name: start_lat, dtype: float64","840   -87.6863
-Name: start_lng, dtype: float64"
-215,13045,"843    Dearborn St & Erie St
-Name: start_station_name, dtype: object","843    41.893992
-Name: start_lat, dtype: float64","843   -87.629318
-Name: start_lng, dtype: float64"
-216,13160,"845    May St & Taylor St
-Name: start_station_name, dtype: object","845    41.869482
-Name: start_lat, dtype: float64","845   -87.655486
-Name: start_lng, dtype: float64"
-217,TA1309000067,"857    Cottage Grove Ave & 51st St
-Name: start_station_name, dtype: object","857    41.803038
-Name: start_lat, dtype: float64","857   -87.606615
-Name: start_lng, dtype: float64"
-218,13080,"860    Hermitage Ave & Polk St
-Name: start_station_name, dtype: object","860    41.8715
-Name: start_lat, dtype: float64","860   -87.670012
-Name: start_lng, dtype: float64"
-219,13028,"861    900 W Harrison St
-Name: start_station_name, dtype: object","861    41.874779
-Name: start_lat, dtype: float64","861   -87.649842
-Name: start_lng, dtype: float64"
-220,TA1309000059,"871    Racine Ave & Wrightwood Ave
-Name: start_station_name, dtype: object","871    41.928887
-Name: start_lat, dtype: float64","871   -87.658971
-Name: start_lng, dtype: float64"
-221,KA1503000002,"879    South Shore Dr & 71st St
-Name: start_station_name, dtype: object","879    41.766409
-Name: start_lat, dtype: float64","879   -87.565688
-Name: start_lng, dtype: float64"
-222,KA1503000054,"883    Cottage Grove Ave & 63rd St
-Name: start_station_name, dtype: object","883    41.780601
-Name: start_lat, dtype: float64","883   -87.605836
-Name: start_lng, dtype: float64"
-223,13323,"884    Broadway & Sheridan Rd
-Name: start_station_name, dtype: object","884    41.952833
-Name: start_lat, dtype: float64","884   -87.649993
-Name: start_lng, dtype: float64"
-224,KA1504000103,"886    Western Ave & Walton St
-Name: start_station_name, dtype: object","886    41.898418
-Name: start_lat, dtype: float64","886   -87.686596
-Name: start_lng, dtype: float64"
-225,KA1504000146,"887    Clark St & Berwyn Ave
-Name: start_station_name, dtype: object","887    41.978031
-Name: start_lat, dtype: float64","887   -87.668565
-Name: start_lng, dtype: float64"
-226,15624,"888    Avondale Ave & Irving Park Rd
-Name: start_station_name, dtype: object","888    41.953378
-Name: start_lat, dtype: float64","888   -87.732083
-Name: start_lng, dtype: float64"
-227,TA1309000008,"904    Franklin St & Adams St (Temp)
-Name: start_station_name, dtype: object","904    41.878769
-Name: start_lat, dtype: float64","904   -87.635927
-Name: start_lng, dtype: float64"
-228,TA1309000035,"905    Clark St & Winnemac Ave
-Name: start_station_name, dtype: object","905    41.973334
-Name: start_lat, dtype: float64","905   -87.667897
-Name: start_lng, dtype: float64"
-229,13134,"918    Damen Ave & Madison St
-Name: start_station_name, dtype: object","918    41.881423
-Name: start_lat, dtype: float64","918   -87.674977
-Name: start_lng, dtype: float64"
-230,KA1503000022,"921    Clark St & Montrose Ave
-Name: start_station_name, dtype: object","921    41.961588
-Name: start_lat, dtype: float64","921   -87.666036
-Name: start_lng, dtype: float64"
-231,KA150400009X,"927    Kimball Ave & Belmont Ave
-Name: start_station_name, dtype: object","927    41.939398
-Name: start_lat, dtype: float64","927   -87.711561
-Name: start_lng, dtype: float64"
-232,644,"937    Western Ave & Fillmore St
-Name: start_station_name, dtype: object","937    41.868626
-Name: start_lat, dtype: float64","937   -87.686233
-Name: start_lng, dtype: float64"
-233,TA1307000161,"939    Halsted St & 37th St
-Name: start_station_name, dtype: object","939    41.827059
-Name: start_lat, dtype: float64","939   -87.64572
-Name: start_lng, dtype: float64"
-234,KA1504000116,"943    Larrabee St & Oak St
-Name: start_station_name, dtype: object","943    41.900255
-Name: start_lat, dtype: float64","943   -87.643
-Name: start_lng, dtype: float64"
-235,620,"960    Orleans St & Chestnut St (NEXT Apts)
-Name: start_station_name, dtype: object","960    41.898203
-Name: start_lat, dtype: float64","960   -87.637536
-Name: start_lng, dtype: float64"
-236,TA1307000159,"967    Paulina St & 18th St
-Name: start_station_name, dtype: object","967    41.857901
-Name: start_lat, dtype: float64","967   -87.668745
-Name: start_lng, dtype: float64"
-237,13164,"968    Racine Ave & 18th St
-Name: start_station_name, dtype: object","968    41.858166
-Name: start_lat, dtype: float64","968   -87.656495
-Name: start_lng, dtype: float64"
-238,TA1309000003,"969    Western Ave & 24th St
-Name: start_station_name, dtype: object","969    41.84847
-Name: start_lat, dtype: float64","969   -87.685109
-Name: start_lng, dtype: float64"
-239,632,"974    Clark St & Newport St
-Name: start_station_name, dtype: object","974    41.94454
-Name: start_lat, dtype: float64","974   -87.654678
-Name: start_lng, dtype: float64"
-240,TA1309000050,"981    Lincoln Ave & Addison St
-Name: start_station_name, dtype: object","981    41.946279
-Name: start_lat, dtype: float64","981   -87.673359
-Name: start_lng, dtype: float64"
-241,KA1504000130,"993    Maplewood Ave & Peterson Ave
-Name: start_station_name, dtype: object","993    41.990236
-Name: start_lat, dtype: float64","993   -87.69337
-Name: start_lng, dtype: float64"
-242,E014,"1005    Lincolnwood Dr & Central St
-Name: start_station_name, dtype: object","1005    42.064854
-Name: start_lat, dtype: float64","1005   -87.715297
-Name: start_lng, dtype: float64"
-243,13263,"1008    Columbus Dr & Randolph St
-Name: start_station_name, dtype: object","1008    41.884728
-Name: start_lat, dtype: float64","1008   -87.619521
-Name: start_lng, dtype: float64"
-244,KA1503000032,"1054    Union Ave & Root St
-Name: start_station_name, dtype: object","1054    41.81915
-Name: start_lat, dtype: float64","1054   -87.643309
-Name: start_lng, dtype: float64"
-245,623,"1055    Michigan Ave & 8th St
-Name: start_station_name, dtype: object","1055    41.872773
-Name: start_lat, dtype: float64","1055   -87.623981
-Name: start_lng, dtype: float64"
-246,13011,"1057    Canal St & Adams St
-Name: start_station_name, dtype: object","1057    41.879255
-Name: start_lat, dtype: float64","1057   -87.639904
-Name: start_lng, dtype: float64"
-247,15445,"1061    Wentworth Ave & 33rd St
-Name: start_station_name, dtype: object","1061    41.83453
-Name: start_lat, dtype: float64","1061   -87.631823
-Name: start_lng, dtype: float64"
-248,13325,"1063    Broadway & Waveland Ave
-Name: start_station_name, dtype: object","1063    41.949074
-Name: start_lat, dtype: float64","1063   -87.648636
-Name: start_lng, dtype: float64"
-249,16906,"1066    Austin Blvd & Lake St
-Name: start_station_name, dtype: object","1066    41.887915
-Name: start_lat, dtype: float64","1066   -87.774372
-Name: start_lng, dtype: float64"
-250,13075,"1078    Wentworth Ave & Cermak Rd
-Name: start_station_name, dtype: object","1078    41.853085
-Name: start_lat, dtype: float64","1078   -87.631931
-Name: start_lng, dtype: float64"
-251,TA1307000115,"1082    Clybourn Ave & Division St
-Name: start_station_name, dtype: object","1082    41.904613
-Name: start_lat, dtype: float64","1082   -87.640552
-Name: start_lng, dtype: float64"
-252,13162,"1084    Halsted St & 21st St
-Name: start_station_name, dtype: object","1084    41.85378
-Name: start_lat, dtype: float64","1084   -87.646603
-Name: start_lng, dtype: float64"
-253,15655,"1085    Albany Ave & Bloomingdale Ave
-Name: start_station_name, dtype: object","1085    41.913977
-Name: start_lat, dtype: float64","1085   -87.705158
-Name: start_lng, dtype: float64"
-254,13379,"1087    Clarendon Ave & Gordon Ter
-Name: start_station_name, dtype: object","1087    41.957777
-Name: start_lat, dtype: float64","1087   -87.649529
-Name: start_lng, dtype: float64"
-255,KA1504000140,"1089    Winchester Ave & Elston Ave
-Name: start_station_name, dtype: object","1089    41.924091
-Name: start_lat, dtype: float64","1089   -87.67646
-Name: start_lng, dtype: float64"
-256,KA1504000127,"1091    Manor Ave & Leland Ave
-Name: start_station_name, dtype: object","1091    41.965875
-Name: start_lat, dtype: float64","1091   -87.700825
-Name: start_lng, dtype: float64"
-257,TA1305000014,"1100    Clark St & Wrightwood Ave
-Name: start_station_name, dtype: object","1100    41.92966
-Name: start_lat, dtype: float64","1100   -87.643065
-Name: start_lng, dtype: float64"
-258,13022,"1101    Streeter Dr & Grand Ave
-Name: start_station_name, dtype: object","1101    41.892278
-Name: start_lat, dtype: float64","1101   -87.612043
-Name: start_lng, dtype: float64"
-259,13074,"1103    Broadway & Wilson - Truman College Vaccination...
-Name: start_station_name, dtype: object","1103    41.965221
-Name: start_lat, dtype: float64","1103   -87.658139
-Name: start_lng, dtype: float64"
-260,KA1504000078,"1107    Lincoln Ave & Winona St
-Name: start_station_name, dtype: object","1107    41.974887
-Name: start_lat, dtype: float64","1107   -87.692696
-Name: start_lng, dtype: float64"
-261,TA1308000014,"1112    Normal Ave & Archer Ave
-Name: start_station_name, dtype: object","1112    41.849527
-Name: start_lat, dtype: float64","1112   -87.640591
-Name: start_lng, dtype: float64"
-262,TA1309000036,"1113    Burling St & Diversey Pkwy
-Name: start_station_name, dtype: object","1113    41.93314
-Name: start_lat, dtype: float64","1113   -87.64776
-Name: start_lng, dtype: float64"
-263,15443,"1114    Shields Ave & 28th Pl
-Name: start_station_name, dtype: object","1114    41.842733
-Name: start_lat, dtype: float64","1114   -87.635491
-Name: start_lng, dtype: float64"
-264,312,"1115    Lockwood Ave & Wrightwood Ave
-Name: start_station_name, dtype: object","1115    41.93
-Name: start_lat, dtype: float64","1115   -87.76
-Name: start_lng, dtype: float64"
-265,TA1307000062,"1116    Sedgwick St & Huron St
-Name: start_station_name, dtype: object","1116    41.894666
-Name: start_lat, dtype: float64","1116   -87.638437
-Name: start_lng, dtype: float64"
-266,TA1309000049,"1117    DuSable Lake Shore Dr & Belmont Ave
-Name: start_station_name, dtype: object","1117    41.940775
-Name: start_lat, dtype: float64","1117   -87.639192
-Name: start_lng, dtype: float64"
-267,TA1307000039,"1118    Clark St & Elm St
-Name: start_station_name, dtype: object","1118    41.902973
-Name: start_lat, dtype: float64","1118   -87.63128
-Name: start_lng, dtype: float64"
-268,13109,"1119    Broadway & Berwyn Ave
-Name: start_station_name, dtype: object","1119    41.978353
-Name: start_lat, dtype: float64","1119   -87.659753
-Name: start_lng, dtype: float64"
-269,KA1503000065,"1126    Woodlawn Ave & Lake Park Ave
-Name: start_station_name, dtype: object","1126    41.814093
-Name: start_lat, dtype: float64","1126   -87.597005
-Name: start_lng, dtype: float64"
-270,KA1504000152,"1130    Lakefront Trail & Bryn Mawr Ave
-Name: start_station_name, dtype: object","1130    41.984037
-Name: start_lat, dtype: float64","1130   -87.65231
-Name: start_lng, dtype: float64"
-271,KA1503000027,"1144    Prairie Ave & 43rd St
-Name: start_station_name, dtype: object","1144    41.816659
-Name: start_lat, dtype: float64","1144   -87.619412
-Name: start_lng, dtype: float64"
-272,527,"1146    Western Ave & Howard St
-Name: start_station_name, dtype: object","1146    42.019008
-Name: start_lat, dtype: float64","1146   -87.689989
-Name: start_lng, dtype: float64"
-273,TA1306000002,"1152    Morgan Ave & 14th Pl
-Name: start_station_name, dtype: object","1152    41.862378
-Name: start_lat, dtype: float64","1152   -87.651062
-Name: start_lng, dtype: float64"
-274,556,"1158    Throop St & 52nd St
-Name: start_station_name, dtype: object","1158    41.799673
-Name: start_lat, dtype: float64","1158   -87.657228
-Name: start_lng, dtype: float64"
-275,TA1309000053,"1164    Cottage Grove Ave & 47th St
-Name: start_station_name, dtype: object","1164    41.809855
-Name: start_lat, dtype: float64","1164   -87.606755
-Name: start_lng, dtype: float64"
-276,TA1307000164,"1173    Woodlawn Ave & 55th St
-Name: start_station_name, dtype: object","1173    41.795264
-Name: start_lat, dtype: float64","1173   -87.596471
-Name: start_lng, dtype: float64"
-277,TA1309000037,"1179    Kimbark Ave & 53rd St
-Name: start_station_name, dtype: object","1179    41.799568
-Name: start_lat, dtype: float64","1179   -87.594747
-Name: start_lng, dtype: float64"
-278,KA1503000029,"1181    South Shore Dr & 67th St
-Name: start_station_name, dtype: object","1181    41.773643
-Name: start_lat, dtype: float64","1181   -87.567514
-Name: start_lng, dtype: float64"
-279,KA1504000134,"1185    Ritchie Ct & Banks St
-Name: start_station_name, dtype: object","1185    41.906866
-Name: start_lat, dtype: float64","1185   -87.626217
-Name: start_lng, dtype: float64"
-280,13268,"1196    Damen Ave & Wellington Ave
-Name: start_station_name, dtype: object","1196    41.93588
-Name: start_lat, dtype: float64","1196   -87.67842
-Name: start_lng, dtype: float64"
-281,TA1309000021,"1202    Paulina St & Montrose Ave
-Name: start_station_name, dtype: object","1202    41.961507
-Name: start_lat, dtype: float64","1202   -87.671387
-Name: start_lng, dtype: float64"
-282,358,"1207    Kilpatrick Ave & Parker Ave
-Name: start_station_name, dtype: object","1207    41.93
-Name: start_lat, dtype: float64","1207   -87.74
-Name: start_lng, dtype: float64"
-283,13084,"1209    California Ave & Milwaukee Ave
-Name: start_station_name, dtype: object","1209    41.92264
-Name: start_lat, dtype: float64","1209   -87.6971
-Name: start_lng, dtype: float64"
-284,KA1504000093,"1214    Rockwell St & Eastwood Ave
-Name: start_station_name, dtype: object","1214    41.96586
-Name: start_lat, dtype: float64","1214   -87.693649
-Name: start_lng, dtype: float64"
-285,13248,"1217    Ashland Ave & Augusta Blvd
-Name: start_station_name, dtype: object","1217    41.89961
-Name: start_lat, dtype: float64","1217   -87.668419
-Name: start_lng, dtype: float64"
-286,TA1307000163,"1227    Clifton Ave & Armitage Ave
-Name: start_station_name, dtype: object","1227    41.918129
-Name: start_lat, dtype: float64","1227   -87.657048
-Name: start_lng, dtype: float64"
-287,TA1307000064,"1231    Lincoln Ave & Diversey Pkwy
-Name: start_station_name, dtype: object","1231    41.932186
-Name: start_lat, dtype: float64","1231   -87.658619
-Name: start_lng, dtype: float64"
-288,13303,"1236    Clark St & Chicago Ave
-Name: start_station_name, dtype: object","1236    41.896563
-Name: start_lat, dtype: float64","1236   -87.630953
-Name: start_lng, dtype: float64"
-289,TA1309000019,"1243    Lakeview Ave & Fullerton Pkwy
-Name: start_station_name, dtype: object","1243    41.925858
-Name: start_lat, dtype: float64","1243   -87.638973
-Name: start_lng, dtype: float64"
-290,13017,"1246    Franklin St & Chicago Ave
-Name: start_station_name, dtype: object","1246    41.896848
-Name: start_lat, dtype: float64","1246   -87.635734
-Name: start_lng, dtype: float64"
-291,KA1504000102,"1255    Fairfield Ave & Roosevelt Rd
-Name: start_station_name, dtype: object","1255    41.866629
-Name: start_lat, dtype: float64","1255   -87.694508
-Name: start_lng, dtype: float64"
-292,RP-008,"1277    Clark St & Columbia Ave
-Name: start_station_name, dtype: object","1277    42.004451
-Name: start_lat, dtype: float64","1277   -87.672402
-Name: start_lng, dtype: float64"
-293,517,"1278    Clark St & Jarvis Ave
-Name: start_station_name, dtype: object","1278    42.015912
-Name: start_lat, dtype: float64","1278   -87.674976
-Name: start_lng, dtype: float64"
-294,13197,"1284    Elizabeth (May) St & Fulton St
-Name: start_station_name, dtype: object","1284    41.886563
-Name: start_lat, dtype: float64","1284   -87.658464
-Name: start_lng, dtype: float64"
-295,TA1306000013,"1285    New St & Illinois St
-Name: start_station_name, dtype: object","1285    41.89103
-Name: start_lat, dtype: float64","1285   -87.618124
-Name: start_lng, dtype: float64"
-296,523,"1289    Eastlake Ter & Rogers Ave
-Name: start_station_name, dtype: object","1289    42.020887
-Name: start_lat, dtype: float64","1289   -87.665058
-Name: start_lng, dtype: float64"
-297,13307,"1324    Laflin St & Cullerton St
-Name: start_station_name, dtype: object","1324    41.854877
-Name: start_lat, dtype: float64","1324   -87.663601
-Name: start_lng, dtype: float64"
-298,TA1307000151,"1335    Wells St & Hubbard St
-Name: start_station_name, dtype: object","1335    41.889906
-Name: start_lat, dtype: float64","1335   -87.634266
-Name: start_lng, dtype: float64"
-299,TA1307000006,"1338    Southport Ave & Wellington Ave
-Name: start_station_name, dtype: object","1338    41.935733
-Name: start_lat, dtype: float64","1338   -87.663576
-Name: start_lng, dtype: float64"
-300,TA1308000029,"1357    Stetson Ave & South Water St
-Name: start_station_name, dtype: object","1357    41.886835
-Name: start_lat, dtype: float64","1357   -87.62232
-Name: start_lng, dtype: float64"
-301,13224,"1362    Ashland Ave & Blackhawk St
-Name: start_station_name, dtype: object","1362    41.907066
-Name: start_lat, dtype: float64","1362   -87.667252
-Name: start_lng, dtype: float64"
-302,RP-001,"1373    Warren Park West
-Name: start_station_name, dtype: object","1373    42.001785
-Name: start_lat, dtype: float64","1373   -87.688829
-Name: start_lng, dtype: float64"
-303,KA1504000149,"1375    Damen Ave & Foster Ave
-Name: start_station_name, dtype: object","1375    41.975615
-Name: start_lat, dtype: float64","1375   -87.679459
-Name: start_lng, dtype: float64"
-304,KA1503000011,"1376    Halsted St & 56th St
-Name: start_station_name, dtype: object","1376    41.79293
-Name: start_lat, dtype: float64","1376   -87.64499
-Name: start_lng, dtype: float64"
-305,605,"1381    University Library (NU)
-Name: start_station_name, dtype: object","1381    42.052939
-Name: start_lat, dtype: float64","1381   -87.673447
-Name: start_lng, dtype: float64"
-306,TA1309000032,"1398    Elston Ave & Wabansia Ave
-Name: start_station_name, dtype: object","1398    41.912927
-Name: start_lat, dtype: float64","1398   -87.664204
-Name: start_lng, dtype: float64"
-307,514,"1399    Ridge Blvd & Howard St
-Name: start_station_name, dtype: object","1399    42.019276
-Name: start_lat, dtype: float64","1399   -87.68452
-Name: start_lng, dtype: float64"
-308,KA1504000128,"1406    Kedzie Ave & Foster Ave
-Name: start_station_name, dtype: object","1406    41.975679
-Name: start_lat, dtype: float64","1406   -87.709339
-Name: start_lng, dtype: float64"
-309,662,"1423    Dodge Ave & Mulford St
-Name: start_station_name, dtype: object","1423    42.023463
-Name: start_lat, dtype: float64","1423   -87.699595
-Name: start_lng, dtype: float64"
-310,15623,"1425    Campbell Ave & Montrose Ave
-Name: start_station_name, dtype: object","1425    41.961526
-Name: start_lat, dtype: float64","1425   -87.691165
-Name: start_lng, dtype: float64"
-311,TA1309000066,"1429    Ravenswood Ave & Lawrence Ave
-Name: start_station_name, dtype: object","1429    41.96909
-Name: start_lat, dtype: float64","1429   -87.674237
-Name: start_lng, dtype: float64"
-312,TA1307000140,"1434    Western Ave & Leland Ave
-Name: start_station_name, dtype: object","1434    41.96645
-Name: start_lat, dtype: float64","1434   -87.688672
-Name: start_lng, dtype: float64"
-313,TA1305000006,"1439    Dearborn St & Monroe St
-Name: start_station_name, dtype: object","1439    41.881254
-Name: start_lat, dtype: float64","1439   -87.629843
-Name: start_lng, dtype: float64"
-314,TA1308000022,"1440    Pine Grove Ave & Irving Park Rd
-Name: start_station_name, dtype: object","1440    41.954406
-Name: start_lat, dtype: float64","1440   -87.648068
-Name: start_lng, dtype: float64"
-315,15585,"1441    Budlong Woods Library
-Name: start_station_name, dtype: object","1441    41.983665
-Name: start_lat, dtype: float64","1441   -87.696423
-Name: start_lng, dtype: float64"
-316,660,"1443    Sheridan Rd & Columbia Ave
-Name: start_station_name, dtype: object","1443    42.004583
-Name: start_lat, dtype: float64","1443   -87.661498
-Name: start_lng, dtype: float64"
-317,520,"1450    Greenview Ave & Jarvis Ave
-Name: start_station_name, dtype: object","1450    42.015962
-Name: start_lat, dtype: float64","1450   -87.66857
-Name: start_lng, dtype: float64"
-318,600,"1451    Dodge Ave & Church St
-Name: start_station_name, dtype: object","1451    42.048308
-Name: start_lat, dtype: float64","1451   -87.698224
-Name: start_lng, dtype: float64"
-319,598,"1453    Elmwood Ave & Austin St
-Name: start_station_name, dtype: object","1453    42.025784
-Name: start_lat, dtype: float64","1453   -87.684107
-Name: start_lng, dtype: float64"
-320,384,"1455    Kedzie Ave & 52nd St
-Name: start_station_name, dtype: object","1455    41.8
-Name: start_lat, dtype: float64","1455   -87.7
-Name: start_lng, dtype: float64"
-321,20254.0,"1474    W Armitage Ave & N Sheffield Ave
-Name: start_station_name, dtype: object","1474    41.92
-Name: start_lat, dtype: float64","1474   -87.65
-Name: start_lng, dtype: float64"
-322,13431,"1489    Adler Planetarium
-Name: start_station_name, dtype: object","1489    41.866095
-Name: start_lat, dtype: float64","1489   -87.607267
-Name: start_lng, dtype: float64"
-323,20208,"1490    Major Taylor Trail & 124th St
-Name: start_station_name, dtype: object","1490    41.668696
-Name: start_lat, dtype: float64","1490   -87.637113
-Name: start_lng, dtype: float64"
-324,RP-009,"1504    Sheridan Rd & Loyola Ave
-Name: start_station_name, dtype: object","1504    42.001044
-Name: start_lat, dtype: float64","1504   -87.661198
-Name: start_lng, dtype: float64"
-325,RP-007,"1519    Clark St & Touhy Ave
-Name: start_station_name, dtype: object","1519    42.01256
-Name: start_lat, dtype: float64","1519   -87.674367
-Name: start_lng, dtype: float64"
-326,13192,"1529    Halsted St & Dickens Ave
-Name: start_station_name, dtype: object","1529    41.920156
-Name: start_lat, dtype: float64","1529   -87.648794
-Name: start_lng, dtype: float64"
-327,18069,"1537    Cherry Ave & Blackhawk St
-Name: start_station_name, dtype: object","1537    41.907221
-Name: start_lat, dtype: float64","1537   -87.655618
-Name: start_lng, dtype: float64"
-328,13137,"1545    Broadway & Barry Ave
-Name: start_station_name, dtype: object","1545    41.937582
-Name: start_lat, dtype: float64","1545   -87.644098
-Name: start_lng, dtype: float64"
-329,KA1504000162,"1546    Clark St & Lunt Ave
-Name: start_station_name, dtype: object","1546    42.009102
-Name: start_lat, dtype: float64","1546   -87.674144
-Name: start_lng, dtype: float64"
-330,TA1309000033,"1581    Sheffield Ave & Webster Ave
-Name: start_station_name, dtype: object","1581    41.92174
-Name: start_lat, dtype: float64","1581   -87.653849
-Name: start_lng, dtype: float64"
-331,TA1305000009,"1584    Clark St & Ida B Wells Dr
-Name: start_station_name, dtype: object","1584    41.875627
-Name: start_lat, dtype: float64","1584   -87.631183
-Name: start_lng, dtype: float64"
-332,13276,"1586    Stockton Dr & Wrightwood Ave
-Name: start_station_name, dtype: object","1586    41.931384
-Name: start_lat, dtype: float64","1586   -87.638724
-Name: start_lng, dtype: float64"
-333,KA1504000091,"1595    Hoyne Ave & 47th St
-Name: start_station_name, dtype: object","1595    41.808217
-Name: start_lat, dtype: float64","1595   -87.677184
-Name: start_lng, dtype: float64"
-334,15685,"1599    Central Park Ave & Ogden Ave
-Name: start_station_name, dtype: object","1599    41.853886
-Name: start_lat, dtype: float64","1599   -87.714984
-Name: start_lng, dtype: float64"
-335,KA1504000106,"1603    Kedzie Ave & Lake St
-Name: start_station_name, dtype: object","1603    41.884603
-Name: start_lat, dtype: float64","1603   -87.706304
-Name: start_lng, dtype: float64"
-336,TA1305000041,"1604    Damen Ave & Pierce Ave
-Name: start_station_name, dtype: object","1604    41.909404
-Name: start_lat, dtype: float64","1604   -87.677653
-Name: start_lng, dtype: float64"
-337,15578,"1612    Broadway & Ridge Ave
-Name: start_station_name, dtype: object","1612    41.984045
-Name: start_lat, dtype: float64","1612   -87.660274
-Name: start_lng, dtype: float64"
-338,KA1503000043,"1623    Kingsbury St & Kinzie St
-Name: start_station_name, dtype: object","1623    41.889177
-Name: start_lat, dtype: float64","1623   -87.638506
-Name: start_lng, dtype: float64"
-339,435,"1626    Rockwell St & Fletcher St
-Name: start_station_name, dtype: object","1626    41.94
-Name: start_lat, dtype: float64","1626   -87.69
-Name: start_lng, dtype: float64"
-340,604,"1630    Sheridan Rd & Noyes St (NU)
-Name: start_station_name, dtype: object","1630    42.058239
-Name: start_lat, dtype: float64","1630   -87.677432
-Name: start_lng, dtype: float64"
-341,15632,"1648    Talman Ave & Addison St
-Name: start_station_name, dtype: object","1648    41.946668
-Name: start_lat, dtype: float64","1648   -87.694584
-Name: start_lng, dtype: float64"
-342,16940,"1655    Ashland Ave & 50th St
-Name: start_station_name, dtype: object","1655    41.803023
-Name: start_lat, dtype: float64","1655   -87.664699
-Name: start_lng, dtype: float64"
-343,15529,"1660    Mies van der Rohe Way & Chestnut St
-Name: start_station_name, dtype: object","1660    41.898587
-Name: start_lat, dtype: float64","1660   -87.621915
-Name: start_lng, dtype: float64"
-344,KA1503000044,"1696    Rush St & Hubbard St
-Name: start_station_name, dtype: object","1696    41.890173
-Name: start_lat, dtype: float64","1696   -87.626185
-Name: start_lng, dtype: float64"
-345,15634,"1699    Western Ave & Roscoe St
-Name: start_station_name, dtype: object","1699    41.942999
-Name: start_lat, dtype: float64","1699   -87.687281
-Name: start_lng, dtype: float64"
-346,KA1504000148,"1700    Clark St & Elmdale Ave
-Name: start_station_name, dtype: object","1700    41.99086
-Name: start_lat, dtype: float64","1700   -87.669724
-Name: start_lng, dtype: float64"
-347,KA1503000014,"1708    Ellis Ave & 60th St
-Name: start_station_name, dtype: object","1708    41.785097
-Name: start_lat, dtype: float64","1708   -87.601073
-Name: start_lng, dtype: float64"
-348,13206,"1710    Loomis St & Jackson Blvd
-Name: start_station_name, dtype: object","1710    41.877882
-Name: start_lat, dtype: float64","1710   -87.66197
-Name: start_lng, dtype: float64"
-349,TA1307000044,"1714    Clinton St & 18th St
-Name: start_station_name, dtype: object","1714    41.85795
-Name: start_lat, dtype: float64","1714   -87.640826
-Name: start_lng, dtype: float64"
-350,20202,"1718    W 103rd St & S Avers Ave
-Name: start_station_name, dtype: object","1718    41.71
-Name: start_lat, dtype: float64","1718   -87.72
-Name: start_lng, dtype: float64"
-351,13213,"1724    State St & 29th St
-Name: start_station_name, dtype: object","1724    41.841707
-Name: start_lat, dtype: float64","1724   -87.626938
-Name: start_lng, dtype: float64"
-352,KA1706005015,"1740    Kildare Ave & Montrose Ave
-Name: start_station_name, dtype: object","1740    41.96108
-Name: start_lat, dtype: float64","1740   -87.73569
-Name: start_lng, dtype: float64"
-353,KA1503000040,"1754    Loomis St & Archer Ave
-Name: start_station_name, dtype: object","1754    41.84166
-Name: start_lat, dtype: float64","1754   -87.657521
-Name: start_lng, dtype: float64"
-354,13059,"1771    Bissell St & Armitage Ave
-Name: start_station_name, dtype: object","1771    41.917865
-Name: start_lat, dtype: float64","1771   -87.652112
-Name: start_lng, dtype: float64"
-355,TA1308000046,"1780    Morgan St & 31st St
-Name: start_station_name, dtype: object","1780    41.837798
-Name: start_lat, dtype: float64","1780   -87.651232
-Name: start_lng, dtype: float64"
-356,13155,"1782    Racine Ave & Randolph St
-Name: start_station_name, dtype: object","1782    41.884069
-Name: start_lat, dtype: float64","1782   -87.656853
-Name: start_lng, dtype: float64"
-357,TA1306000015,"1789    Morgan St & Lake St
-Name: start_station_name, dtype: object","1789    41.885779
-Name: start_lat, dtype: float64","1789   -87.651025
-Name: start_lng, dtype: float64"
-358,13073,"1791    Ashland Ave & Lake St
-Name: start_station_name, dtype: object","1791    41.88592
-Name: start_lat, dtype: float64","1791   -87.66717
-Name: start_lng, dtype: float64"
-359,TA1308000049,"1798    Wells St & Evergreen Ave
-Name: start_station_name, dtype: object","1798    41.906724
-Name: start_lat, dtype: float64","1798   -87.63483
-Name: start_lng, dtype: float64"
-360,KA1504000104,"1818    Paulina St & Flournoy St
-Name: start_station_name, dtype: object","1818    41.873074
-Name: start_lat, dtype: float64","1818   -87.669073
-Name: start_lng, dtype: float64"
-361,RP-005,"1822    Western Ave & Lunt Ave
-Name: start_station_name, dtype: object","1822    42.008598
-Name: start_lat, dtype: float64","1822   -87.690481
-Name: start_lng, dtype: float64"
-362,13353,"1835    Ada St & Washington Blvd
-Name: start_station_name, dtype: object","1835    41.882879
-Name: start_lat, dtype: float64","1835   -87.661221
-Name: start_lng, dtype: float64"
-363,TA1309000061,"1836    Halsted St & Wrightwood Ave
-Name: start_station_name, dtype: object","1836    41.929143
-Name: start_lat, dtype: float64","1836   -87.649077
-Name: start_lng, dtype: float64"
-364,TA1307000128,"1847    Dearborn Pkwy & Delaware Pl
-Name: start_station_name, dtype: object","1847    41.898845
-Name: start_lat, dtype: float64","1847   -87.629746
-Name: start_lng, dtype: float64"
-365,549,"1865    Marshfield Ave & 44th St
-Name: start_station_name, dtype: object","1865    41.81402
-Name: start_lat, dtype: float64","1865   -87.666621
-Name: start_lng, dtype: float64"
-366,SL-006,"1869    Wells St & 19th St
-Name: start_station_name, dtype: object","1869    41.856749
-Name: start_lat, dtype: float64","1869   -87.63383
-Name: start_lng, dtype: float64"
-367,15691,"1897    Albany Ave & 26th St
-Name: start_station_name, dtype: object","1897    41.844462
-Name: start_lat, dtype: float64","1897   -87.702015
-Name: start_lng, dtype: float64"
-368,13296,"1910    Ashland Ave & Wrightwood Ave
-Name: start_station_name, dtype: object","1910    41.928877
-Name: start_lat, dtype: float64","1910   -87.668536
-Name: start_lng, dtype: float64"
-369,KA1504000135,"1911    Wells St & Elm St
-Name: start_station_name, dtype: object","1911    41.903106
-Name: start_lat, dtype: float64","1911   -87.634746
-Name: start_lng, dtype: float64"
-370,13430,"1918    LaSalle St & Illinois St
-Name: start_station_name, dtype: object","1918    41.890762
-Name: start_lat, dtype: float64","1918   -87.631697
-Name: start_lng, dtype: float64"
-371,13179,"1928    Clark St & Lincoln Ave
-Name: start_station_name, dtype: object","1928    41.915689
-Name: start_lat, dtype: float64","1928   -87.6346
-Name: start_lng, dtype: float64"
-372,KA1503000068,"1933    Leavitt St & Archer Ave
-Name: start_station_name, dtype: object","1933    41.828792
-Name: start_lat, dtype: float64","1933   -87.680604
-Name: start_lng, dtype: float64"
-373,TA1305000032,"1939    Clinton St & Madison St
-Name: start_station_name, dtype: object","1939    41.882233
-Name: start_lat, dtype: float64","1939   -87.641061
-Name: start_lng, dtype: float64"
-374,KA1503000059,"1942    Lake Park Ave & 53rd St
-Name: start_station_name, dtype: object","1942    41.799494
-Name: start_lat, dtype: float64","1942   -87.58645
-Name: start_lng, dtype: float64"
-375,13292,"1976    Kedzie Ave & Palmer Ct
-Name: start_station_name, dtype: object","1976    41.921525
-Name: start_lat, dtype: float64","1976   -87.707322
-Name: start_lng, dtype: float64"
-376,15642,"1996    California Ave & Fletcher St
-Name: start_station_name, dtype: object","1996    41.938429
-Name: start_lat, dtype: float64","1996   -87.698008
-Name: start_lng, dtype: float64"
-377,TA1307000048,"2003    Fort Dearborn Dr & 31st St
-Name: start_station_name, dtype: object","2003    41.838556
-Name: start_lat, dtype: float64","2003   -87.608218
-Name: start_lng, dtype: float64"
-378,13259,"2008    California Ave & Francis Pl (Temp)
-Name: start_station_name, dtype: object","2008    41.918491
-Name: start_lat, dtype: float64","2008   -87.697423
-Name: start_lng, dtype: float64"
-379,16806,"2015    Bosworth Ave & Howard St
-Name: start_station_name, dtype: object","2015    42.019537
-Name: start_lat, dtype: float64","2015   -87.669563
-Name: start_lng, dtype: float64"
-380,15545,"2016    Burnham Harbor
-Name: start_station_name, dtype: object","2016    41.856268
-Name: start_lat, dtype: float64","2016   -87.613348
-Name: start_lng, dtype: float64"
-381,KA1503000034,"2017    LaSalle St & Adams St
-Name: start_station_name, dtype: object","2017    41.879344
-Name: start_lat, dtype: float64","2017   -87.631985
-Name: start_lng, dtype: float64"
-382,WL-012,"2030    Clinton St & Washington Blvd
-Name: start_station_name, dtype: object","2030    41.88338
-Name: start_lat, dtype: float64","2030   -87.64117
-Name: start_lng, dtype: float64"
-383,SL-009,"2052    Clark St & 9th St (AMLI)
-Name: start_station_name, dtype: object","2052    41.870816
-Name: start_lat, dtype: float64","2052   -87.631246
-Name: start_lng, dtype: float64"
-384,13332,"2097    Loomis St & Lexington St
-Name: start_station_name, dtype: object","2097    41.872187
-Name: start_lat, dtype: float64","2097   -87.661501
-Name: start_lng, dtype: float64"
-385,KA1503000031,"2108    Cottage Grove Ave & 67th St
-Name: start_station_name, dtype: object","2108    41.773721
-Name: start_lat, dtype: float64","2108   -87.605635
-Name: start_lng, dtype: float64"
-386,13354,"2146    Ashland Ave & 13th St
-Name: start_station_name, dtype: object","2146    41.865234
-Name: start_lat, dtype: float64","2146   -87.666507
-Name: start_lng, dtype: float64"
-387,TA1305000022,"2150    Orleans St & Merchandise Mart Plaza
-Name: start_station_name, dtype: object","2150    41.888243
-Name: start_lat, dtype: float64","2150   -87.63639
-Name: start_lng, dtype: float64"
-388,337,"2151    Hoyne Ave & 34th St
-Name: start_station_name, dtype: object","2151    41.83
-Name: start_lat, dtype: float64","2151   -87.68
-Name: start_lng, dtype: float64"
-389,343,"2193    Pulaski Rd & 51st St
-Name: start_station_name, dtype: object","2193    41.8
-Name: start_lat, dtype: float64","2193   -87.72
-Name: start_lng, dtype: float64"
-390,13143,"2200    Damen Ave & Melrose Ave
-Name: start_station_name, dtype: object","2200    41.9406
-Name: start_lat, dtype: float64","2200   -87.6785
-Name: start_lng, dtype: float64"
-391,13029,"2213    Field Museum
-Name: start_station_name, dtype: object","2213    41.865312
-Name: start_lat, dtype: float64","2213   -87.617867
-Name: start_lng, dtype: float64"
-392,TA1309000058,"2220    Lincoln Ave & Fullerton Ave
-Name: start_station_name, dtype: object","2220    41.924283
-Name: start_lat, dtype: float64","2220   -87.646523
-Name: start_lng, dtype: float64"
-393,13158,"2229    Peoria St & Jackson Blvd
-Name: start_station_name, dtype: object","2229    41.877565
-Name: start_lat, dtype: float64","2229   -87.649435
-Name: start_lng, dtype: float64"
-394,15442,"2235    Ashland Ave & Archer Ave
-Name: start_station_name, dtype: object","2235    41.839193
-Name: start_lat, dtype: float64","2235   -87.665689
-Name: start_lng, dtype: float64"
-395,13294,"2320    Greenview Ave & Diversey Pkwy
-Name: start_station_name, dtype: object","2320    41.932694
-Name: start_lat, dtype: float64","2320   -87.66599
-Name: start_lng, dtype: float64"
-396,13245,"2371    Claremont Ave & Hirsch St
-Name: start_station_name, dtype: object","2371    41.907781
-Name: start_lat, dtype: float64","2371   -87.685854
-Name: start_lng, dtype: float64"
-397,13050,"2382    State St & Kinzie St
-Name: start_station_name, dtype: object","2382    41.889187
-Name: start_lat, dtype: float64","2382   -87.627754
-Name: start_lng, dtype: float64"
-398,13265,"2384    Kingsbury St & Erie St
-Name: start_station_name, dtype: object","2384    41.893808
-Name: start_lat, dtype: float64","2384   -87.641697
-Name: start_lng, dtype: float64"
-399,13256,"2386    California Ave & Division St
-Name: start_station_name, dtype: object","2386    41.90302
-Name: start_lat, dtype: float64","2386   -87.697479
-Name: start_lng, dtype: float64"
-400,13290,"2404    Noble St & Milwaukee Ave
-Name: start_station_name, dtype: object","2404    41.90068
-Name: start_lat, dtype: float64","2404   -87.6626
-Name: start_lng, dtype: float64"
-401,TA1307000130,"2423    Morgan St & Polk St
-Name: start_station_name, dtype: object","2423    41.871737
-Name: start_lat, dtype: float64","2423   -87.65103
-Name: start_lng, dtype: float64"
-402,13241,"2449    Western Ave & Division St
-Name: start_station_name, dtype: object","2449    41.902893
-Name: start_lat, dtype: float64","2449   -87.687275
-Name: start_lng, dtype: float64"
-403,TA1306000025,"2451    Racine Ave & Congress Pkwy
-Name: start_station_name, dtype: object","2451    41.874612
-Name: start_lat, dtype: float64","2451   -87.657045
-Name: start_lng, dtype: float64"
-404,TA1308000006,"2480    Damen Ave & Grand Ave
-Name: start_station_name, dtype: object","2480    41.891264
-Name: start_lat, dtype: float64","2480   -87.676842
-Name: start_lng, dtype: float64"
-405,657,"2488    Wood St & Augusta Blvd
-Name: start_station_name, dtype: object","2488    41.899181
-Name: start_lat, dtype: float64","2488   -87.6722
-Name: start_lng, dtype: float64"
-406,KA1503000015,"2489    Wabash Ave & Adams St
-Name: start_station_name, dtype: object","2489    41.879472
-Name: start_lat, dtype: float64","2489   -87.625689
-Name: start_lng, dtype: float64"
-407,20104,"2508    State St & 95th St
-Name: start_station_name, dtype: object","2508    41.72185
-Name: start_lat, dtype: float64","2508   -87.622854
-Name: start_lng, dtype: float64"
-408,TA1306000029,"2519    McClurg Ct & Ohio St
-Name: start_station_name, dtype: object","2519    41.892592
-Name: start_lat, dtype: float64","2519   -87.617289
-Name: start_lng, dtype: float64"
-409,13089,"2523    Damen Ave & Cullerton St
-Name: start_station_name, dtype: object","2523    41.854967
-Name: start_lat, dtype: float64","2523   -87.6757
-Name: start_lng, dtype: float64"
-410,TA1308000019,"2541    Racine Ave & Belmont Ave
-Name: start_station_name, dtype: object","2541    41.939732
-Name: start_lat, dtype: float64","2541   -87.65886
-Name: start_lng, dtype: float64"
-411,TA1307000150,"2544    Pine Grove Ave & Waveland Ave
-Name: start_station_name, dtype: object","2544    41.949473
-Name: start_lat, dtype: float64","2544   -87.646453
-Name: start_lng, dtype: float64"
-412,KA1504000171,"2552    Marine Dr & Ainslie St
-Name: start_station_name, dtype: object","2552    41.9716
-Name: start_lat, dtype: float64","2552   -87.650154
-Name: start_lng, dtype: float64"
-413,TA1305000011,"2559    Michigan Ave & Lake St
-Name: start_station_name, dtype: object","2559    41.886024
-Name: start_lat, dtype: float64","2559   -87.624117
-Name: start_lng, dtype: float64"
-414,13138,"2568    Canal St & Jackson Blvd
-Name: start_station_name, dtype: object","2568    41.876867
-Name: start_lat, dtype: float64","2568   -87.63962
-Name: start_lng, dtype: float64"
-415,E007,"2577    Central St & Girard Ave
-Name: start_station_name, dtype: object","2577    42.064313
-Name: start_lat, dtype: float64","2577   -87.686152
-Name: start_lng, dtype: float64"
-416,TA1306000003,"2624    Desplaines St & Kinzie St
-Name: start_station_name, dtype: object","2624    41.888617
-Name: start_lat, dtype: float64","2624   -87.644523
-Name: start_lng, dtype: float64"
-417,TA1306000011,"2625    Wells St & Walton St
-Name: start_station_name, dtype: object","2625    41.89993
-Name: start_lat, dtype: float64","2625   -87.63443
-Name: start_lng, dtype: float64"
-418,TA1307000121,"2637    Halsted St & Polk St
-Name: start_station_name, dtype: object","2637    41.87184
-Name: start_lat, dtype: float64","2637   -87.64664
-Name: start_lng, dtype: float64"
-419,13163,"2703    Morgan St & 18th St
-Name: start_station_name, dtype: object","2703    41.858086
-Name: start_lat, dtype: float64","2703   -87.651073
-Name: start_lng, dtype: float64"
-420,13042,"2714    Michigan Ave & Oak St
-Name: start_station_name, dtype: object","2714    41.900871
-Name: start_lat, dtype: float64","2714   -87.623686
-Name: start_lng, dtype: float64"
-421,15667,"2740    Western Ave & Monroe St
-Name: start_station_name, dtype: object","2740    41.879791
-Name: start_lat, dtype: float64","2740   -87.686098
-Name: start_lng, dtype: float64"
-422,15615,"2751    Christiana Ave & Lawrence Ave
-Name: start_station_name, dtype: object","2751    41.968354
-Name: start_lat, dtype: float64","2751   -87.711831
-Name: start_lng, dtype: float64"
-423,KA1504000126,"2808    Kedzie Ave & Leland Ave
-Name: start_station_name, dtype: object","2808    41.966686
-Name: start_lat, dtype: float64","2808   -87.708052
-Name: start_lng, dtype: float64"
-424,13271,"2811    Damen Ave & Clybourn Ave
-Name: start_station_name, dtype: object","2811    41.931827
-Name: start_lat, dtype: float64","2811   -87.67777
-Name: start_lng, dtype: float64"
-425,15644,"2817    Central Park Ave & Elbridge Ave
-Name: start_station_name, dtype: object","2817    41.935337
-Name: start_lat, dtype: float64","2817   -87.716889
-Name: start_lng, dtype: float64"
-426,18016,"2852    Bernard St & Elston Ave
-Name: start_station_name, dtype: object","2852    41.949962
-Name: start_lat, dtype: float64","2852   -87.713971
-Name: start_lng, dtype: float64"
-427,13269,"2853    Ashland Ave & Wellington Ave
-Name: start_station_name, dtype: object","2853    41.936109
-Name: start_lat, dtype: float64","2853   -87.669969
-Name: start_lng, dtype: float64"
-428,KA1504000090,"2858    St. Louis Ave & Fullerton Ave
-Name: start_station_name, dtype: object","2858    41.924816
-Name: start_lat, dtype: float64","2858   -87.714495
-Name: start_lng, dtype: float64"
-429,SL-011,"2867    Wells St & Polk St
-Name: start_station_name, dtype: object","2867    41.87261
-Name: start_lat, dtype: float64","2867   -87.633718
-Name: start_lng, dtype: float64"
-430,574,"2874    Vernon Ave & 79th St
-Name: start_station_name, dtype: object","2874    41.75094
-Name: start_lat, dtype: float64","2874   -87.61379
-Name: start_lng, dtype: float64"
-431,KA1504000097,"2888    Drake Ave & Montrose Ave
-Name: start_station_name, dtype: object","2888    41.961154
-Name: start_lat, dtype: float64","2888   -87.716569
-Name: start_lng, dtype: float64"
-432,599,"2912    Valli Produce - Evanston Plaza
-Name: start_station_name, dtype: object","2912    42.039742
-Name: start_lat, dtype: float64","2912   -87.699413
-Name: start_lng, dtype: float64"
-433,TA1307000041,"2956    DuSable Lake Shore Dr & Wellington Ave
-Name: start_station_name, dtype: object","2956    41.936714
-Name: start_lat, dtype: float64","2956   -87.636847
-Name: start_lng, dtype: float64"
-434,15628,"2957    California Ave & Byron St
-Name: start_station_name, dtype: object","2957    41.952163
-Name: start_lat, dtype: float64","2957   -87.698078
-Name: start_lng, dtype: float64"
-435,443,"2965    California Ave & Winona St
-Name: start_station_name, dtype: object","2965    41.97
-Name: start_lat, dtype: float64","2965   -87.7
-Name: start_lng, dtype: float64"
-436,13277,"2968    Broadway & Belmont Ave
-Name: start_station_name, dtype: object","2968    41.940124
-Name: start_lat, dtype: float64","2968   -87.645544
-Name: start_lng, dtype: float64"
-437,TA1308000023,"2990    Cottage Grove Ave & 43rd St
-Name: start_station_name, dtype: object","2990    41.816499
-Name: start_lat, dtype: float64","2990   -87.606582
-Name: start_lng, dtype: float64"
-438,316,"3026    Lamon Ave & Belmont Ave
-Name: start_station_name, dtype: object","3026    41.94
-Name: start_lat, dtype: float64","3026   -87.75
-Name: start_lng, dtype: float64"
-439,KA1504000141,"3030    Pulaski Rd & Eddy St (Temp)
-Name: start_station_name, dtype: object","3030    41.946264
-Name: start_lat, dtype: float64","3030   -87.731023
-Name: start_lng, dtype: float64"
-440,KA1503000072,"3089    Wacker Dr & Washington St
-Name: start_station_name, dtype: object","3089    41.883501
-Name: start_lat, dtype: float64","3089   -87.637433
-Name: start_lng, dtype: float64"
-441,15546,"3146    Calumet Ave & 21st St
-Name: start_station_name, dtype: object","3146    41.854184
-Name: start_lat, dtype: float64","3146   -87.619154
-Name: start_lng, dtype: float64"
-442,KA1503000020,"3226    South Shore Dr & 74th St
-Name: start_station_name, dtype: object","3226    41.762189
-Name: start_lat, dtype: float64","3226   -87.559275
-Name: start_lng, dtype: float64"
-443,15651,"3227    Humboldt Blvd & Armitage Ave
-Name: start_station_name, dtype: object","3227    41.917556
-Name: start_lat, dtype: float64","3227   -87.701925
-Name: start_lng, dtype: float64"
-444,15664,"3273    Artesian Ave & Hubbard St
-Name: start_station_name, dtype: object","3273    41.889501
-Name: start_lat, dtype: float64","3273   -87.688109
-Name: start_lng, dtype: float64"
-445,TA1309000018,"3287    Ravenswood Ave & Berteau Ave
-Name: start_station_name, dtype: object","3287    41.957939
-Name: start_lat, dtype: float64","3287   -87.673597
-Name: start_lng, dtype: float64"
-446,TA1307000005,"3327    Indiana Ave & 26th St
-Name: start_station_name, dtype: object","3327    41.845687
-Name: start_lat, dtype: float64","3327   -87.622481
-Name: start_lng, dtype: float64"
-447,TA1309000024,"3368    Clark St & Schiller St
-Name: start_station_name, dtype: object","3368    41.908091
-Name: start_lat, dtype: float64","3368   -87.631535
-Name: start_lng, dtype: float64"
-448,KA1503000046,"3375    Dorchester Ave & 63rd St
-Name: start_station_name, dtype: object","3375    41.780406
-Name: start_lat, dtype: float64","3375   -87.591416
-Name: start_lng, dtype: float64"
-449,RP-002,"3449    Warren Park East
-Name: start_station_name, dtype: object","3449    42.00455
-Name: start_lat, dtype: float64","3449   -87.680666
-Name: start_lng, dtype: float64"
-450,436,"3588    Kedzie Ave & George St
-Name: start_station_name, dtype: object","3588    41.93
-Name: start_lat, dtype: float64","3588   -87.71
-Name: start_lng, dtype: float64"
-451,TA1307000113,"3593    Southport Ave & Wrightwood Ave
-Name: start_station_name, dtype: object","3593    41.928838
-Name: start_lat, dtype: float64","3593   -87.663843
-Name: start_lng, dtype: float64"
-452,15652,"3637    Central Park Ave & North Ave
-Name: start_station_name, dtype: object","3637    41.909657
-Name: start_lat, dtype: float64","3637   -87.716632
-Name: start_lng, dtype: float64"
-453,TA1309000029,"3653    Leavitt St & Armitage Ave
-Name: start_station_name, dtype: object","3653    41.917805
-Name: start_lat, dtype: float64","3653   -87.682437
-Name: start_lng, dtype: float64"
-454,473,"3747    Mason Ave & Belmont Ave
-Name: start_station_name, dtype: object","3747    41.94
-Name: start_lat, dtype: float64","3747   -87.77
-Name: start_lng, dtype: float64"
-455,KA1503000038,"3785    Shields Ave & 31st St
-Name: start_station_name, dtype: object","3785    41.83851
-Name: start_lat, dtype: float64","3785   -87.635396
-Name: start_lng, dtype: float64"
-456,15491,"3830    63rd St Beach
-Name: start_station_name, dtype: object","3830    41.780911
-Name: start_lat, dtype: float64","3830   -87.576324
-Name: start_lng, dtype: float64"
-457,15622,"3881    California Ave & Montrose Ave
-Name: start_station_name, dtype: object","3881    41.961155
-Name: start_lat, dtype: float64","3881   -87.695427
-Name: start_lng, dtype: float64"
-458,KA1503000004,"3884    Lake Park Ave & 35th St
-Name: start_station_name, dtype: object","3884    41.831274
-Name: start_lat, dtype: float64","3884   -87.608799
-Name: start_lng, dtype: float64"
-459,13071,"3892    Southport Ave & Roscoe St
-Name: start_station_name, dtype: object","3892    41.943739
-Name: start_lat, dtype: float64","3892   -87.66402
-Name: start_lng, dtype: float64"
-460,TA1308000002,"3908    Greenwood Ave & 47th St
-Name: start_station_name, dtype: object","3908    41.809835
-Name: start_lat, dtype: float64","3908   -87.599383
-Name: start_lng, dtype: float64"
-461,TA1307000138,"3942    Lincoln Ave & Roscoe St
-Name: start_station_name, dtype: object","3942    41.943779
-Name: start_lat, dtype: float64","3942   -87.671178
-Name: start_lng, dtype: float64"
-462,KA1504000142,"4051    Drake Ave & Addison St
-Name: start_station_name, dtype: object","4051    41.947326
-Name: start_lat, dtype: float64","4051   -87.717582
-Name: start_lng, dtype: float64"
-463,344,"4067    Springfield Ave & 47th St
-Name: start_station_name, dtype: object","4067    41.81
-Name: start_lat, dtype: float64","4067   -87.72
-Name: start_lng, dtype: float64"
-464,13124,"4155    Cannon Dr & Fullerton Ave
-Name: start_station_name, dtype: object","4155    41.926756
-Name: start_lat, dtype: float64","4155   -87.634429
-Name: start_lng, dtype: float64"
-465,202480.0,"4164    Hampden Ct & Diversey Ave
-Name: start_station_name, dtype: object","4164    41.93
-Name: start_lat, dtype: float64","4164   -87.64
-Name: start_lng, dtype: float64"
-466,13058,"4210    Dayton St & North Ave
-Name: start_station_name, dtype: object","4210    41.910578
-Name: start_lat, dtype: float64","4210   -87.649422
-Name: start_lng, dtype: float64"
-467,452,"4276    Richmond St & Lincoln Ave
-Name: start_station_name, dtype: object","4276    41.99
-Name: start_lat, dtype: float64","4276   -87.7
-Name: start_lng, dtype: float64"
-468,TA1309000006,"4316    Larrabee St & Armitage Ave
-Name: start_station_name, dtype: object","4316    41.918084
-Name: start_lat, dtype: float64","4316   -87.643749
-Name: start_lng, dtype: float64"
-469,20113,"4610    Dauphin Ave & 103rd St
-Name: start_station_name, dtype: object","4610    41.70725
-Name: start_lat, dtype: float64","4610   -87.607663
-Name: start_lng, dtype: float64"
-470,13139,"4646    Throop St & Taylor St
-Name: start_station_name, dtype: object","4646    41.868968
-Name: start_lat, dtype: float64","4646   -87.659141
-Name: start_lng, dtype: float64"
-471,20238,"4671    Greenwood Ave & 97th St
-Name: start_station_name, dtype: object","4671    41.718703
-Name: start_lat, dtype: float64","4671   -87.597036
-Name: start_lng, dtype: float64"
-472,326,"4718    Harlem & Irving Park
-Name: start_station_name, dtype: object","4718    41.95
-Name: start_lat, dtype: float64","4718   -87.81
-Name: start_lng, dtype: float64"
-473,13108,"4744    Broadway & Argyle St
-Name: start_station_name, dtype: object","4744    41.973815
-Name: start_lat, dtype: float64","4744   -87.65966
-Name: start_lng, dtype: float64"
-474,15470,"4747    Calumet Ave & 51st St
-Name: start_station_name, dtype: object","4747    41.802295
-Name: start_lat, dtype: float64","4747   -87.618054
-Name: start_lng, dtype: float64"
-475,639,"4759    Lakefront Trail & Wilson Ave
-Name: start_station_name, dtype: object","4759    41.965845
-Name: start_lat, dtype: float64","4759   -87.645361
-Name: start_lng, dtype: float64"
-476,KA1503000053,"4772    MLK Jr Dr & 63rd St
-Name: start_station_name, dtype: object","4772    41.780081
-Name: start_lat, dtype: float64","4772   -87.615943
-Name: start_lng, dtype: float64"
-477,KA1504000160,"4794    Francisco Ave & Foster Ave
-Name: start_station_name, dtype: object","4794    41.975648
-Name: start_lat, dtype: float64","4794   -87.70148
-Name: start_lng, dtype: float64"
-478,16010,"4865    Keystone Ave & Fullerton Ave
-Name: start_station_name, dtype: object","4865    41.92459
-Name: start_lat, dtype: float64","4865   -87.72785
-Name: start_lng, dtype: float64"
-479,KA1503000073,"4871    MLK Jr Dr & 56th St
-Name: start_station_name, dtype: object","4871    41.793429
-Name: start_lat, dtype: float64","4871   -87.615853
-Name: start_lng, dtype: float64"
-480,TA1308000012,"4906    Montrose Harbor
-Name: start_station_name, dtype: object","4906    41.963982
-Name: start_lat, dtype: float64","4906   -87.638181
-Name: start_lng, dtype: float64"
-481,TA1309000043,"4954    Southport Ave & Irving Park Rd
-Name: start_station_name, dtype: object","4954    41.954177
-Name: start_lat, dtype: float64","4954   -87.664358
-Name: start_lng, dtype: float64"
-482,15541,"4955    Buckingham Fountain
-Name: start_station_name, dtype: object","4955    41.876506
-Name: start_lat, dtype: float64","4955   -87.620288
-Name: start_lng, dtype: float64"
-483,20242,"5009    Houston Ave & 92nd St
-Name: start_station_name, dtype: object","5009    41.728204
-Name: start_lat, dtype: float64","5009   -87.5497
-Name: start_lng, dtype: float64"
-484,KA1504000096,"5036    Sawyer Ave & Irving Park Rd
-Name: start_station_name, dtype: object","5036    41.953586
-Name: start_lat, dtype: float64","5036   -87.709311
-Name: start_lng, dtype: float64"
-485,20251.0,"5081    N Carpenter St & W Lake St
-Name: start_station_name, dtype: object","5081    41.89
-Name: start_lat, dtype: float64","5081   -87.65
-Name: start_lng, dtype: float64"
-486,342,"5082    Kedzie Ave & 45th St
-Name: start_station_name, dtype: object","5082    41.81
-Name: start_lat, dtype: float64","5082   -87.7
-Name: start_lng, dtype: float64"
-487,KA1504000114,"5172    Kedzie Ave & Chicago Ave
-Name: start_station_name, dtype: object","5172    41.895489
-Name: start_lat, dtype: float64","5172   -87.706148
-Name: start_lng, dtype: float64"
-488,WL-011,"5227    Jefferson St & Monroe St
-Name: start_station_name, dtype: object","5227    41.88033
-Name: start_lat, dtype: float64","5227   -87.642746
-Name: start_lng, dtype: float64"
-489,399,"5480    Lavergne Ave & 46th St
-Name: start_station_name, dtype: object","5480    41.81
-Name: start_lat, dtype: float64","5480   -87.75
-Name: start_lng, dtype: float64"
-490,SL-013,"5502    State St & 19th St
-Name: start_station_name, dtype: object","5502    41.856594
-Name: start_lat, dtype: float64","5502   -87.627542
-Name: start_lng, dtype: float64"
-491,13083,"5671    Indiana Ave & 40th St
-Name: start_station_name, dtype: object","5671    41.82168
-Name: start_lat, dtype: float64","5671   -87.6216
-Name: start_lng, dtype: float64"
-492,TA1306000006,"5824    Orleans St & Elm St
-Name: start_station_name, dtype: object","5824    41.902897
-Name: start_lat, dtype: float64","5824   -87.637656
-Name: start_lng, dtype: float64"
-493,20252.0,"5879    W Oakdale Ave & N Broadway
-Name: start_station_name, dtype: object","5879    41.94
-Name: start_lat, dtype: float64","5879   -87.64
-Name: start_lng, dtype: float64"
-494,TA1308000007,"5903    MLK Jr Dr & 47th St
-Name: start_station_name, dtype: object","5903    41.809851
-Name: start_lat, dtype: float64","5903   -87.616279
-Name: start_lng, dtype: float64"
-495,KA1504000139,"6061    Monticello Ave & Irving Park Rd
-Name: start_station_name, dtype: object","6061    41.953989
-Name: start_lat, dtype: float64","6061   -87.718928
-Name: start_lng, dtype: float64"
-496,20206,"6073    Homewood Ave & 115th St
-Name: start_station_name, dtype: object","6073    41.684595
-Name: start_lat, dtype: float64","6073   -87.670708
-Name: start_lng, dtype: float64"
-497,13338,"6074    Mies van der Rohe Way & Chicago Ave
-Name: start_station_name, dtype: object","6074    41.896945
-Name: start_lat, dtype: float64","6074   -87.621758
-Name: start_lng, dtype: float64"
-498,TA1308000047,"6097    Southport Ave & Clark St
-Name: start_station_name, dtype: object","6097    41.957081
-Name: start_lat, dtype: float64","6097   -87.664199
-Name: start_lng, dtype: float64"
-499,13278,"6226    Broadway & Cornelia Ave
-Name: start_station_name, dtype: object","6226    41.945529
-Name: start_lat, dtype: float64","6226   -87.646439
-Name: start_lng, dtype: float64"
-500,15597,"6346    Halsted St & 69th St
-Name: start_station_name, dtype: object","6346    41.769062
-Name: start_lat, dtype: float64","6346   -87.644614
-Name: start_lng, dtype: float64"
-501,546,"6410    Damen Ave & Pershing Rd
-Name: start_station_name, dtype: object","6410    41.823192
-Name: start_lat, dtype: float64","6410   -87.676597
-Name: start_lng, dtype: float64"
-502,KA1503000025,"6436    Wentworth Ave & 63rd St
-Name: start_station_name, dtype: object","6436    41.78008
-Name: start_lat, dtype: float64","6436   -87.629746
-Name: start_lng, dtype: float64"
-503,TA1305000001,"6536    Wabash Ave & Cermak Rd
-Name: start_station_name, dtype: object","6536    41.852619
-Name: start_lat, dtype: float64","6536   -87.626488
-Name: start_lng, dtype: float64"
-504,TA1307000160,"6566    Prairie Ave & Garfield Blvd
-Name: start_station_name, dtype: object","6566    41.794853
-Name: start_lat, dtype: float64","6566   -87.618691
-Name: start_lng, dtype: float64"
-505,KA1503000074,"6588    Museum of Science and Industry
-Name: start_station_name, dtype: object","6588    41.791728
-Name: start_lat, dtype: float64","6588   -87.583945
-Name: start_lng, dtype: float64"
-506,KA1504000159,"6670    Sheridan Rd & Greenleaf Ave
-Name: start_station_name, dtype: object","6670    42.010587
-Name: start_lat, dtype: float64","6670   -87.662412
-Name: start_lng, dtype: float64"
-507,596,"6693    Benson Ave & Church St
-Name: start_station_name, dtype: object","6693    42.048214
-Name: start_lat, dtype: float64","6693   -87.683485
-Name: start_lng, dtype: float64"
-508,KA1504000129,"6710    Western Ave & Granville Ave
-Name: start_station_name, dtype: object","6710    41.994161
-Name: start_lat, dtype: float64","6710   -87.689438
-Name: start_lng, dtype: float64"
-509,E008,"6739    Chicago Ave & Sheridan Rd
-Name: start_station_name, dtype: object","6739    42.050491
-Name: start_lat, dtype: float64","6739   -87.677821
-Name: start_lng, dtype: float64"
-510,RP-006,"6754    Ridge Blvd & Touhy Ave
-Name: start_station_name, dtype: object","6754    42.012183
-Name: start_lat, dtype: float64","6754   -87.682951
-Name: start_lng, dtype: float64"
-511,TA1306000032,"6856    Sheffield Ave & Willow St
-Name: start_station_name, dtype: object","6856    41.91385
-Name: start_lat, dtype: float64","6856   -87.652945
-Name: start_lng, dtype: float64"
-512,15631,"6992    Troy St & Elston Ave
-Name: start_station_name, dtype: object","6992    41.945244
-Name: start_lat, dtype: float64","6992   -87.70665
-Name: start_lng, dtype: float64"
-513,15653,"7050    Troy St & North Ave
-Name: start_station_name, dtype: object","7050    41.909835
-Name: start_lat, dtype: float64","7050   -87.705322
-Name: start_lng, dtype: float64"
-514,13409,"7290    Sangamon St & Washington Blvd
-Name: start_station_name, dtype: object","7290    41.883165
-Name: start_lat, dtype: float64","7290   -87.6511
-Name: start_lng, dtype: float64"
-515,430,"7410    Troy St & Grace St
-Name: start_station_name, dtype: object","7410    41.95
-Name: start_lat, dtype: float64","7410   -87.71
-Name: start_lng, dtype: float64"
-516,472,"7442    Elston Ave & George St
-Name: start_station_name, dtype: object","7442    41.93
-Name: start_lat, dtype: float64","7442   -87.69
-Name: start_lng, dtype: float64"
-517,KA1504000101,"7466    Ogden Ave & Roosevelt Rd
-Name: start_station_name, dtype: object","7466    41.866506
-Name: start_lat, dtype: float64","7466   -87.684485
-Name: start_lng, dtype: float64"
-518,TA1305000004,"7467    McCormick Place
-Name: start_station_name, dtype: object","7467    41.851638
-Name: start_lat, dtype: float64","7467   -87.61885
-Name: start_lng, dtype: float64"
-519,KA1504000110,"7508    Millard Ave & 26th St
-Name: start_station_name, dtype: object","7508    41.844531
-Name: start_lat, dtype: float64","7508   -87.715922
-Name: start_lng, dtype: float64"
-520,475,"7622    Whipple/Irving Park
-Name: start_station_name, dtype: object","7622    41.95
-Name: start_lat, dtype: float64","7622   -87.7
-Name: start_lng, dtype: float64"
-521,18022,"7640    Archer (Damen) Ave & 37th St
-Name: start_station_name, dtype: object","7640    41.826734
-Name: start_lat, dtype: float64","7640   -87.683221
-Name: start_lng, dtype: float64"
-522,KA1504000113,"7643    Sacramento Blvd & Franklin Blvd
-Name: start_station_name, dtype: object","7643    41.890572
-Name: start_lat, dtype: float64","7643   -87.702645
-Name: start_lng, dtype: float64"
-523,TA1309000014,"7645    Clark St & Leland Ave
-Name: start_station_name, dtype: object","7645    41.967096
-Name: start_lat, dtype: float64","7645   -87.667429
-Name: start_lng, dtype: float64"
-524,16937,"7660    Ashland Ave & McDowell Ave
-Name: start_station_name, dtype: object","7660    41.808871
-Name: start_lat, dtype: float64","7660   -87.664515
-Name: start_lng, dtype: float64"
-525,655,"7682    Hoyne Ave & Balmoral Ave
-Name: start_station_name, dtype: object","7682    41.979852
-Name: start_lat, dtype: float64","7682   -87.681969
-Name: start_lng, dtype: float64"
-526,13215,"7710    Rhodes Ave & 32nd St
-Name: start_station_name, dtype: object","7710    41.836763
-Name: start_lat, dtype: float64","7710   -87.613371
-Name: start_lng, dtype: float64"
-527,414,"7712    Sacramento Blvd & Fulton Ave
-Name: start_station_name, dtype: object","7712    41.89
-Name: start_lat, dtype: float64","7712   -87.7
-Name: start_lng, dtype: float64"
-528,16932,"7797    Ashland Ave & Pershing Rd
-Name: start_station_name, dtype: object","7797    41.823465
-Name: start_lat, dtype: float64","7797   -87.665577
-Name: start_lng, dtype: float64"
-529,15689,"7835    California Ave & 23rd Pl
-Name: start_station_name, dtype: object","7835    41.849224
-Name: start_lat, dtype: float64","7835   -87.695068
-Name: start_lng, dtype: float64"
-530,Hubbard Bike-checking (LBS-WH-TEST),"7838    Base - 2132 W Hubbard Warehouse
-Name: start_station_name, dtype: object","7838    41.804769
-Name: start_lat, dtype: float64","7838   -87.704078
-Name: start_lng, dtype: float64"
-531,445,"7941    Western Ave & Gunnison St
-Name: start_station_name, dtype: object","7941    41.97
-Name: start_lat, dtype: float64","7941   -87.69
-Name: start_lng, dtype: float64"
-532,16915,"7983    Central Ave & Harrison St
-Name: start_station_name, dtype: object","7983    41.872993
-Name: start_lat, dtype: float64","7983   -87.764499
-Name: start_lng, dtype: float64"
-533,382,"8038    Kedzie Ave & 48th Pl
-Name: start_station_name, dtype: object","8038    41.8
-Name: start_lat, dtype: float64","8038   -87.7
-Name: start_lng, dtype: float64"
-534,379,"8115    Rockwell St & Archer Ave
-Name: start_station_name, dtype: object","8115    41.82
-Name: start_lat, dtype: float64","8115   -87.69
-Name: start_lng, dtype: float64"
-535,554,"8120    Damen Ave & 51st St
-Name: start_station_name, dtype: object","8120    41.800908
-Name: start_lat, dtype: float64","8120   -87.674684
-Name: start_lng, dtype: float64"
-536,378,"8169    Nordica & Medill
-Name: start_station_name, dtype: object","8169    41.92
-Name: start_lat, dtype: float64","8169   -87.8
-Name: start_lng, dtype: float64"
-537,TA1308000043,"8170    Halsted St & 35th St
-Name: start_station_name, dtype: object","8170    41.830681
-Name: start_lat, dtype: float64","8170   -87.647028
-Name: start_lng, dtype: float64"
-538,KA1504000143,"8175    Leavitt St & Addison St
-Name: start_station_name, dtype: object","8175    41.946584
-Name: start_lat, dtype: float64","8175   -87.68338
-Name: start_lng, dtype: float64"
-539,KA1503000075,"8187    DuSable Museum
-Name: start_station_name, dtype: object","8187    41.791494
-Name: start_lat, dtype: float64","8187   -87.60784
-Name: start_lng, dtype: float64"
-540,E011,"8200    Dodge Ave & Main St
-Name: start_station_name, dtype: object","8200    42.034828
-Name: start_lat, dtype: float64","8200   -87.699211
-Name: start_lng, dtype: float64"
-541,20256.0,"8207    N Sheffield Ave & W Wellington Ave
-Name: start_station_name, dtype: object","8207    41.94
-Name: start_lat, dtype: float64","8207   -87.65
-Name: start_lng, dtype: float64"
-542,TA1307000066,"8220    Damen Ave & Coulter St
-Name: start_station_name, dtype: object","8220    41.8492
-Name: start_lat, dtype: float64","8220   -87.67564
-Name: start_lng, dtype: float64"
-543,13258,"8352    California Ave & North Ave
-Name: start_station_name, dtype: object","8352    41.910511
-Name: start_lat, dtype: float64","8352   -87.697278
-Name: start_lng, dtype: float64"
-544,20239,"8383    Marquette Ave & 89th St
-Name: start_station_name, dtype: object","8383    41.733741
-Name: start_lat, dtype: float64","8383   -87.558424
-Name: start_lng, dtype: float64"
-545,TA1307000156,"8575    Lincoln Ave & Sunnyside Ave
-Name: start_station_name, dtype: object","8575    41.963004
-Name: start_lat, dtype: float64","8575   -87.684781
-Name: start_lng, dtype: float64"
-546,TA1305000010,"9117    Michigan Ave & Ida B Wells Dr
-Name: start_station_name, dtype: object","9117    41.876028
-Name: start_lat, dtype: float64","9117   -87.624317
-Name: start_lng, dtype: float64"
-547,KA1504000164,"9257    Keystone Ave & Montrose Ave
-Name: start_station_name, dtype: object","9257    41.961108
-Name: start_lat, dtype: float64","9257   -87.72897
-Name: start_lng, dtype: float64"
-548,20253.0,"9414    N Paulina St & Lincoln Ave
-Name: start_station_name, dtype: object","9414    41.94
-Name: start_lat, dtype: float64","9414   -87.67
-Name: start_lng, dtype: float64"
-549,KA1503000051,"9776    Halsted St & 47th Pl
-Name: start_station_name, dtype: object","9776    41.808215
-Name: start_lat, dtype: float64","9776   -87.645619
-Name: start_lng, dtype: float64"
-550,15446,"9789    Racine Ave & 35th St
-Name: start_station_name, dtype: object","9789    41.830685
-Name: start_lat, dtype: float64","9789   -87.656224
-Name: start_lng, dtype: float64"
-551,13034,"10108    Michigan Ave & Pearson St
-Name: start_station_name, dtype: object","10108    41.897544
-Name: start_lat, dtype: float64","10108   -87.623603
-Name: start_lng, dtype: float64"
-552,18067,"10109    Walsh Park
-Name: start_station_name, dtype: object","10109    41.91461
-Name: start_lat, dtype: float64","10109   -87.667968
-Name: start_lng, dtype: float64"
-553,TA1309000039,"10180    DuSable Lake Shore Dr & Diversey Pkwy
-Name: start_station_name, dtype: object","10180    41.932588
-Name: start_lat, dtype: float64","10180   -87.636427
-Name: start_lng, dtype: float64"
-554,20230,"10339    Clyde Ave & 87th St
-Name: start_station_name, dtype: object","10339    41.737151
-Name: start_lat, dtype: float64","10339   -87.57274
-Name: start_lng, dtype: float64"
-555,590,"10359    Kilbourn Ave & Irving Park Rd
-Name: start_station_name, dtype: object","10359    41.953733
-Name: start_lat, dtype: float64","10359   -87.740569
-Name: start_lng, dtype: float64"
-556,16918,"10362    Austin Blvd & Madison St
-Name: start_station_name, dtype: object","10362    41.880281
-Name: start_lat, dtype: float64","10362   -87.774453
-Name: start_lng, dtype: float64"
-557,16921,"10396    Austin Blvd & Chicago Ave
-Name: start_station_name, dtype: object","10396    41.894887
-Name: start_lat, dtype: float64","10396   -87.774704
-Name: start_lng, dtype: float64"
-558,13136,"10477    Damen Ave & Division St
-Name: start_station_name, dtype: object","10477    41.903303
-Name: start_lat, dtype: float64","10477   -87.678604
-Name: start_lng, dtype: float64"
-559,375,"10484    Long Ave & North Ave
-Name: start_station_name, dtype: object","10484    41.91
-Name: start_lat, dtype: float64","10484   -87.76
-Name: start_lng, dtype: float64"
-560,335.0,"10516    Komensky Ave & 31st St
-Name: start_station_name, dtype: object","10516    41.84
-Name: start_lat, dtype: float64","10516   -87.73
-Name: start_lng, dtype: float64"
-561,364.0,"10641    Homan Ave & Fillmore St
-Name: start_station_name, dtype: object","10641    41.87
-Name: start_lat, dtype: float64","10641   -87.71
-Name: start_lng, dtype: float64"
-562,TA1309000015,"10675    Leavitt St & Lawrence Ave
-Name: start_station_name, dtype: object","10675    41.968758
-Name: start_lat, dtype: float64","10675   -87.684035
-Name: start_lng, dtype: float64"
-563,TA1307000127,"10869    Clark St & Grace St
-Name: start_station_name, dtype: object","10869    41.950913
-Name: start_lat, dtype: float64","10869   -87.659134
-Name: start_lng, dtype: float64"
-564,462,"10987    Lincoln Ave & Peterson Ave
-Name: start_station_name, dtype: object","10987    41.99
-Name: start_lat, dtype: float64","10987   -87.71
-Name: start_lng, dtype: float64"
-565,15643,"11015    Kosciuszko Park
-Name: start_station_name, dtype: object","11015    41.930501
-Name: start_lat, dtype: float64","11015   -87.723794
-Name: start_lng, dtype: float64"
-566,KA1503000018,"11041    Jeffery Blvd & 71st St
-Name: start_station_name, dtype: object","11041    41.766631
-Name: start_lat, dtype: float64","11041   -87.576488
-Name: start_lng, dtype: float64"
-567,TA1308000005,"11128    Leavitt St & North Ave
-Name: start_station_name, dtype: object","11128    41.910222
-Name: start_lat, dtype: float64","11128   -87.682322
-Name: start_lng, dtype: float64"
-568,567,"11189    May St & 69th St
-Name: start_station_name, dtype: object","11189    41.768944
-Name: start_lat, dtype: float64","11189   -87.652949
-Name: start_lng, dtype: float64"
-569,562,"11195    Racine Ave & 61st St
-Name: start_station_name, dtype: object","11195    41.783189
-Name: start_lat, dtype: float64","11195   -87.654372
-Name: start_lng, dtype: float64"
-570,20106,"11216    Chicago State University
-Name: start_station_name, dtype: object","11216    41.718919
-Name: start_lat, dtype: float64","11216   -87.608395
-Name: start_lng, dtype: float64"
-571,310,"11694    North Ave & New England Ave
-Name: start_station_name, dtype: object","11694    41.91
-Name: start_lat, dtype: float64","11694   -87.8
-Name: start_lng, dtype: float64"
-572,Pawel Bialowas - Test- PBSC charging station,"11761    Pawel Bialowas - Test- PBSC charging station
-Name: start_station_name, dtype: object","11761    45.635034
-Name: start_lat, dtype: float64","11761   -73.796477
-Name: start_lng, dtype: float64"
-573,16950,"11779    Ashland Ave & 66th St
-Name: start_station_name, dtype: object","11779    41.774074
-Name: start_lat, dtype: float64","11779   -87.663815
-Name: start_lng, dtype: float64"
-574,15666,"11791    California Ave & Lake St
-Name: start_station_name, dtype: object","11791    41.884454
-Name: start_lat, dtype: float64","11791   -87.696298
-Name: start_lng, dtype: float64"
-575,KA1504000086,"12156    Kedzie Ave & 24th St
-Name: start_station_name, dtype: object","12156    41.848191
-Name: start_lat, dtype: float64","12156   -87.705414
-Name: start_lng, dtype: float64"
-576,20102,"12359    Loomis St & 89th St
-Name: start_station_name, dtype: object","12359    41.732468
-Name: start_lat, dtype: float64","12359   -87.658041
-Name: start_lng, dtype: float64"
-577,KA1503000047,"12440    Perry Ave & 69th St
-Name: start_station_name, dtype: object","12440    41.769266
-Name: start_lat, dtype: float64","12440   -87.628229
-Name: start_lng, dtype: float64"
-578,20260.0,"12513    Ping Tom Park (East)
-Name: start_station_name, dtype: object","12513    41.86
-Name: start_lat, dtype: float64","12513   -87.63
-Name: start_lng, dtype: float64"
-579,340,"12610    Pulaski & Ann Lurie Pl
-Name: start_station_name, dtype: object","12610    41.82
-Name: start_lat, dtype: float64","12610   -87.72
-Name: start_lng, dtype: float64"
-580,650,"12716    Eggleston Ave & 69th St
-Name: start_station_name, dtype: object","12716    41.768898
-Name: start_lat, dtype: float64","12716   -87.635876
-Name: start_lng, dtype: float64"
-581,20130,"13245    Wentworth Ave & 104th St
-Name: start_station_name, dtype: object","13245    41.705366
-Name: start_lat, dtype: float64","13245   -87.628819
-Name: start_lng, dtype: float64"
-582,20213,"13247    Commercial Ave & 130th St
-Name: start_station_name, dtype: object","13247    41.659108
-Name: start_lat, dtype: float64","13247   -87.550803
-Name: start_lng, dtype: float64"
-583,592,"13289    Knox Ave & Montrose Ave
-Name: start_station_name, dtype: object","13289    41.960651
-Name: start_lat, dtype: float64","13289   -87.745418
-Name: start_lng, dtype: float64"
-584,16920,"13320    Central Ave & Chicago Ave
-Name: start_station_name, dtype: object","13320    41.894958
-Name: start_lat, dtype: float64","13320   -87.764902
-Name: start_lng, dtype: float64"
-585,431,"13353    Western Ave & Grace St
-Name: start_station_name, dtype: object","13353    41.95
-Name: start_lat, dtype: float64","13353   -87.69
-Name: start_lng, dtype: float64"
-586,536,"13386    Kostner Ave & Lake St
-Name: start_station_name, dtype: object","13386    41.885928
-Name: start_lat, dtype: float64","13386   -87.73541
-Name: start_lng, dtype: float64"
-587,15648,"13465    Campbell Ave & Fullerton Ave
-Name: start_station_name, dtype: object","13465    41.924686
-Name: start_lat, dtype: float64","13465   -87.68932
-Name: start_lng, dtype: float64"
-588,KA1504000109,"13925    Washtenaw Ave & Ogden Ave
-Name: start_station_name, dtype: object","13925    41.861884
-Name: start_lat, dtype: float64","13925   -87.693546
-Name: start_lng, dtype: float64"
-589,398,"13927    Long & Irving Park
-Name: start_station_name, dtype: object","13927    41.95
-Name: start_lat, dtype: float64","13927   -87.76
-Name: start_lng, dtype: float64"
-590,E006,"14029    Central St Metra
-Name: start_station_name, dtype: object","14029    42.063863
-Name: start_lat, dtype: float64","14029   -87.698667
-Name: start_lng, dtype: float64"
-591,471,"14149    Damen Ave & 33rd St
-Name: start_station_name, dtype: object","14149    41.83
-Name: start_lat, dtype: float64","14149   -87.68
-Name: start_lng, dtype: float64"
-592,13096,"14273    California Ave & 21st St
-Name: start_station_name, dtype: object","14273    41.853759
-Name: start_lat, dtype: float64","14273   -87.695785
-Name: start_lng, dtype: float64"
-593,324,"15886    Meade Ave & Addison St
-Name: start_station_name, dtype: object","15886    41.95
-Name: start_lat, dtype: float64","15886   -87.78
-Name: start_lng, dtype: float64"
-594,TA1308000038,"15896    Cottage Grove Ave & Oakwood Blvd
-Name: start_station_name, dtype: object","15896    41.822998
-Name: start_lat, dtype: float64","15896   -87.607117
-Name: start_lng, dtype: float64"
-595,KA1503000055,"16105    Halsted & 63rd - Kennedy-King Vaccination Site
-Name: start_station_name, dtype: object","16105    41.779381
-Name: start_lat, dtype: float64","16105   -87.644621
-Name: start_lng, dtype: float64"
-596,351,"16119    Mulligan Ave & Wellington Ave
-Name: start_station_name, dtype: object","16119    41.93
-Name: start_lat, dtype: float64","16119   -87.78
-Name: start_lng, dtype: float64"
-597,KA1503000033,"16165    Eberhart Ave & 61st St
-Name: start_station_name, dtype: object","16165    41.784065
-Name: start_lat, dtype: float64","16165   -87.613299
-Name: start_lng, dtype: float64"
-598,321,"16817    Kostner Ave & Wrightwood Ave
-Name: start_station_name, dtype: object","16817    41.93
-Name: start_lat, dtype: float64","16817   -87.74
-Name: start_lng, dtype: float64"
-599,TA1306000007,"17068    Larrabee St & Menomonee St
-Name: start_station_name, dtype: object","17068    41.91468
-Name: start_lat, dtype: float64","17068   -87.64332
-Name: start_lng, dtype: float64"
-600,631,"17377    Malcolm X College Vaccination Site
-Name: start_station_name, dtype: object","17377    41.877591
-Name: start_lat, dtype: float64","17377   -87.673891
-Name: start_lng, dtype: float64"
-601,16953,"17378    Vincennes Ave & 75th St
-Name: start_station_name, dtype: object","17378    41.75797
-Name: start_lat, dtype: float64","17378   -87.63121
-Name: start_lng, dtype: float64"
-602,553,"17452    Elizabeth St & 47th St
-Name: start_station_name, dtype: object","17452    41.808395
-Name: start_lat, dtype: float64","17452   -87.656535
-Name: start_lng, dtype: float64"
-603,518,"17475    Conservatory Dr & Lake St
-Name: start_station_name, dtype: object","17475    41.885502
-Name: start_lat, dtype: float64","17475   -87.716866
-Name: start_lng, dtype: float64"
-604,323,"18162    Narragansett & Irving Park
-Name: start_station_name, dtype: object","18162    41.95
-Name: start_lat, dtype: float64","18162   -87.79
-Name: start_lng, dtype: float64"
-605,397,"18456    Narragansett Ave & School St
-Name: start_station_name, dtype: object","18456    41.94
-Name: start_lat, dtype: float64","18456   -87.79
-Name: start_lng, dtype: float64"
-606,575,"18695    Cottage Grove Ave & 78th St
-Name: start_station_name, dtype: object","18695    41.7532
-Name: start_lat, dtype: float64","18695   -87.605032
-Name: start_lng, dtype: float64"
-607,KA1504000161,"18738    St. Louis Ave & Balmoral Ave
-Name: start_station_name, dtype: object","18738    41.980394
-Name: start_lat, dtype: float64","18738   -87.716115
-Name: start_lng, dtype: float64"
-608,464,"18868    Western Ave & Ardmore Ave
-Name: start_station_name, dtype: object","18868    41.99
-Name: start_lat, dtype: float64","18868   -87.69
-Name: start_lng, dtype: float64"
-609,587,"19179    Wabash Ave & 83rd St
-Name: start_station_name, dtype: object","19179    41.743328
-Name: start_lat, dtype: float64","19179   -87.622855
-Name: start_lng, dtype: float64"
-610,559,"19491    Racine Ave & Garfield Blvd
-Name: start_station_name, dtype: object","19491    41.794228
-Name: start_lat, dtype: float64","19491   -87.655073
-Name: start_lng, dtype: float64"
-611,357,"19609    Lamon Ave & Armitage Ave
-Name: start_station_name, dtype: object","19609    41.92
-Name: start_lat, dtype: float64","19609   -87.75
-Name: start_lng, dtype: float64"
-612,15686,"19610    Kedzie Ave & 21st St
-Name: start_station_name, dtype: object","19610    41.853557
-Name: start_lat, dtype: float64","19610   -87.705094
-Name: start_lng, dtype: float64"
-613,16994,"19644    Kilbourn Ave & Milwaukee Ave
-Name: start_station_name, dtype: object","19644    41.947038
-Name: start_lat, dtype: float64","19644   -87.739939
-Name: start_lng, dtype: float64"
-614,373,"19667    Augusta Blvd & Laramie Ave
-Name: start_station_name, dtype: object","19667    41.9
-Name: start_lat, dtype: float64","19667   -87.76
-Name: start_lng, dtype: float64"
-615,16903,"19688    Cicero Ave & Lake St
-Name: start_station_name, dtype: object","19688    41.88692
-Name: start_lat, dtype: float64","19688   -87.74526
-Name: start_lng, dtype: float64"
-616,370,"19689    Central Park & Augusta Blvd
-Name: start_station_name, dtype: object","19689    41.9
-Name: start_lat, dtype: float64","19689   -87.72
-Name: start_lng, dtype: float64"
-617,20218,"19735    Avenue O & 118th St
-Name: start_station_name, dtype: object","19735    41.68107
-Name: start_lat, dtype: float64","19735   -87.537931
-Name: start_lng, dtype: float64"
-618,KA1504000082,"20297    Kedzie Ave & Harrison St
-Name: start_station_name, dtype: object","20297    41.873667
-Name: start_lat, dtype: float64","20297   -87.704911
-Name: start_lng, dtype: float64"
-619,16943,"20308    Ashland Ave & Garfield Blvd
-Name: start_station_name, dtype: object","20308    41.792884
-Name: start_lat, dtype: float64","20308   -87.664496
-Name: start_lng, dtype: float64"
-620,355,"20345    Central Ave & Parker Ave
-Name: start_station_name, dtype: object","20345    41.93
-Name: start_lat, dtype: float64","20345   -87.77
-Name: start_lng, dtype: float64"
-621,313,"20393    Long Ave & Belden Ave
-Name: start_station_name, dtype: object","20393    41.92
-Name: start_lat, dtype: float64","20393   -87.76
-Name: start_lng, dtype: float64"
-622,349,"20527    Spaulding Ave & 63rd St
-Name: start_station_name, dtype: object","20527    41.78
-Name: start_lat, dtype: float64","20527   -87.71
-Name: start_lng, dtype: float64"
-623,20222,"20529    Burnham Greenway & 105th St
-Name: start_station_name, dtype: object","20529    41.704601
-Name: start_lat, dtype: float64","20529   -87.528379
-Name: start_lng, dtype: float64"
-624,356,"20562    Lavergne & Fullerton
-Name: start_station_name, dtype: object","20562    41.92
-Name: start_lat, dtype: float64","20562   -87.75
-Name: start_lng, dtype: float64"
-625,396,"20585    Central Ave & Roscoe St
-Name: start_station_name, dtype: object","20585    41.94
-Name: start_lat, dtype: float64","20585   -87.77
-Name: start_lng, dtype: float64"
-626,432,"20628    Sacramento Blvd & Addison St
-Name: start_station_name, dtype: object","20628    41.95
-Name: start_lat, dtype: float64","20628   -87.7
-Name: start_lng, dtype: float64"
-627,350,"20639    Hamlin Ave & 62nd Pl
-Name: start_station_name, dtype: object","20639    41.78
-Name: start_lat, dtype: float64","20639   -87.72
-Name: start_lng, dtype: float64"
-628,20247.0,"20641    W Washington Blvd & N Peoria St
-Name: start_station_name, dtype: object","20641    41.88
-Name: start_lat, dtype: float64","20641   -87.65
-Name: start_lng, dtype: float64"
-629,322,"20672    Cicero Ave & Grace St
-Name: start_station_name, dtype: object","20672    41.95
-Name: start_lat, dtype: float64","20672   -87.75
-Name: start_lng, dtype: float64"
-630,20121,"20765    Loomis Blvd & 84th St
-Name: start_station_name, dtype: object","20765    41.741572
-Name: start_lat, dtype: float64","20765   -87.658396
-Name: start_lng, dtype: float64"
-631,383,"20814    Campbell Ave & 51st St
-Name: start_station_name, dtype: object","20814    41.8
-Name: start_lat, dtype: float64","20814   -87.69
-Name: start_lng, dtype: float64"
-632,20245,"20845    Ashland Ave & 74th St
-Name: start_station_name, dtype: object","20845    41.759205
-Name: start_lat, dtype: float64","20845   -87.663461
-Name: start_lng, dtype: float64"
-633,433,"20913    Elston Ave & Henderson St
-Name: start_station_name, dtype: object","20913    41.94
-Name: start_lat, dtype: float64","20913   -87.7
-Name: start_lng, dtype: float64"
-634,368.0,"20931    Tripp Ave & 31st St
-Name: start_station_name, dtype: object","20931    41.84
-Name: start_lat, dtype: float64","20931   -87.73
-Name: start_lng, dtype: float64"
-635,16933,"20991    Morgan St & Pershing Rd
-Name: start_station_name, dtype: object","20991    41.82368
-Name: start_lat, dtype: float64","20991   -87.651023
-Name: start_lng, dtype: float64"
-636,317,"21016    Long Ave & Belmont Ave
-Name: start_station_name, dtype: object","21016    41.94
-Name: start_lat, dtype: float64","21016   -87.76
-Name: start_lng, dtype: float64"
-637,374,"21112    Kilpatrick Ave & Grand Ave
-Name: start_station_name, dtype: object","21112    41.91
-Name: start_lat, dtype: float64","21112   -87.74
-Name: start_lng, dtype: float64"
-638,652,"21173    Rhodes Ave & 71st St
-Name: start_station_name, dtype: object","21173    41.76597
-Name: start_lat, dtype: float64","21173   -87.611698
-Name: start_lng, dtype: float64"
-639,314,"21334    Narragansett & Wrightwood
-Name: start_station_name, dtype: object","21334    41.93
-Name: start_lat, dtype: float64","21334   -87.79
-Name: start_lng, dtype: float64"
-640,304,"21337    Lavergne Ave & Division St
-Name: start_station_name, dtype: object","21337    41.9
-Name: start_lat, dtype: float64","21337   -87.75
-Name: start_lng, dtype: float64"
-641,376,"21363    Menard Ave & North Ave
-Name: start_station_name, dtype: object","21363    41.91
-Name: start_lat, dtype: float64","21363   -87.77
-Name: start_lng, dtype: float64"
-642,KA1503000003,"21544    Cottage Grove Ave & 71st St
-Name: start_station_name, dtype: object","21544    41.765719
-Name: start_lat, dtype: float64","21544   -87.60496
-Name: start_lng, dtype: float64"
-643,20211,"21822    Eberhart Ave & 131st St
-Name: start_station_name, dtype: object","21822    41.657954
-Name: start_lat, dtype: float64","21822   -87.610761
-Name: start_lng, dtype: float64"
-644,535,"21843    Pulaski Rd & Congress Pkwy
-Name: start_station_name, dtype: object","21843    41.874351
-Name: start_lat, dtype: float64","21843   -87.725973
-Name: start_lng, dtype: float64"
-645,584,"21991    Ellis Ave & 83rd St
-Name: start_station_name, dtype: object","21991    41.744123
-Name: start_lat, dtype: float64","21991   -87.599034
-Name: start_lng, dtype: float64"
-646,571,"22116    Vernon Ave & 75th St
-Name: start_station_name, dtype: object","22116    41.758361
-Name: start_lat, dtype: float64","22116   -87.614138
-Name: start_lng, dtype: float64"
-647,573,"22808    State St & 79th St
-Name: start_station_name, dtype: object","22808    41.750765
-Name: start_lat, dtype: float64","22808   -87.624438
-Name: start_lng, dtype: float64"
-648,585,"22902    Cottage Grove Ave & 83rd St
-Name: start_station_name, dtype: object","22902    41.743441
-Name: start_lat, dtype: float64","22902   -87.604836
-Name: start_lng, dtype: float64"
-649,16907,"22909    Central Park Blvd & 5th Ave
-Name: start_station_name, dtype: object","22909    41.875694
-Name: start_lat, dtype: float64","22909   -87.715497
-Name: start_lng, dtype: float64"
-650,594,"22941    Western Blvd & 48th Pl
-Name: start_station_name, dtype: object","22941    41.805706
-Name: start_lat, dtype: float64","22941   -87.68341
-Name: start_lng, dtype: float64"
-651,KA1503000021,"23359    Stony Island Ave & 64th St
-Name: start_station_name, dtype: object","23359    41.778881
-Name: start_lat, dtype: float64","23359   -87.586647
-Name: start_lng, dtype: float64"
-652,572,"24222    State St & 76th St
-Name: start_station_name, dtype: object","24222    41.756971
-Name: start_lat, dtype: float64","24222   -87.624621
-Name: start_lng, dtype: float64"
-653,570,"25032    Evans Ave & 75th St
-Name: start_station_name, dtype: object","25032    41.758518
-Name: start_lat, dtype: float64","25032   -87.60647
-Name: start_lng, dtype: float64"
-654,20236,"25486    Stony Island Ave & 90th St
-Name: start_station_name, dtype: object","25486    41.731395
-Name: start_lat, dtype: float64","25486   -87.585744
-Name: start_lng, dtype: float64"
-655,RP-004,"25490    Oakley Ave & Touhy Ave
-Name: start_station_name, dtype: object","25490    42.012342
-Name: start_lat, dtype: float64","25490   -87.688243
-Name: start_lng, dtype: float64"
-656,16905,"25558    Central Ave & Lake St
-Name: start_station_name, dtype: object","25558    41.887664
-Name: start_lat, dtype: float64","25558   -87.765469
-Name: start_lng, dtype: float64"
-657,595,"25703    Wabash Ave & 87th St
-Name: start_station_name, dtype: object","25703    41.736646
-Name: start_lat, dtype: float64","25703   -87.622634
-Name: start_lng, dtype: float64"
-658,418,"26275    Mozart St & Jackson Blvd
-Name: start_station_name, dtype: object","26275    41.88
-Name: start_lat, dtype: float64","26275   -87.7
-Name: start_lng, dtype: float64"
-659,20203,"26746    Lawndale Ave & 111th St
-Name: start_station_name, dtype: object","26746    41.691319
-Name: start_lat, dtype: float64","26746   -87.712886
-Name: start_lng, dtype: float64"
-660,Hastings WH 2,"27619    Hastings WH 2
-Name: start_station_name, dtype: object","27619    41.863533
-Name: start_lat, dtype: float64","27619   -87.679664
-Name: start_lng, dtype: float64"
-661,528,"27951    Pulaski Rd & Lake St
-Name: start_station_name, dtype: object","27951    41.885409
-Name: start_lat, dtype: float64","27951   -87.726491
-Name: start_lng, dtype: float64"
-662,20235,"28143    Greenwood Ave & 91st St
-Name: start_station_name, dtype: object","28143    41.728264
-Name: start_lat, dtype: float64","28143   -87.597299
-Name: start_lng, dtype: float64"
-663,20129,"28282    Ada St & 113th St
-Name: start_station_name, dtype: object","28282    41.687593
-Name: start_lat, dtype: float64","28282   -87.655325
-Name: start_lng, dtype: float64"
-664,20131,"28421    Cottage Grove Ave & 111th Pl
-Name: start_station_name, dtype: object","28421    41.69171
-Name: start_lat, dtype: float64","28421   -87.610002
-Name: start_lng, dtype: float64"
-665,334.0,"28877    Lawndale Ave & 30th St
-Name: start_station_name, dtype: object","28877    41.84
-Name: start_lat, dtype: float64","28877   -87.72
-Name: start_lng, dtype: float64"
-666,20217,"29206    Torrence Ave & 126th Pl
-Name: start_station_name, dtype: object","29206    41.666312
-Name: start_lat, dtype: float64","29206   -87.557216
-Name: start_lng, dtype: float64"
-667,530,"29489    Laramie Ave & Kinzie St
-Name: start_station_name, dtype: object","29489    41.887798
-Name: start_lat, dtype: float64","29489   -87.755604
-Name: start_lng, dtype: float64"
-668,KA1503000030,"29878    Jeffery Blvd & 67th St
-Name: start_station_name, dtype: object","29878    41.773518
-Name: start_lat, dtype: float64","29878   -87.577143
-Name: start_lng, dtype: float64"
-669,20243,"31692    Michigan Ave & 114th St
-Name: start_station_name, dtype: object","31692    41.687027
-Name: start_lat, dtype: float64","31692   -87.621131
-Name: start_lng, dtype: float64"
-670,KA1503000013,"32888    Princeton Ave & Garfield Blvd
-Name: start_station_name, dtype: object","32888    41.794996
-Name: start_lat, dtype: float64","32888   -87.63312
-Name: start_lng, dtype: float64"
-671,415,"34187    Western Ave & Lake St
-Name: start_station_name, dtype: object","34187    41.88
-Name: start_lat, dtype: float64","34187   -87.69
-Name: start_lng, dtype: float64"
-672,20205,"34444    Western Ave & 111th St
-Name: start_station_name, dtype: object","34444    41.691211
-Name: start_lat, dtype: float64","34444   -87.681297
-Name: start_lng, dtype: float64"
-673,339,"34455    Sacramento Ave & Pershing Rd
-Name: start_station_name, dtype: object","34455    41.82
-Name: start_lat, dtype: float64","34455   -87.7
-Name: start_lng, dtype: float64"
-674,15692,"34820    California Ave & 26th St
-Name: start_station_name, dtype: object","34820    41.84368
-Name: start_lat, dtype: float64","34820   -87.694969
-Name: start_lng, dtype: float64"
-675,20229,"36649    Baltimore Ave & 87th St
-Name: start_station_name, dtype: object","36649    41.737336
-Name: start_lat, dtype: float64","36649   -87.548515
-Name: start_lng, dtype: float64"
-676,20116,"36740    Dauphin Ave & 87th St
-Name: start_station_name, dtype: object","36740    41.736559
-Name: start_lat, dtype: float64","36740   -87.601258
-Name: start_lng, dtype: float64"
-677,16913,"36851    Cicero Ave & Quincy St
-Name: start_station_name, dtype: object","36851    41.877578
-Name: start_lat, dtype: float64","36851   -87.745353
-Name: start_lng, dtype: float64"
-678,519,"36938    Wolcott Ave & Fargo Ave
-Name: start_station_name, dtype: object","36938    42.016952
-Name: start_lat, dtype: float64","36938   -87.677648
-Name: start_lng, dtype: float64"
-679,20231,"37702    East End Ave & 87th St
-Name: start_station_name, dtype: object","37702    41.736815
-Name: start_lat, dtype: float64","37702   -87.582801
-Name: start_lng, dtype: float64"
-680,428,"38238    Milwaukee Ave & Fullerton Ave
-Name: start_station_name, dtype: object","38238    41.92
-Name: start_lat, dtype: float64","38238   -87.7
-Name: start_lng, dtype: float64"
-681,360,"39227    Kilbourn & Roscoe
-Name: start_station_name, dtype: object","39227    41.94
-Name: start_lat, dtype: float64","39227   -87.74
-Name: start_lng, dtype: float64"
-682,537,"40637    Kenton Ave & Madison St
-Name: start_station_name, dtype: object","40637    41.880708
-Name: start_lat, dtype: float64","40637   -87.741018
-Name: start_lng, dtype: float64"
-683,580,"41115    Exchange Ave & 79th St
-Name: start_station_name, dtype: object","41115    41.751731
-Name: start_lat, dtype: float64","41115   -87.552812
-Name: start_lng, dtype: float64"
-684,444,"42475    N Shore Channel Trail & Argyle Ave
-Name: start_station_name, dtype: object","42475    41.97
-Name: start_lat, dtype: float64","42475   -87.7
-Name: start_lng, dtype: float64"
-685,583,"42636    Stony Island Ave & 82nd St
-Name: start_station_name, dtype: object","42636    41.746559
-Name: start_lat, dtype: float64","42636   -87.586005
-Name: start_lng, dtype: float64"
-686,579,"44566    Phillips Ave & 79th St
-Name: start_station_name, dtype: object","44566    41.75182
-Name: start_lat, dtype: float64","44566   -87.565211
-Name: start_lng, dtype: float64"
-687,KA1503000024,"44681    Yates Blvd & 75th St
-Name: start_station_name, dtype: object","44681    41.758768
-Name: start_lat, dtype: float64","44681   -87.56644
-Name: start_lng, dtype: float64"
-688,429,"45146    Francisco Ave & Bloomingdale Ave
-Name: start_station_name, dtype: object","45146    41.91
-Name: start_lat, dtype: float64","45146   -87.7
-Name: start_lng, dtype: float64"
-689,458,"47055    Washtenaw Ave & Peterson Ave
-Name: start_station_name, dtype: object","47055    41.99
-Name: start_lat, dtype: float64","47055   -87.7
-Name: start_lng, dtype: float64"
-690,446,"48541    Francisco Ave & Montrose Ave
-Name: start_station_name, dtype: object","48541    41.96
-Name: start_lat, dtype: float64","48541   -87.7
-Name: start_lng, dtype: float64"
-691,420,"48734    Washtenaw Ave & Polk St
-Name: start_station_name, dtype: object","48734    41.87
-Name: start_lat, dtype: float64","48734   -87.69
-Name: start_lng, dtype: float64"
-692,474,"48831    Fullerton & Monitor
-Name: start_station_name, dtype: object","48831    41.92
-Name: start_lat, dtype: float64","48831   -87.77
-Name: start_lng, dtype: float64"
-693,Lincoln Ave & Roscoe St - Charging,"49582    Lincoln Ave & Roscoe St - Charging
-Name: start_station_name, dtype: object","49582    41.943063
-Name: start_lat, dtype: float64","49582   -87.670834
-Name: start_lng, dtype: float64"
-694,389,"49624    Maplewood Ave & 59th St
-Name: start_station_name, dtype: object","49624    41.79
-Name: start_lat, dtype: float64","49624   -87.69
-Name: start_lng, dtype: float64"
-695,TA1309000051,"51258    Commercial Ave & 83rd St
-Name: start_station_name, dtype: object","51258    41.744642
-Name: start_lat, dtype: float64","51258   -87.551254
-Name: start_lng, dtype: float64"
-696,427,"51380    Whipple St & Roosevelt Rd
-Name: start_station_name, dtype: object","51380    41.87
-Name: start_lat, dtype: float64","51380   -87.7
-Name: start_lng, dtype: float64"
-697,653,"55438    Cornell Dr & Hayes Dr
-Name: start_station_name, dtype: object","55438    41.780581
-Name: start_lat, dtype: float64","55438   -87.585166
-Name: start_lng, dtype: float64"
-698,577,"55875    Stony Island Ave & South Chicago Ave
-Name: start_station_name, dtype: object","55875    41.751126
-Name: start_lat, dtype: float64","55875   -87.585307
-Name: start_lng, dtype: float64"
-699,20237,"55904    Yates Blvd & 93rd St
-Name: start_station_name, dtype: object","55904    41.726166
-Name: start_lat, dtype: float64","55904   -87.566276
-Name: start_lng, dtype: float64"
-700,593,"57672    Halsted St & 59th St
-Name: start_station_name, dtype: object","57672    41.787539
-Name: start_lat, dtype: float64","57672   -87.644874
-Name: start_lng, dtype: float64"
-701,309,"58349    Narragansett & McLean
-Name: start_station_name, dtype: object","58349    41.92
-Name: start_lat, dtype: float64","58349   -87.79
-Name: start_lng, dtype: float64"
-702,564,"58778    Racine Ave & 65th St
-Name: start_station_name, dtype: object","58778    41.775393
-Name: start_lat, dtype: float64","58778   -87.654308
-Name: start_lng, dtype: float64"
-703,325,"62816    Harlem Ave & Grace St
-Name: start_station_name, dtype: object","62816    41.95
-Name: start_lat, dtype: float64","62816   -87.81
-Name: start_lng, dtype: float64"
-704,20111,"63210    Olive Harvey College
-Name: start_station_name, dtype: object","63210    41.709521
-Name: start_lat, dtype: float64","63210   -87.590218
-Name: start_lng, dtype: float64"
-705,20234,"63326    Ashland Ave & 78th St
-Name: start_station_name, dtype: object","63326    41.752217
-Name: start_lat, dtype: float64","63326   -87.66379
-Name: start_lng, dtype: float64"
-706,649,"63892    Stewart Ave & 63rd St
-Name: start_station_name, dtype: object","63892    41.7798
-Name: start_lat, dtype: float64","63892   -87.634804
-Name: start_lng, dtype: float64"
-707,419,"63979    Sacramento Blvd & Polk St
-Name: start_station_name, dtype: object","63979    41.87
-Name: start_lat, dtype: float64","63979   -87.7
-Name: start_lng, dtype: float64"
-708,20101,"64075    Summit Ave & 86th St
-Name: start_station_name, dtype: object","64075    41.737838
-Name: start_lat, dtype: float64","64075   -87.644832
-Name: start_lng, dtype: float64"
-709,20226,"64455    Oglesby Ave & 100th St
-Name: start_station_name, dtype: object","64455    41.713332
-Name: start_lat, dtype: float64","64455   -87.565902
-Name: start_lng, dtype: float64"
-710,561,"65839    Damen Ave & 59th St
-Name: start_station_name, dtype: object","65839    41.785861
-Name: start_lat, dtype: float64","65839   -87.674144
-Name: start_lng, dtype: float64"
-711,16912,"66540    Cicero Ave & Flournoy St
-Name: start_station_name, dtype: object","66540    41.872131
-Name: start_lat, dtype: float64","66540   -87.746619
-Name: start_lng, dtype: float64"
-712,404,"67528    Pulaski Rd & 60th St
-Name: start_station_name, dtype: object","67528    41.78
-Name: start_lat, dtype: float64","67528   -87.72
-Name: start_lng, dtype: float64"
-713,20209,"68310    S Michigan Ave & E 118th St
-Name: start_station_name, dtype: object","68310    41.68
-Name: start_lat, dtype: float64","68310   -87.62
-Name: start_lng, dtype: float64"
-714,346,"68341    Kedzie Ave & 57th St
-Name: start_station_name, dtype: object","68341    41.79
-Name: start_lat, dtype: float64","68341   -87.7
-Name: start_lng, dtype: float64"
-715,20210,"72438    State St & 123rd St
-Name: start_station_name, dtype: object","72438    41.670644
-Name: start_lat, dtype: float64","72438   -87.622586
-Name: start_lng, dtype: float64"
-716,387,"73477    St Louis Ave & 59th St
-Name: start_station_name, dtype: object","73477    41.79
-Name: start_lat, dtype: float64","73477   -87.71
-Name: start_lng, dtype: float64"
-717,441,"74565    Virginia Ave & Catalpa Ave
-Name: start_station_name, dtype: object","74565    41.98
-Name: start_lat, dtype: float64","74565   -87.7
-Name: start_lng, dtype: float64"
-718,434,"76875    Albany Ave & Belmont Ave
-Name: start_station_name, dtype: object","76875    41.94
-Name: start_lat, dtype: float64","76875   -87.71
-Name: start_lng, dtype: float64"
-719,20201,"79655    Kedzie Ave & 104th St
-Name: start_station_name, dtype: object","79655    41.7
-Name: start_lat, dtype: float64","79655   -87.7
-Name: start_lng, dtype: float64"
-720,390,"79689    California Ave & Marquette Rd
-Name: start_station_name, dtype: object","79689    41.77
-Name: start_lat, dtype: float64","79689   -87.69
-Name: start_lng, dtype: float64"
-721,KA1503000010,"79903    Halsted St & 51st St
-Name: start_station_name, dtype: object","79903    41.844651
-Name: start_lat, dtype: float64","79903   -87.723265
-Name: start_lng, dtype: float64"
-722,20228,"79983    Constance Ave & 95th St
-Name: start_station_name, dtype: object","79983    41.72208
-Name: start_lat, dtype: float64","79983   -87.578961
-Name: start_lng, dtype: float64"
-723,20212,"80014    Altgeld Gardens
-Name: start_station_name, dtype: object","80014    41.657074
-Name: start_lat, dtype: float64","80014   -87.598876
-Name: start_lng, dtype: float64"
-724,15682,"80307    Kedzie Ave & Roosevelt Rd
-Name: start_station_name, dtype: object","80307    41.86653
-Name: start_lat, dtype: float64","80307   -87.70638
-Name: start_lng, dtype: float64"
-725,460,"80403    Francisco Ave & Hollywood Ave
-Name: start_station_name, dtype: object","80403    41.98
-Name: start_lat, dtype: float64","80403   -87.7
-Name: start_lng, dtype: float64"
-726,341,"80506    Archer Ave & 43rd St
-Name: start_station_name, dtype: object","80506    41.82
-Name: start_lat, dtype: float64","80506   -87.7
-Name: start_lng, dtype: float64"
-727,385,"80623    St Louis Ave & Norman Bobbins Ave
-Name: start_station_name, dtype: object","80623    41.79
-Name: start_lat, dtype: float64","80623   -87.71
-Name: start_lng, dtype: float64"
-728,20207,"80644    Major Taylor Trail & 115th St
-Name: start_station_name, dtype: object","80644    41.684961
-Name: start_lat, dtype: float64","80644   -87.645336
-Name: start_lng, dtype: float64"
-729,353,"80684    Meade Ave & Diversey Ave
-Name: start_station_name, dtype: object","80684    41.93
-Name: start_lat, dtype: float64","80684   -87.78
-Name: start_lng, dtype: float64"
-730,377,"81065    Bloomingdale Ave & Harlem Ave
-Name: start_station_name, dtype: object","81065    41.91
-Name: start_lat, dtype: float64","81065   -87.81
-Name: start_lng, dtype: float64"
-731,20107,"81150    Walden Pkwy & 100th St
-Name: start_station_name, dtype: object","81150    41.712234
-Name: start_lat, dtype: float64","81150   -87.66771
-Name: start_lng, dtype: float64"
-732,20133,"81314    Woodlawn & 103rd - Olive Harvey Vaccination Site
-Name: start_station_name, dtype: object","81314    41.71
-Name: start_lat, dtype: float64","81314   -87.59
-Name: start_lng, dtype: float64"
-733,301,"85501    Monticello Ave & Chicago Ave
-Name: start_station_name, dtype: object","85501    41.9
-Name: start_lat, dtype: float64","85501   -87.72
-Name: start_lng, dtype: float64"
-734,359,"88044    Kilbourn & Belden
-Name: start_station_name, dtype: object","88044    41.92
-Name: start_lat, dtype: float64","88044   -87.74
-Name: start_lng, dtype: float64"
-735,307,"89729    Leamington Ave & Hirsch St
-Name: start_station_name, dtype: object","89729    41.91
-Name: start_lat, dtype: float64","89729   -87.75
-Name: start_lng, dtype: float64"
-736,401,"91955    Kildare Ave & 47th St
-Name: start_station_name, dtype: object","91955    41.81
-Name: start_lat, dtype: float64","91955   -87.73
-Name: start_lng, dtype: float64"
-737,20220,"92266    Avenue L & 114th St
-Name: start_station_name, dtype: object","92266    41.69
-Name: start_lat, dtype: float64","92266   -87.54
-Name: start_lng, dtype: float64"
-738,20112,"92964    Indiana Ave & 103rd St
-Name: start_station_name, dtype: object","92964    41.707178
-Name: start_lat, dtype: float64","92964   -87.618335
-Name: start_lng, dtype: float64"
-739,381,"94804    Francisco Ave & 47th St
-Name: start_station_name, dtype: object","94804    41.81
-Name: start_lat, dtype: float64","94804   -87.7
-Name: start_lng, dtype: float64"
-740,354,"95821    Parkside Ave & Armitage Ave
-Name: start_station_name, dtype: object","95821    41.92
-Name: start_lat, dtype: float64","95821   -87.77
-Name: start_lng, dtype: float64"
-741,20120,"95913    Stewart Ave & 83rd St
-Name: start_station_name, dtype: object","95913    41.743736
-Name: start_lat, dtype: float64","95913   -87.634088
-Name: start_lng, dtype: float64"
-742,20114,"96018    Doty Ave & 111th St
-Name: start_station_name, dtype: object","96018    41.695036
-Name: start_lat, dtype: float64","96018   -87.598679
-Name: start_lng, dtype: float64"
-743,318,"96207    Oak Park & Wellington
-Name: start_station_name, dtype: object","96207    41.93
-Name: start_lat, dtype: float64","96207   -87.8
-Name: start_lng, dtype: float64"
-744,406,"96353    Kostner Ave & 63rd St
-Name: start_station_name, dtype: object","96353    41.78
-Name: start_lat, dtype: float64","96353   -87.73
-Name: start_lng, dtype: float64"
-745,400,"96402    Lawler Ave & 50th St
-Name: start_station_name, dtype: object","96402    41.8
-Name: start_lat, dtype: float64","96402   -87.75
-Name: start_lng, dtype: float64"
-746,20123,"96530    Western Ave & 104th St
-Name: start_station_name, dtype: object","96530    41.704619
-Name: start_lat, dtype: float64","96530   -87.681086
-Name: start_lng, dtype: float64"
-747,393,"96536    Oketo Ave & Addison St
-Name: start_station_name, dtype: object","96536    41.94
-Name: start_lat, dtype: float64","96536   -87.81
-Name: start_lng, dtype: float64"
-748,402,"96563    Kenneth Ave & 50th St
-Name: start_station_name, dtype: object","96563    41.8
-Name: start_lat, dtype: float64","96563   -87.73
-Name: start_lng, dtype: float64"
-749,365.0,"97215    Kildare Ave & 26th St
-Name: start_station_name, dtype: object","97215    41.84
-Name: start_lat, dtype: float64","97215   -87.73
-Name: start_lng, dtype: float64"
-750,15687,"97340    Central Park Ave & 24th St
-Name: start_station_name, dtype: object","97340    41.848064
-Name: start_lat, dtype: float64","97340   -87.715149
-Name: start_lng, dtype: float64"
-751,386,"98319    Rockwell St & 57th St
-Name: start_station_name, dtype: object","98319    41.79
-Name: start_lat, dtype: float64","98319   -87.69
-Name: start_lng, dtype: float64"
-752,20221,"98435    Torrence Ave & 106th St
-Name: start_station_name, dtype: object","98435    41.702874
-Name: start_lat, dtype: float64","98435   -87.559969
-Name: start_lng, dtype: float64"
-753,KA1504000168,"98724    Western & 28th - Velasquez Institute Vaccinati...
-Name: start_station_name, dtype: object","98724    41.84158
-Name: start_lat, dtype: float64","98724   -87.685146
-Name: start_lng, dtype: float64"
-754,331.0,"98985    Pulaski Rd & 21st St
-Name: start_station_name, dtype: object","98985    41.85
-Name: start_lat, dtype: float64","98985   -87.72
-Name: start_lng, dtype: float64"
-755,352,"99089    Sayre & Diversey
-Name: start_station_name, dtype: object","99089    41.93
-Name: start_lat, dtype: float64","99089   -87.8
-Name: start_lng, dtype: float64"
-756,348,"99272    Western Ave & 62nd St
-Name: start_station_name, dtype: object","99272    41.78
-Name: start_lat, dtype: float64","99272   -87.68
-Name: start_lng, dtype: float64"
-757,20223,"99848    Ewing Ave & Burnham Greenway
-Name: start_station_name, dtype: object","99848    41.712694
-Name: start_lat, dtype: float64","99848   -87.53459
-Name: start_lng, dtype: float64"
-758,20118,"102884    Eggleston Ave & 92nd St
-Name: start_station_name, dtype: object","102884    41.72762
-Name: start_lat, dtype: float64","102884   -87.634874
-Name: start_lng, dtype: float64"
-759,20127,"1490    Halsted St & 111th St
-Name: end_station_name, dtype: object","1490    41.692263
-Name: end_lat, dtype: float64","1490   -87.642612
-Name: end_lng, dtype: float64"
-760,20249.0,"2418    N Clark St & W Elm St
-Name: end_station_name, dtype: object","2418    41.9
-Name: end_lat, dtype: float64","2418   -87.63
-Name: end_lng, dtype: float64"
-761,540,"7983    Laramie Ave & Madison St
-Name: end_station_name, dtype: object","7983    41.880207
-Name: end_lat, dtype: float64","7983   -87.755337
-Name: end_lng, dtype: float64"
-762,16948,"11195    Ashland Ave & 63rd St
-Name: end_station_name, dtype: object","11195    41.779374
-Name: end_lat, dtype: float64","11195   -87.664843
-Name: end_lng, dtype: float64"
-763,20215,"13247    Hegewisch Metra Station
-Name: end_station_name, dtype: object","13247    41.648501
-Name: end_lat, dtype: float64","13247   -87.54609
-Name: end_lng, dtype: float64"
-764,576,"21991    Greenwood Ave & 79th St
-Name: end_station_name, dtype: object","21991    41.751294
-Name: end_lat, dtype: float64","21991   -87.597552
-Name: end_lng, dtype: float64"
-765,20105,"26167    Halsted St & 96th St
-Name: end_station_name, dtype: object","26167    41.719712
-Name: end_lat, dtype: float64","26167   -87.64302
-Name: end_lng, dtype: float64"
-766,20204,"26746    Kedzie Ave & 110th St
-Name: end_station_name, dtype: object","26746    41.692395
-Name: end_lat, dtype: float64","26746   -87.700961
-Name: end_lng, dtype: float64"
-767,20255.0,"28021    N Damen Ave & W Chicago Ave
-Name: end_station_name, dtype: object","28021    41.9
-Name: end_lat, dtype: float64","28021   -87.68
-Name: end_lng, dtype: float64"
-768,20233,"33667    Halsted St & 78th St
-Name: end_station_name, dtype: object","33667    41.752487
-Name: end_lat, dtype: float64","33667   -87.643902
-Name: end_lng, dtype: float64"
-769,329.0,"36653    Central Park Ave & Douglas Blvd
-Name: end_station_name, dtype: object","36653    41.86
-Name: end_lat, dtype: float64","36653   -87.72
-Name: end_lng, dtype: float64"
-770,16970,"36998    Bennett Ave & 79th St
-Name: end_station_name, dtype: object","36998    41.751785
-Name: end_lat, dtype: float64","36998   -87.578496
-Name: end_lng, dtype: float64"
-771,534,"40637    Karlov Ave & Madison St
-Name: end_station_name, dtype: object","40637    41.88085
-Name: end_lat, dtype: float64","40637   -87.727907
-Name: end_lng, dtype: float64"
-772,586,"45173    MLK Jr Dr & 83rd St
-Name: end_station_name, dtype: object","45173    41.743116
-Name: end_lat, dtype: float64","45173   -87.6148
-Name: end_lng, dtype: float64"
-773,16916,"56919    Central Ave & Madison St
-Name: end_station_name, dtype: object","56919    41.880121
-Name: end_lat, dtype: float64","56919   -87.763238
-Name: end_lng, dtype: float64"
-774,20103,"70063    Prospect Sq & 91st St
-Name: end_station_name, dtype: object","70063    41.728234
-Name: end_lat, dtype: float64","70063   -87.667524
-Name: end_lng, dtype: float64"
-775,439,"77367    Campbell Ave & Irving Park Rd
-Name: end_station_name, dtype: object","77367    41.95
-Name: end_lat, dtype: float64","77367   -87.69
-Name: end_lng, dtype: float64"
-776,388,"84895    Richmond St & 59th St
-Name: end_station_name, dtype: object","84895    41.79
-Name: end_lat, dtype: float64","84895   -87.7
-Name: end_lng, dtype: float64"
-777,332.0,"86952    Harding Ave & 26th St
-Name: end_station_name, dtype: object","86952    41.84
-Name: end_lat, dtype: float64","86952   -87.72
-Name: end_lng, dtype: float64"
+525,Glenwood Ave & Touhy Ave,42.012701,-87.66605799999999
+KA1503000012,Clark St & Lake St,41.88579466666667,-87.63110066666668
+637,Wood St & Chicago Ave,41.895634,-87.672069
+13216,State St & 33rd St,41.8347335,-87.6258275
+18003,Fairbanks St & Superior St,41.89580766666667,-87.62025316666669
+KP1705001026,LaSalle Dr & Huron St,41.894877,-87.632326
+13253,Lincoln Ave & Waveland Ave,41.948797,-87.675278
+KA1503000044,Rush St & Hubbard St,41.890173,-87.62618499999999
+KA1504000140,Winchester Ave & Elston Ave,41.92403733333333,-87.67641483333334
+TA1305000032,Clinton St & Madison St,41.882242,-87.64106600000001
+TA1306000012,Wells St & Huron St,41.89475366666667,-87.63440200000001
+13133,Damen Ave & Cortland St,41.915983000000004,-87.677335
+SL-005,Indiana Ave & Roosevelt Rd,41.867888,-87.623041
+13235,Southport Ave & Waveland Ave,41.94815,-87.66394
+TA1307000139,MLK Jr Dr & 29th St,41.842052,-87.617
+TA1305000009,Clark St & Ida B Wells Dr,41.8759326655,-87.63058453549999
+13276,Stockton Dr & Wrightwood Ave,41.9313455,-87.63869133333333
+TA1307000107,Sheridan Rd & Montrose Ave,41.96167,-87.65464
+13193,Larrabee St & Webster Ave,41.921822,-87.64414000000001
+KA1503000072,Wacker Dr & Washington St,41.883132,-87.637321
+TA1307000166,Halsted St & Willow St,41.913865,-87.64875500000001
+13285,Wood St & Taylor St (Temp),41.86926521843819,-87.67373085021973
+TA1306000016,Sheffield Ave & Fullerton Ave,41.92552516666667,-87.65368583333333
+13303,Clark St & Chicago Ave,41.89675,-87.63089000000001
+15575,Broadway & Thorndale Ave,41.98974251144,-87.6601406209
+623,Michigan Ave & 8th St,41.872287666666665,-87.6239145
+TA1309000050,Lincoln Ave & Addison St,41.946176,-87.67330799999999
+15445,Wentworth Ave & 33rd St,41.83452988563,-87.63182298139999
+13164,Racine Ave & 18th St,41.858166,-87.65649499999999
+TA1307000151,Wells St & Hubbard St,41.889905999999996,-87.634266
+13158,Peoria St & Jackson Blvd,41.877641596275296,-87.64961779117584
+13150,Michigan Ave & 18th St,41.857813,-87.62455
+TA1308000036,Indiana Ave & 31st St,41.83884433333333,-87.62183783333332
+TA1308000013,Halsted St & Archer Ave,41.847203,-87.646795
+TA1306000013,New St & Illinois St,41.89084704062381,-87.6186168193817
+13061,Ashland Ave & Division St,41.90345,-87.66774699999999
+TA1307000048,Fort Dearborn Dr & 31st St,41.838556,-87.60821800000001
+TA1308000045,Wallace St & 35th St,41.830628999999995,-87.64129
+13206,Loomis St & Jackson Blvd,41.877945000000004,-87.66200699999999
+13156,Aberdeen St & Monroe St,41.880419,-87.655519
+TA1306000015,Morgan St & Lake St,41.8854833079,-87.6523048564
+13058,Dayton St & North Ave,41.9105780349,-87.6494219288
+TA1309000008,Franklin St & Adams St (Temp),41.879434091400135,-87.63550400733948
+KA1504000135,Wells St & Elm St,41.90320733333333,-87.63461616666666
+KA1503000064,Dusable Harbor,41.886976000000004,-87.612813
+TA1305000022,Orleans St & Merchandise Mart Plaza,41.888243,-87.63639
+KA1504000079,Larrabee St & Division St,41.90348607004,-87.6433534936
+KA1503000022,Clark St & Montrose Ave,41.961588,-87.666036
+13109,Broadway & Berwyn Ave,41.978353000000006,-87.65975300000001
+15530,Rush St & Superior St,41.89576474564,-87.62590803270001
+TA1306000010,Daley Center Plaza,41.884240999999996,-87.629634
+13146,Clark St & Armitage Ave,41.918306,-87.636282
+15578,Broadway & Ridge Ave,41.9840446107,-87.66027382950001
+KA1503000034,LaSalle St & Adams St,41.87934437346,-87.63198522129998
+KA1503000059,Lake Park Ave & 53rd St,41.79949429373,-87.5864498959
+TA1305000011,Michigan Ave & Lake St,41.886024,-87.624117
+TA1307000061,State St & Pearson St,41.897448,-87.628722
+SL-011,Wells St & Polk St,41.872596,-87.63350200000001
+TA1309000010,Wabash Ave & 9th St,41.8702615,-87.62538516666666
+15534,Field Blvd & South Water St,41.88634906269,-87.6175165471
+TA1307000119,Clarendon Ave & Leland Ave,41.967968,-87.650001
+TA1305000029,State St & Randolph St,41.884730200599996,-87.6277335692
+TA1309000063,Lake Park Ave & 56th St,41.793242,-87.58778199999999
+KA1504000133,Rush St & Cedar St,41.90230870122,-87.62769052799999
+624,Dearborn St & Van Buren St,41.87619516666667,-87.62913033333334
+KA1503000029,South Shore Dr & 67th St,41.773643,-87.567514
+13323,Broadway & Sheridan Rd,41.952833,-87.64999300000001
+KA1504000149,Damen Ave & Foster Ave,41.97561480459,-87.6794590387
+TA1309000004,LaSalle St & Jackson Blvd,41.878166,-87.631929
+18058,Leavitt St & Chicago Ave,41.895437,-87.68198466666666
+WL-008,Clinton St & Roosevelt Rd,41.867053166666665,-87.64109383333331
+13221,Wood St & Milwaukee Ave,41.907655,-87.672552
+523,Eastlake Ter & Rogers Ave,42.020887280520604,-87.66505792737007
+TA1309000025,Halsted St & Roscoe St,41.943670000000004,-87.64895
+13288,Damen Ave & Charleston St,41.9200765,-87.67794466666666
+658,Leavitt St & Division St,41.902997,-87.683825
+TA1307000070,Damen Ave & Thomas St (Augusta Blvd),41.901315000000004,-87.677409
+TA1305000041,Damen Ave & Pierce Ave,41.9093960065,-87.6776919292
+13268,Damen Ave & Wellington Ave,41.935837,-87.67849433333332
+15667,Western Ave & Monroe St,41.8797877089,-87.68611280799999
+13084,California Ave & Milwaukee Ave,41.922695000000004,-87.697153
+15655,Albany Ave & Bloomingdale Ave,41.91393833333333,-87.70515433333334
+17660,California Ave & Cortez St,41.900363,-87.696704
+15651,Humboldt Blvd & Armitage Ave,41.91751339399,-87.7018089555
+KA1504000146,Clark St & Berwyn Ave,41.9779966544,-87.6680471047
+KA1504000151,Clark St & Bryn Mawr Ave,41.983593,-87.669154
+KA1503000041,McClurg Ct & Erie St,41.894503,-87.61785400000001
+TA1308000046,Morgan St & 31st St,41.83783666666667,-87.65113033333333
+13266,Stave St & Armitage Ave,41.917741,-87.69139200000001
+TA1307000124,Michigan Ave & 14th St,41.864059000000005,-87.623727
+13196,Carpenter St & Huron St,41.894515166666665,-87.65350183333334
+TA1306000029,Lake Shore Dr & Ohio St,41.89257,-87.614492
+TA1307000052,Sheffield Ave & Wellington Ave,41.936265999999996,-87.652662
+13021,Clinton St & Lake St,41.885637,-87.641823
+TA1305000002,Wabash Ave & Roosevelt Rd,41.867227,-87.625961
+KA1504000116,Larrabee St & Oak St,41.90021949323,-87.6429854676
+TA1305000025,Franklin St & Jackson Blvd,41.87801183333333,-87.6355415
+TA1305000034,Honore St & Division St,41.903119000000004,-87.673935
+15644,Central Park Ave & Elbridge Ave,41.93533728263,-87.7168892935
+TA1309000030,Southport Ave & Clybourn Ave,41.920771,-87.663712
+13432,Wood St & Hubbard St,41.889899,-87.67147299999999
+TA1308000049,Wells St & Evergreen Ave,41.906698,-87.63511366666668
+KA1504000117,Halsted St & North Branch St,41.899368439209994,-87.64847987520001
+RP-007,Clark St & Touhy Ave,42.01256011541,-87.6743671152
+15529,Mies van der Rohe Way & Chestnut St,41.898586651399995,-87.6219152258
+SL-008,Federal St & Polk St,41.87207763285,-87.6295437729
+TA1307000005,Indiana Ave & 26th St,41.845687,-87.62248100000001
+13068,Western Ave & Winnebago Ave,41.915541,-87.68713016666666
+TA1307000039,Clark St & Elm St,41.902972999999996,-87.63128
+13045,Dearborn St & Erie St,41.893992,-87.62931800000001
+SL-012,Wabash Ave & 16th St,41.860384,-87.625813
+TA1307000117,Wabash Ave & Grand Ave,41.891465999999994,-87.626761
+15654,Spaulding Ave & Division St,41.90270659438,-87.709219571
+13263,Columbus Dr & Randolph St,41.884728,-87.61952099999999
+13247,Ashland Ave & Chicago Ave,41.895965999999994,-87.66774699999999
+13132,Damen Ave & Chicago Ave,41.895666833333344,-87.67708133333332
+TA1308000006,Damen Ave & Grand Ave,41.891264346481535,-87.676842212677
+KA1503000069,Dorchester Ave & 49th St,41.805830666666665,-87.592499
+15623,Campbell Ave & Montrose Ave,41.96153733333333,-87.6911475
+13006,LaSalle St & Washington St,41.882664,-87.63253
+15550,Canal St & Taylor St,41.870257,-87.63947399999999
+13016,St. Clair St & Erie St,41.89434513742426,-87.62279838323593
+TA1308000021,Winthrop Ave & Lawrence Ave,41.968812,-87.657659
+LF-005,Lake Shore Dr & North Blvd,41.911722,-87.626804
+TA1309000002,Michigan Ave & Jackson Blvd,41.87785,-87.62408
+TA1305000037,Paulina Ave & North Ave,41.910337,-87.67007199999999
+15541,Buckingham Fountain,41.87651122881695,-87.62054800987242
+13022,Streeter Dr & Grand Ave,41.892278000000005,-87.612043
+KA1706005007,Delano Ct & Roosevelt Rd,41.867490999999994,-87.63219000000001
+TA1308000001,Theater on the Lake,41.926277,-87.630834
+13294,Greenview Ave & Diversey Pkwy,41.932573,-87.6659865
+15542,Clinton St & Polk St,41.871466517790005,-87.6409491327
+13245,Claremont Ave & Hirsch St,41.907781,-87.685854
+13001,Michigan Ave & Washington St,41.8839840647265,-87.6246839761734
+TA1309000042,Lincoln Ave & Belmont Ave,41.939408666666665,-87.6683635
+13033,Milwaukee Ave & Grand Ave,41.891578,-87.648384
+TA1309000024,Clark St & Schiller St,41.90810066666667,-87.63155916666666
+13265,Kingsbury St & Erie St,41.89380805624359,-87.64169722795485
+13071,Southport Ave & Roscoe St,41.943739,-87.66402
+13085,Kedzie Ave & Milwaukee Ave,41.92960383333333,-87.70789566666667
+KA1504000090,St. Louis Ave & Fullerton Ave,41.92481559681187,-87.71449506282805
+535,Pulaski Rd & Congress Pkwy,41.874325,-87.72570400000001
+13277,Broadway & Belmont Ave,41.940106,-87.645451
+KA1504000152,Lakefront Trail & Bryn Mawr Ave,41.98403669612,-87.6523104689
+TA1309000058,Lincoln Ave & Fullerton Ave,41.92593,-87.64926666666666
+16994,Kilbourn Ave & Milwaukee Ave,41.948803000000005,-87.73998116666668
+13278,Broadway & Cornelia Ave,41.945529,-87.646439
+E002,Chicago Ave & Washington St,42.032562,-87.679101
+KA1504000080,Washtenaw Ave & Lawrence Ave,41.96867133333333,-87.6961615
+TA1308000022,Pine Grove Ave & Irving Park Rd,41.954316166666665,-87.64809816666668
+TA1309000027,Sheridan Rd & Buena Ave,41.958494,-87.654966
+KA1504000155,2112 W Peterson Ave,41.991178000000005,-87.683593
+TA1305000014,Clark St & Wrightwood Ave,41.929571,-87.64309033333332
+TA1308000031,Logan Blvd & Elston Ave,41.929404999999996,-87.68418683333331
+KA1504000164,Keystone Ave & Montrose Ave,41.96110801623,-87.7289701012
+15640,Avers Ave & Belmont Ave,41.939408,-87.723574
+620,Orleans St & Chestnut St (NEXT Apts),41.898203,-87.637536
+TA1309000061,Halsted St & Wrightwood Ave,41.929142999999996,-87.649077
+TA1308000050,Wells St & Concord Ln,41.912133000000004,-87.634656
+13379,Clarendon Ave & Gordon Ter,41.95786233333333,-87.649478
+13389,Clarendon Ave & Junior Ter,41.961003999999996,-87.649603
+KA1504000161,St. Louis Ave & Balmoral Ave,41.98039423475,-87.7161149615
+TA1307000149,Ravenswood Ave & Irving Park Rd,41.95469,-87.67393
+13224,Ashland Ave & Blackhawk St,41.907066,-87.667252
+TA1306000009,Larrabee St & Kingsbury St,41.897764,-87.642884
+605,University Library (NU),42.052939,-87.673447
+KA1504000134,Ritchie Ct & Banks St,41.90704933333333,-87.62598233333334
+KA1503000007,Cornell Ave & Hyde Park Blvd,41.802406,-87.586924
+520,Greenview Ave & Jarvis Ave,42.015962,-87.66856999999999
+13144,Seeley Ave & Roscoe St,41.943403,-87.679618
+517,Clark St & Jarvis Ave,42.0159715,-87.67504016666666
+638,Clinton St & Jackson Blvd,41.878063833333336,-87.64004366666668
+KA1503000070,Harper Ave & 59th St,41.78794281287,-87.5883151702
+13197,Elizabeth (May) St & Fulton St,41.886616486027656,-87.65803992748259
+13191,Sedgwick St & Webster Ave,41.922167,-87.638888
+KA1504000175,Glenwood Ave & Morse Ave,42.00797192287,-87.66550239440001
+13008,Millennium Park,41.8810317,-87.62408432
+TA1307000006,Southport Ave & Wellington Ave,41.935733,-87.663576
+13338,Mies van der Rohe Way & Chicago Ave,41.89691,-87.62174300000001
+13011,Canal St & Adams St,41.879255,-87.639904
+KA1504000159,Sheridan Rd & Greenleaf Ave,42.010586562840004,-87.66241209479999
+13292,Kedzie Ave & Palmer Ct,41.921525,-87.70732199999999
+RN-,Franklin St & Illinois St,41.89102331025185,-87.63547986745834
+13256,California Ave & Division St,41.903029,-87.697474
+TA1308000029,Stetson Ave & South Water St,41.886835,-87.62232
+15491,63rd St Beach,41.78101637195999,-87.5761197602
+TA1309000021,Paulina St & Montrose Ave,41.961507,-87.671387
+13354,Ashland Ave & 13th St,41.865234,-87.666507
+TA1307000159,Paulina St & 18th St,41.857901,-87.668745
+TA1309000037,Kimbark Ave & 53rd St,41.799568,-87.594747
+KA1504000158,Oakley Ave & Irving Park Rd,41.95434085219,-87.6860796243
+13332,Loomis St & Lexington St,41.872187,-87.661501
+TA1308000005,Leavitt St & North Ave,41.910140000000006,-87.68235233333333
+TA1307000138,Lincoln Ave & Roscoe St,41.94334,-87.67097
+KA1503000040,Loomis St & Archer Ave,41.84163253965,-87.6574349533
+TA1307000134,Wilton Ave & Belmont Ave,41.94018,-87.65304
+13136,Damen Ave & Division St,41.903265999999995,-87.678435
+TA1308000035,Lake Park Ave & 47th St,41.809443,-87.591875
+TA1309000029,Leavitt St & Armitage Ave,41.917805,-87.682437
+13154,Sheffield Ave & Kingsbury St,41.910522,-87.65310600000001
+13135,Blue Island Ave & 18th St,41.857556,-87.661535
+13096,California Ave & 21st St,41.853804,-87.69574200000001
+TA1309000012,Damen Ave & Sunnyside Ave,41.96325,-87.67925799999999
+13304,Racine Ave & 15th St,41.861267,-87.656625
+KA1504000076,Ellis Ave & 55th St,41.79430062054001,-87.6014497734
+SL-007,State St & Harrison St,41.874053,-87.627716
+657,Wood St & Augusta Blvd,41.899181,-87.6722
+TA1309000018,Ravenswood Ave & Berteau Ave,41.957921,-87.673567
+13029,Field Museum,41.865312,-87.617867
+TA1306000002,Morgan Ave & 14th Pl,41.862378,-87.651062
+TA1309000035,Clark St & Winnemac Ave,41.97338333333333,-87.66773616666669
+13307,Laflin St & Cullerton St,41.85491457576575,-87.66355991363525
+643,Smith Park,41.891996166666665,-87.68938299999999
+13325,Broadway & Waveland Ave,41.949073999999996,-87.648636
+TA1305000039,Marshfield Ave & Cortland St,41.91604933333333,-87.6689225
+TA1307000144,Wolcott (Ravenswood) Ave & Montrose Ave,41.96144316666667,-87.67620366666668
+18062,Aberdeen St & Randolph St,41.884114000000004,-87.654264
+13073,Ashland Ave & Lake St,41.88585116666667,-87.6671645
+TA1309000026,Lincoln Ave & Belle Plaine Ave,41.95602616666667,-87.68023516666666
+15621,Albany Ave & Montrose Ave,41.961040999999994,-87.705866
+TA1308000009,Shore Dr & 55th St,41.795212,-87.580715
+TA1307000044,Clinton St & 18th St,41.85795,-87.640826
+13143,Damen Ave & Melrose Ave,41.940571666666656,-87.67868916666669
+20121,Loomis Blvd & 84th St,41.741487,-87.65841
+TA1309000007,Franklin St & Monroe St,41.880317,-87.63518499999999
+KA1504000127,Manor Ave & Leland Ave,41.965875,-87.700825
+13063,Sheridan Rd & Irving Park Rd,41.954245,-87.65440600000001
+TA1307000150,Pine Grove Ave & Waveland Ave,41.94947274088333,-87.64645278453827
+13341,Canal St & Madison St,41.882090999999996,-87.639833
+13179,Clark St & Lincoln Ave,41.9157335,-87.63461466666666
+13296,Ashland Ave & Wrightwood Ave,41.92883,-87.66850699999999
+TA1309000023,Sheffield Ave & Wrightwood Ave,41.928712,-87.65383299999999
+13108,Broadway & Argyle St,41.973815,-87.65966
+TA1307000142,Clark St & Drummond Pl,41.931248,-87.644336
+TA1309000039,Lake Shore Dr & Diversey Pkwy,41.932588,-87.636427
+TA1309000043,Southport Ave & Irving Park Rd,41.954177,-87.664358
+KA17018054,Damen Ave & Walnut (Lake) St,41.885919666666666,-87.67707300000002
+SL-006,Wells St & 19th St,41.856802,-87.63387900000001
+13192,Halsted St & Dickens Ave,41.919936,-87.64883
+TA1308000014,Normal Ave & Archer Ave,41.849556666666665,-87.64060433333331
+331,Halsted St & Clybourn Ave,41.909667999999996,-87.648128
+TA1307000158,Damen Ave & Leland Ave,41.96710316666667,-87.6790435
+13128,Clark St & North Ave,41.911974,-87.63194200000001
+TA1305000005,Dearborn St & Adams St,41.8793563587,-87.62979103629999
+TA1306000014,Wilton Ave & Diversey Pkwy,41.932418,-87.65270500000001
+TA1307000131,Wabash Ave & Wacker Pl,41.886875,-87.62603
+TA1306000032,Sheffield Ave & Willow St,41.913688,-87.652855
+KA1504000082,Kedzie Ave & Harrison St,41.8736,-87.704871
+SL-009,Clark St & 9th St (AMLI),41.870816,-87.63124599999999
+TA1307000041,Lake Shore Dr & Wellington Ave,41.936688449499705,-87.63682901859283
+TA1309000019,Lakeview Ave & Fullerton Pkwy,41.92582616666667,-87.63898233333332
+13137,Broadway & Barry Ave,41.93761283333333,-87.64412966666669
+13434,Ashland Ave & Grand Ave,41.891082166666656,-87.6667135
+TA1307000126,Sheffield Ave & Waveland Ave,41.949399,-87.65452900000001
+13194,Ogden Ave & Race Ave,41.89182266666667,-87.65879433333332
+13017,Franklin St & Chicago Ave,41.89674697309381,-87.63566762208939
+TA1307000140,Western Ave & Leland Ave,41.96649453206122,-87.68841862678528
+15622,California Ave & Montrose Ave,41.961068,-87.69543900000001
+13430,LaSalle St & Illinois St,41.89080633333333,-87.63156666666669
+KA1503000002,South Shore Dr & 71st St,41.7664094567,-87.5656875719
+TA1305000003,Fairbanks Ct & Grand Ave,41.89184737210993,-87.62058019638063
+13431,Adler Planetarium,41.866095,-87.60726700000001
+TA1307000120,Green St & Madison St,41.881892,-87.64878900000001
+WL-012,Clinton St & Washington Blvd,41.883379999999995,-87.64116999999999
+18069,Cherry Ave & Blackhawk St,41.907221,-87.655618
+TA1309000067,Cottage Grove Ave & 51st St,41.803038,-87.606615
+KA1504000097,Drake Ave & Montrose Ave,41.961154075690004,-87.7165690733
+15571,Broadway & Granville Ave,41.99473316666667,-87.660209
+15689,California Ave & 23rd Pl,41.84910969176,-87.6951398068
+TA1307000064,Lincoln Ave & Diversey Pkwy,41.932225,-87.658617
+KA1503000047,Perry Ave & 69th St,41.76929308995,-87.6281959291
+13102,Calumet Ave & 18th St,41.857611,-87.619407
+TA1307000111,Franklin St & Lake St,41.885837,-87.6355
+13056,Canal St & Monroe St,41.88169,-87.63953000000001
+13036,Michigan Ave & Madison St,41.881901166666665,-87.6251145
+13427,Cityfront Plaza Dr & Pioneer Ct,41.890572999999996,-87.622072
+SL-010,Financial Pl & Ida B Wells Dr,41.8750236280333,-87.6330940425396
+18067,Walsh Park,41.914609999999996,-87.667968
+13398,Blackstone Ave & Hyde Park Blvd,41.802562,-87.59036800000001
+13353,Ada St & Washington Blvd,41.882857,-87.6611585
+TA1305000006,Dearborn St & Monroe St,41.881319815,-87.6295209193
+TA1309000036,Burling St & Diversey Pkwy,41.93314,-87.64775999999999
+TA1305000030,Clark St & Randolph St,41.884576228,-87.63188991
+TA1305000010,Michigan Ave & Ida B Wells Dr,41.87618783333333,-87.624402
+TA1306000026,Racine Ave & Fullerton Ave,41.92556258,-87.65840426
+654,Racine Ave & Washington Blvd,41.883072999999996,-87.656952
+TA1308000019,Racine Ave & Belmont Ave,41.939747333333344,-87.65883216666668
+13165,Racine Ave & 13th St,41.865054,-87.656959
+13409,Sangamon St & Washington Blvd,41.883165000000005,-87.6511
+WL-011,Jefferson St & Monroe St,41.880421999999996,-87.642746
+15646,California Ave & Altgeld St,41.926641833333335,-87.69780033333332
+KA1504000104,Paulina St & Flournoy St,41.87295,-87.66913000000001
+13300,Lake Shore Dr & Monroe St,41.880958,-87.616743
+13269,Ashland Ave & Wellington Ave,41.936083,-87.66980699999999
+TA1308000026,Wentworth Ave & 24th St (Temp),41.850083693475774,-87.6321405172348
+644,Western Ave & Fillmore St,41.868563,-87.686234
+15650,Spaulding Ave & Armitage Ave,41.91710803478932,-87.71022096276283
+TA1307000113,Southport Ave & Wrightwood Ave,41.928773,-87.663913
+TA1307000128,Dearborn Pkwy & Delaware Pl,41.899047499999995,-87.62992833333334
+TA1306000008,Larrabee St & North Ave,41.91021,-87.6435
+636,Orleans St & Hubbard St,41.890028,-87.636618
+TA1307000143,Sedgwick St & Schiller St,41.9075635,-87.6385625
+KA150400009X,Kimball Ave & Belmont Ave,41.939398,-87.711561
+TA1307000130,Morgan St & Polk St,41.871736999999996,-87.65103
+18016,Bernard St & Elston Ave,41.949923,-87.713949
+TA1307000062,Sedgwick St & Huron St,41.894666,-87.638437
+LP-,Lincoln Park Conservatory,41.92393131136619,-87.63582453131676
+13050,State St & Kinzie St,41.889187,-87.62775400000001
+13243,Milwaukee Ave & Wabansia Ave,41.912616,-87.681391
+E011,Dodge Ave & Main St,42.034832,-87.6991795
+KA1503000014,Ellis Ave & 60th St,41.785097146359995,-87.60107276059999
+RP-009,Sheridan Rd & Loyola Ave,42.00104377979,-87.66119824329999
+KA1504000129,Western Ave & Granville Ave,41.994184499999996,-87.68942416666668
+13138,Canal St & Jackson Blvd,41.877245,-87.63936600000001
+KA1503000052,Ellis Ave & 53rd St,41.79933626261,-87.6009581145
+18017,Central Park Ave & Bloomingdale Ave,41.914165999999994,-87.716755
+TA1309000032,Elston Ave & Wabansia Ave,41.91294716666667,-87.66418416666669
+TA1307000160,Prairie Ave & Garfield Blvd,41.794853,-87.618691
+15632,Talman Ave & Addison St,41.946638666666665,-87.69468766666668
+15545,Burnham Harbor,41.856268,-87.613348
+20239,Marquette Ave & 89th St,41.73366879071472,-87.55834221839905
+TA1308000002,Greenwood Ave & 47th St,41.809835,-87.59938299999999
+TA1309000049,Lake Shore Dr & Belmont Ave,41.940775,-87.63919200000001
+13289,Eckhart Park,41.89637337,-87.66098386
+TA1307000121,Halsted St & Polk St,41.87184,-87.64664
+13139,Throop St & Taylor St,41.868968,-87.659141
+13053,Green St & Randolph St,41.883668,-87.64867
+632,Clark St & Newport St,41.94454,-87.654678
+536,Kostner Ave & Lake St,41.885928,-87.73541
+13271,Damen Ave & Clybourn Ave,41.931931,-87.677856
+13034,Michigan Ave & Pearson St,41.897659999999995,-87.62351
+TA1307000001,Greenview Ave & Fullerton Ave,41.925329999999995,-87.6658
+13290,Noble St & Milwaukee Ave,41.90068,-87.6626
+TA1307000115,Clybourn Ave & Division St,41.904613,-87.640552
+Hubbard Bike-checking (LBS-WH-TEST),Base - 2132 W Hubbard Warehouse,41.88995451607409,-87.68065094947815
+15652,Central Park Ave & North Ave,41.90965687563,-87.7166319516
+KA1503000015,Wabash Ave & Adams St,41.87947235235,-87.6256886059
+TA1307000066,Damen Ave & Coulter St,41.8491195,-87.67570183333332
+KA1504000162,Clark St & Lunt Ave,42.009074,-87.67419
+TA1305000035,State St & Van Buren St,41.877181,-87.627844
+15443,Shields Ave & 28th Pl,41.84284333333333,-87.63548
+13059,Bissell St & Armitage Ave,41.918440000000004,-87.65222
+KA1503000038,Shields Ave & 31st St,41.838464,-87.635406
+KA1503000066,Wood St & 35th St,41.830104654159996,-87.67029830889999
+TA1307000163,Clifton Ave & Armitage Ave,41.918215999999994,-87.656936
+TA1309000001,Halsted St & Maxwell St,41.864883,-87.647071
+TA1309000055,Emerald Ave & 31st St,41.838198,-87.645143
+514,Ridge Blvd & Howard St,42.019276,-87.68451999999999
+KA1504000103,Western Ave & Walton St,41.89841768945,-87.68659601639999
+15535,Desplaines St & Randolph St,41.88461618962,-87.6445705849
+TA1307000153,Emerald Ave & 28th St,41.843579999999996,-87.645368
+13217,Calumet Ave & 33rd St,41.8349,-87.61793
+15446,Racine Ave & 35th St,41.83069611252,-87.6559759116
+13160,May St & Taylor St,41.8694821,-87.6554864
+KA1503000043,Kingsbury St & Kinzie St,41.88917683258,-87.6385057718
+TA1306000003,Desplaines St & Kinzie St,41.888716036,-87.6444478533
+15442,Ashland Ave & Archer Ave,41.83920868403,-87.6656098589
+15539,Desplaines St & Jackson Blvd,41.878161166666665,-87.64428766666668
+KA1503000032,Union Ave & Root St,41.819102,-87.64327800000001
+13345,Calumet Ave & 35th St,41.831379,-87.618034
+13162,Halsted St & 21st St,41.85377981072743,-87.6466029882431
+13157,Aberdeen St & Jackson Blvd,41.87772613,-87.65478743
+TA1307000129,State St & 35th St,41.8310363140161,-87.62679755687714
+RP-005,Western Ave & Lunt Ave,42.0085943972,-87.69049223889999
+KA1503000027,Prairie Ave & 43rd St,41.81665889302,-87.61941246190001
+TA1305000020,Ogden Ave & Chicago Ave,41.896362458,-87.65406127290001
+TA1306000025,Racine Ave & Congress Pkwy,41.87464,-87.65703
+16010,Keystone Ave & Fullerton Ave,41.92459,-87.72785
+TA1309000064,Wolcott Ave & Polk St,41.871262,-87.673688
+KA1504000142,Drake Ave & Addison St,41.947326000000004,-87.717582
+KA1503000074,Museum of Science and Industry,41.79172820953,-87.58394500899999
+TA1309000011,Ellis Ave & 58th St,41.788746,-87.601334
+KA1503000013,Princeton Ave & Garfield Blvd,41.794982,-87.633124
+KA1503000020,South Shore Dr & 74th St,41.76218896038,-87.55927465
+TA1307000164,Woodlawn Ave & 55th St,41.795264,-87.596471
+KA1503000071,University Ave & 57th St,41.791478000000005,-87.599861
+KA1503000068,Leavitt St & Archer Ave,41.82879201994,-87.6806044594
+KA1503000065,Woodlawn Ave & Lake Park Ave,41.81409271048,-87.5970051479
+13257,Campbell Ave & North Ave,41.910534999999996,-87.68955600000001
+TA1308000007,MLK Jr Dr & 47th St,41.809851,-87.616279
+13326,Canal St & Harrison St,41.874255,-87.639573
+TA1309000059,Racine Ave & Wrightwood Ave,41.928886999999996,-87.658971
+KA1504000109,Washtenaw Ave & Ogden Ave,41.86193049278259,-87.69345045089722
+13099,Halsted St & 18th St,41.857499,-87.646277
+TA1307000127,Clark St & Grace St,41.95078,-87.659172
+13258,California Ave & North Ave,41.91044,-87.6972
+13155,Racine Ave & Randolph St,41.884069000000004,-87.656853
+KA1504000148,Clark St & Elmdale Ave,41.990860448125574,-87.66972362995148
+13319,Ashland Ave & Grace St,41.950687,-87.6687
+TA1308000012,Montrose Harbor,41.963982,-87.638181
+KA1504000171,Marine Dr & Ainslie St,41.9716,-87.650154
+15648,Campbell Ave & Fullerton Ave,41.92463247165,-87.6893070063
+13074,Broadway & Wilson - Truman College Vaccination Site,41.965221,-87.658139
+TA1305000001,Wabash Ave & Cermak Rd,41.852619,-87.626488
+TA1309000041,Sheridan Rd & Lawrence Ave,41.9694705,-87.6547185
+15645,Richmond St & Diversey Ave,41.93190196886,-87.7011951301
+TA1305000017,Halsted St & Roosevelt Rd,41.867323999999996,-87.648625
+13248,Ashland Ave & Augusta Blvd,41.899643,-87.6677
+13037,Clinton St & Tilden St,41.875885,-87.640795
+KA1504000078,Lincoln Ave & Winona St,41.97491129677,-87.69250255940001
+13229,Southport Ave & Belmont Ave,41.93947775040509,-87.6637476682663
+TA1309000033,Sheffield Ave & Webster Ave,41.92154,-87.653818
+TA1306000007,Larrabee St & Menomonee St,41.91468,-87.64331999999999
+TA1307000156,Lincoln Ave & Sunnyside Ave,41.963004,-87.684781
+13215,Rhodes Ave & 32nd St,41.83670583333333,-87.61341483333334
+639,Lakefront Trail & Wilson Ave,41.965845,-87.645361
+13124,Cannon Dr & Fullerton Ave,41.9267559875,-87.6344287848
+15544,Shedd Aquarium,41.86722595682,-87.61535539020001
+599,Valli Produce - Evanston Plaza,42.039742,-87.699413
+546,Damen Ave & Pershing Rd,41.823192,-87.676597
+15691,Albany Ave & 26th St,41.844475013659995,-87.70201301280001
+KA1503000075,DuSable Museum,41.79156801058,-87.60785217739999
+515,Paulina St & Howard St,42.019159,-87.673573
+15664,Artesian Ave & Hubbard St,41.88949181977,-87.68821936479999
+15668,Western Ave & Congress Pkwy,41.874748850790006,-87.6864452757
+13134,Damen Ave & Madison St,41.881370000000004,-87.67493
+KA1504000102,Fairfield Ave & Roosevelt Rd,41.866624,-87.694521
+13091,Western Ave & 21st St,41.854109,-87.685838
+598,Elmwood Ave & Austin St,42.02579,-87.6841135
+600,Dodge Ave & Church St,42.048308,-87.698224
+15634,Western Ave & Roscoe St,41.943093,-87.6873335
+661,Evanston Civic Center,42.057044,-87.686554
+13028,900 W Harrison St,41.874753999999996,-87.649807
+KA1504000156,Clark St & Schreiber Ave,41.99925182186,-87.67137733930001
+E014,Lincolnwood Dr & Central St,42.064854,-87.71529699999999
+TA1307000038,Sedgwick St & North Ave,41.91141,-87.638713
+E006,Central St Metra,42.063598,-87.69873
+KA1503000018,Jeffery Blvd & 71st St,41.76663823695,-87.5764501141
+13163,Morgan St & 18th St,41.858086,-87.651073
+TA1307000136,Clark St & Wellington Ave,41.9364968219,-87.64753865819999
+TA1308000038,Cottage Grove Ave & Oakwood Blvd,41.822984999999996,-87.6071
+TA1308000043,Halsted St & 35th St,41.830661,-87.647172
+15546,Calumet Ave & 21st St,41.85418424947,-87.6191537415
+KA1504000101,Ogden Ave & Roosevelt Rd,41.86650148316,-87.68469707
+13075,Wentworth Ave & Cermak Rd,41.85308455741279,-87.63193130493164
+KA1504000093,Rockwell St & Eastwood Ave,41.965900139759995,-87.6936384935
+KA1504000106,Kedzie Ave & Lake St,41.88460328501,-87.7063037436
+KA17018068,Leavitt St & Belmont Ave,41.939353999999994,-87.68328199999999
+13241,Western Ave & Division St,41.902893,-87.687275
+13042,Michigan Ave & Oak St,41.900777833333336,-87.62373666666667
+TA1309000015,Leavitt St & Lawrence Ave,41.968885,-87.684001
+RP-004,Oakley Ave & Touhy Ave,42.012342,-87.688243
+TA1308000047,Southport Ave & Clark St,41.957081,-87.664199
+596,Benson Ave & Church St,42.048214,-87.683485
+TA1309000014,Clark St & Leland Ave,41.967096000000005,-87.667429
+660,Sheridan Rd & Columbia Ave,42.004583000000004,-87.661406
+TA1309000066,Ravenswood Ave & Lawrence Ave,41.96909,-87.674237
+KA1504000143,Leavitt St & Addison St,41.94657816666667,-87.683387
+553,Elizabeth St & 47th St,41.80839,-87.656526
+13420,MLK Jr Dr & Pershing Rd,41.8246,-87.61678
+15642,California Ave & Fletcher St,41.93842879148,-87.69800775600001
+TA1305000004,McCormick Place,41.8513751729,-87.61883464889999
+KA1504000139,Monticello Ave & Irving Park Rd,41.95400483876,-87.7191281797
+13249,Ashland Ave & Belle Plaine Ave,41.956057,-87.668835
+15653,Troy St & North Ave,41.90976930169,-87.7052804871
+13081,Ogden Ave & Congress Pkwy,41.875017,-87.6731475
+TA1306000006,Orleans St & Elm St,41.90291216666667,-87.637745
+13242,Milwaukee Ave & Rockwell St,41.92019556200566,-87.69265919923781
+15615,Christiana Ave & Lawrence Ave,41.96835449363,-87.7118306675
+15470,Calumet Ave & 51st St,41.80229465088,-87.6180535802
+13331,May St & Cullerton St,41.855136,-87.654127
+E008,Chicago Ave & Sheridan Rd,42.050491,-87.677821
+16918,Austin Blvd & Madison St,41.880281,-87.77445300000001
+590,Kilbourn Ave & Irving Park Rd,41.953733,-87.740569
+SL-013,State St & 19th St,41.856594,-87.627542
+20238,Greenwood Ave & 97th St,41.71870315475741,-87.59703576564789
+655,Hoyne Ave & Balmoral Ave,41.979847166666666,-87.68198083333333
+RP-008,Clark St & Columbia Ave,42.00445062934,-87.6724024047
+650,Eggleston Ave & 69th St,41.768898,-87.635876
+KA1504000160,Francisco Ave & Foster Ave,41.97563272521,-87.70141943889999
+15624,Avondale Ave & Irving Park Rd,41.953393,-87.73200200000001
+594,Western Blvd & 48th Pl,41.805661,-87.683392
+TA1309000003,Western Ave & 24th St,41.84847,-87.685109
+519,Wolcott Ave & Fargo Ave,42.01691666666667,-87.67777883333332
+TA1309000006,Larrabee St & Armitage Ave,41.918084,-87.643749
+KA1706005015,Kildare Ave & Montrose Ave,41.961079999999995,-87.73569
+18022,Archer (Damen) Ave & 37th St,41.826712,-87.683144
+KA1504000167,Kedzie Ave & Bryn Mawr Ave,41.98239708485,-87.7089225202
+KA1503000004,Lake Park Ave & 35th St,41.83127423549,-87.6087991946
+KA1503000019,Stony Island Ave & 75th St,41.758669670399996,-87.586882871
+E007,Central St & Girard Ave,42.064313,-87.686152
+15685,Central Park Ave & Ogden Ave,41.85406350387447,-87.71511733531952
+20254.0,W Armitage Ave & N Sheffield Ave,41.92,-87.65
+KA1503000054,Cottage Grove Ave & 63rd St,41.780730833333344,-87.6058085
+KA1504000147,Winchester (Ravenswood) Ave & Balmoral Ave,41.979762,-87.67753
+631,Malcolm X College Vaccination Site,41.87761716666667,-87.67387333333332
+KA1504000091,Hoyne Ave & 47th St,41.808227,-87.67718
+13089,Damen Ave & Cullerton St,41.854966518753926,-87.67569959163664
+16906,Austin Blvd & Lake St,41.887919000000004,-87.774446
+KA1503000005,Wentworth Ave & 35th St,41.830777000000005,-87.632504
+16921,Austin Blvd & Chicago Ave,41.894887,-87.774704
+KA1504000128,Kedzie Ave & Foster Ave,41.975671999999996,-87.709261
+15631,Troy St & Elston Ave,41.94524356848,-87.7066499009
+15628,California Ave & Byron St,41.952162193259994,-87.69805111299999
+KA1504000110,Millard Ave & 26th St,41.84455710033698,-87.71607220172882
+595,Wabash Ave & 87th St,41.736646,-87.62263399999999
+585,Cottage Grove Ave & 83rd St,41.743441,-87.60483599999999
+584,Ellis Ave & 83rd St,41.744122999999995,-87.599034
+530,Laramie Ave & Kinzie St,41.887832,-87.755527
+TA1306000011,Wells St & Walton St,41.89993001,-87.63443007
+604,Sheridan Rd & Noyes St (NU),42.058239,-87.677432
+20253.0,N Paulina St & Lincoln Ave,41.94,-87.67
+13259,California Ave & Francis Pl (Temp),41.91849115368695,-87.69742280244827
+15643,Kosciuszko Park,41.93062166666667,-87.72378883333332
+KA1503000025,Wentworth Ave & 63rd St,41.78007963264,-87.6297463052
+16903,Cicero Ave & Lake St,41.886841,-87.745261
+527,Western Ave & Howard St,42.0189505,-87.6900365
+KA1503000049,Rainbow Beach,41.757871448290004,-87.54938625
+570,Evans Ave & 75th St,41.75849,-87.60641
+KA1504000114,Kedzie Ave & Chicago Ave,41.895465303049995,-87.7061278837
+KA1503000033,Eberhart Ave & 61st St,41.78414169317,-87.6133078304
+592,Knox Ave & Montrose Ave,41.960631,-87.745359
+KA1504000126,Kedzie Ave & Leland Ave,41.96668636205,-87.70805198059999
+545,Kostner Ave & Adams St,41.877917,-87.735737
+KA1503000009,Princeton Ave & 47th St,41.809317709240005,-87.633449288
+15585,Budlong Woods Library,41.98366470886,-87.69642256110001
+RP-001,Warren Park West,42.001785,-87.688829
+KA1503000073,MLK Jr Dr & 56th St,41.79342945658,-87.6158532619
+KA1504000113,Sacramento Blvd & Franklin Blvd,41.890604833333335,-87.7025885
+646,State St & 54th St,41.796642,-87.625923
+TA1308000023,Cottage Grove Ave & 43rd St,41.81650916666667,-87.60661666666668
+TA1309000053,Cottage Grove Ave & 47th St,41.809855,-87.606755
+KA1504000096,Sawyer Ave & Irving Park Rd,41.95358617895,-87.7093107999
+15666,California Ave & Lake St,41.88445395657,-87.69629813680001
+16920,Central Ave & Chicago Ave,41.894958,-87.764902
+15449,State St & Pershing Rd,41.82301523798,-87.62656801850001
+KA1503000023,Stony Island Ave & 67th St,41.77345849948,-87.5853397391
+583,Stony Island Ave & 82nd St,41.74661,-87.58596933333334
+KA1503000024,Yates Blvd & 75th St,41.758767999999996,-87.56644
+TA1309000051,Commercial Ave & 83rd St,41.7446365,-87.55119416666666
+KA1503000021,Stony Island Ave & 64th St,41.778881,-87.586647
+16907,Central Park Blvd & 5th Ave,41.875653666666665,-87.71554783333332
+16806,Bosworth Ave & Howard St,42.019514,-87.66932183333331
+16991,Milwaukee Ave & Cuyler Ave,41.95449933333333,-87.74959383333334
+KA1503000010,Halsted St & 51st St,41.80183164049,-87.645213904
+KA1503000046,Dorchester Ave & 63rd St,41.7804056457,-87.5914159893
+KA1504000141,Pulaski Rd & Eddy St (Temp),41.946264,-87.731023
+KA1504000130,Maplewood Ave & Peterson Ave,41.990198,-87.6934005
+RP-006,Ridge Blvd & Touhy Ave,42.01213227742,-87.6829126443
+13083,Indiana Ave & 40th St,41.82168,-87.6216
+518,Conservatory Dr & Lake St,41.88545666666667,-87.71684833333332
+20210,State St & 123rd St,41.67064383687979,-87.62258648872375
+20206,Homewood Ave & 115th St,41.68459507202617,-87.67070800065994
+20131,Cottage Grove Ave & 111th Pl,41.69170975847015,-87.61000156402588
+20229,Baltimore Ave & 87th St,41.73733560041666,-87.54851460456847
+528,Pulaski Rd & Lake St,41.885409,-87.72649100000001
+RP-002,Warren Park East,42.00454962194,-87.6806661451
+573,State St & 79th St,41.750794,-87.624424
+KA1503000031,Cottage Grove Ave & 67th St,41.77371016666667,-87.60564683333334
+20109,Vernon Ave & 107th St,41.70012137923888,-87.61225998401642
+KA1503000051,Halsted St & 47th Pl,41.80813391481,-87.64561655450001
+KA1503000030,Jeffery Blvd & 67th St,41.77351755125,-87.57714282549999
+15687,Central Park Ave & 24th St,41.848116833333336,-87.71511283333334
+20223,Ewing Ave & Burnham Greenway,41.712748761094964,-87.53481388092041
+KA1503000003,Cottage Grove Ave & 71st St,41.76571903697,-87.60495971299999
+20252.0,W Oakdale Ave & N Broadway,41.94,-87.64
+649,Stewart Ave & 63rd St,41.779835,-87.634774
+20214,Avenue O & 134th St,41.65191333333333,-87.53950833333332
+TA1307000161,Halsted St & 37th St,41.827059000000006,-87.64572
+20104,State St & 95th St,41.7218499,-87.62285440000001
+20247.0,W Washington Blvd & N Peoria St,41.88,-87.65
+662,Dodge Ave & Mulford St,42.0236905,-87.6996185
+20119,Elizabeth St & 92nd St,41.726798963701185,-87.6542901992798
+20129,Ada St & 113th St,41.687561623357375,-87.65547573566435
+653,Cornell Dr & Hayes Dr,41.780595,-87.584846
+KA1503000045,Stony Island Ave & 71st St,41.7664929373,-87.5864608775
+569,Woodlawn Ave & 75th St,41.759159999999994,-87.595751
+20110,Eberhart Ave & 91st St,41.72942527802096,-87.60952949523924
+20218,Avenue O & 118th St,41.68100145911039,-87.53793122268691
+20127,Halsted St & 111th St,41.69226255589166,-87.64261186122894
+KA1503000055,Halsted & 63rd - Kennedy-King Vaccination Site,41.779381142279995,-87.6446208145
+16915,Central Ave & Harrison St,41.87299733333333,-87.7644945
+13080,Hermitage Ave & Polk St,41.871514000000005,-87.669886
+652,Rhodes Ave & 71st St,41.766000000000005,-87.611726
+20116,Dauphin Ave & 87th St,41.736559,-87.601258
+15692,California Ave & 26th St,41.84404,-87.695296
+534,Karlov Ave & Madison St,41.88085366666667,-87.72799766666668
+582,Phillips Ave & 83rd St,41.744531,-87.56506
+20113,Dauphin Ave & 103rd St,41.707250367781796,-87.60766267776489
+20245,Ashland Ave & 74th St,41.759236,-87.663474
+KA1504000168,Western & 28th - Velasquez Institute Vaccination Site,41.84150516666666,-87.68516483333332
+20107,Walden Pkwy & 100th St,41.712164103598035,-87.66773343086244
+KA1504000086,Kedzie Ave & 24th St,41.848191,-87.705414
+16970,Bennett Ave & 79th St,41.751785,-87.578496
+20228,Constance Ave & 95th St,41.722290740952616,-87.57896840572357
+20123,Western Ave & 104th St,41.70458710218908,-87.68120348453522
+20101,Summit Ave & 86th St,41.737848,-87.6449
+KA1503000011,Halsted St & 56th St,41.79292964599001,-87.64499005649999
+20257.0,N Southport Ave & W Newport Ave,41.94,-87.66
+16937,Ashland Ave & McDowell Ave,41.80887,-87.66454
+586,MLK Jr Dr & 83rd St,41.743116,-87.6148
+559,Racine Ave & Garfield Blvd,41.794228000000004,-87.655073
+20227,Bradley Park,41.717878301935,-87.56459176540375
+20230,Clyde Ave & 87th St,41.73715146431056,-87.57274031639099
+554,Damen Ave & 51st St,41.800908,-87.674684
+16913,Cicero Ave & Quincy St,41.877635833333336,-87.74542583333331
+20205,Western Ave & 111th St,41.691210999999996,-87.681297
+20208,Major Taylor Trail & 124th St,41.66869635332246,-87.63711333274841
+20106,Chicago State University,41.71895833333333,-87.60837733333334
+579,Phillips Ave & 79th St,41.75182,-87.565211
+20233,Halsted St & 78th St,41.752487012490135,-87.6439021574879
+20204,Kedzie Ave & 110th St,41.6924015,-87.70095783333332
+20235,Greenwood Ave & 91st St,41.728264268162725,-87.59729862213135
+540,Laramie Ave & Madison St,41.880207,-87.755337
+20244,Halsted St & 73rd St,41.761639833333334,-87.64406233333334
+16950,Ashland Ave & 66th St,41.774074,-87.663815
+16948,Ashland Ave & 63rd St,41.77937533333333,-87.6648995
+537,Kenton Ave & Madison St,41.880708,-87.74101800000001
+16933,Morgan St & Pershing Rd,41.823613,-87.650931
+16953,Vincennes Ave & 75th St,41.75797,-87.63121
+13213,State St & 29th St,41.841707,-87.626938
+20221,Torrence Ave & 106th St,41.7028495,-87.55980916666668
+567,May St & 69th St,41.768938,-87.652934
+572,State St & 76th St,41.756971,-87.62462099999999
+557,Seeley Ave & Garfield Blvd,41.794087,-87.675478
+574,Vernon Ave & 79th St,41.75094,-87.61379000000001
+587,Wabash Ave & 83rd St,41.743316,-87.622849
+651,Michigan Ave & 71st St,41.7652865,-87.62173833333334
+577,Stony Island Ave & South Chicago Ave,41.751173,-87.585337
+20231,East End Ave & 87th St,41.73681521440671,-87.58280128240585
+20222,Burnham Greenway & 105th St,41.704575087207104,-87.52823173999786
+20232,Big Marsh Park,41.68587705562333,-87.57382392883301
+20256.0,N Sheffield Ave & W Wellington Ave,41.94,-87.65
+20108,Hale Ave & 107th St,41.69920616812768,-87.66891896724701
+647,Elizabeth St & 59th St,41.786691,-87.65585899999999
+20203,Lawndale Ave & 111th St,41.691319192210656,-87.71288573741913
+20242,Houston Ave & 92nd St,41.72820421535798,-87.54970014095306
+15599,Calumet Ave & 71st St,41.765508000000004,-87.616918
+20.0,Damen Ave & Wabansia Ave,41.91,-87.68
+15682,Kedzie Ave & Roosevelt Rd,41.86649278172,-87.7064961757
+16940,Ashland Ave & 50th St,41.803022999999996,-87.664699
+560,Marshfield Ave & 59th St,41.786833,-87.66621500000001
+15686,Kedzie Ave & 21st St,41.853496,-87.70512516666666
+20103,Prospect Sq & 91st St,41.727951000000004,-87.66761650000001
+20124,Vincennes Ave & 104th St,41.704926,-87.656868
+20234,Ashland Ave & 78th St,41.75220484941116,-87.66369938850403
+20112,Indiana Ave & 103rd St,41.70717027117757,-87.61847198009491
+20217,Torrence Ave & 126th Pl,41.66631200825726,-87.55721569061278
+15597,Halsted St & 69th St,41.769062,-87.644614
+571,Vernon Ave & 75th St,41.758361,-87.614138
+561,Damen Ave & 59th St,41.78607383333333,-87.67414583333333
+20248.0,N Hampden Ct & W Diversey Ave,41.93,-87.64
+20207,Major Taylor Trail & 115th St,41.684931595192964,-87.6452887058258
+20105,Halsted St & 96th St,41.71971218361881,-87.6430195569992
+543,Laramie Ave & Gladys Ave,41.87584416666667,-87.75529666666668
+20246.0,N Green St & W Lake St,41.89,-87.65
+20251.0,N Carpenter St & W Lake St,41.89,-87.65
+20211,Eberhart Ave & 131st St,41.657953000000006,-87.61076433333334
+20243,Michigan Ave & 114th St,41.68701479467118,-87.62105226516724
+20213,Commercial Ave & 130th St,41.65915,-87.550762
+KA1503000053,MLK Jr Dr & 63rd St,41.78008063659001,-87.6159428567
+576,Greenwood Ave & 79th St,41.751294,-87.59755200000001
+549,Marshfield Ave & 44th St,41.813996,-87.666589
+16912,Cicero Ave & Flournoy St,41.8721235,-87.74661933333331
+KA1503000028,Jeffery Blvd & 76th St,41.75712,-87.575839
+593,Halsted St & 59th St,41.787539,-87.644874
+575,Cottage Grove Ave & 78th St,41.753174,-87.605026
+580,Exchange Ave & 79th St,41.751731,-87.552812
+16905,Central Ave & Lake St,41.88770783333333,-87.76542383333332
+562,Racine Ave & 61st St,41.783189,-87.654372
+16916,Central Ave & Madison St,41.88016233333333,-87.76319483333332
+20120,Stewart Ave & 83rd St,41.74372566666667,-87.63409866666667
+20236,Stony Island Ave & 90th St,41.73139494330236,-87.58574366569519
+20215,Hegewisch Metra Station,41.64850076266409,-87.54608988761902
+642,Latrobe Ave & Chicago Ave,41.89472083333333,-87.7568665
+16932,Ashland Ave & Pershing Rd,41.823465,-87.665577
+20118,Eggleston Ave & 92nd St,41.72755866666667,-87.634862
+20130,Wentworth Ave & 104th St,41.705308,-87.62921700000001
+16943,Ashland Ave & Garfield Blvd,41.792821999999994,-87.664429
+20125,Halsted St & 104th St,41.70517733333333,-87.64237916666669
+202480.0,Hampden Ct & Diversey Ave,41.93,-87.64
+20225,Commercial Ave & 100th St,41.713300333333336,-87.55126783333333
+588,South Chicago Ave & 83rd St,41.743921,-87.575225
+20201,Kedzie Ave & 104th St,41.7,-87.7
+556,Throop St & 52nd St,41.799659000000005,-87.657195
+18025,Carpenter St & 63rd St,41.7798495,-87.65079016666668
+20226,Oglesby Ave & 100th St,41.713397,-87.565842
+KA1503000001,Shields Ave & 43rd St,41.816208,-87.634819
+20224,Calumet Park,41.71369766666667,-87.53081833333331
+20212,Altgeld Gardens,41.657077,-87.59887049999999
+564,Racine Ave & 65th St,41.775393,-87.654308
+201022,Loomis St & 89th St,41.73237975329554,-87.65806943178177
+665,South Chicago Ave & Elliot Ave,41.747363,-87.580046
+20249.0,N Clark St & W Elm St,41.9,-87.63
+DIVVY 001,WEST CHI-WATSON,41.894791999999995,-87.730906
+20237,Yates Blvd & 93rd St,41.726164000000004,-87.5663105
+20202,W 103rd St & S Avers Ave,41.71,-87.72
+20133,Woodlawn & 103rd - Olive Harvey Vaccination Site,41.71,-87.59
+20134,Maryland Ave & 104th St,41.71,-87.6
+20999,Lyft Driver Center Private Rack,41.9,-87.66
+20126,S Aberdeen St & W 106th St,41.7,-87.65
+322,Cicero Ave & Grace St,41.95,-87.75
+365.0,Kildare Ave & 26th St,41.84,-87.73
+362.0,Lawndale Ave & 16th St,41.86,-87.72
+366.0,Spaulding Ave & 16th St,41.86,-87.71
+364.0,Homan Ave & Fillmore St,41.87,-87.71
+356,Lavergne & Fullerton,41.92,-87.75
+20220,Avenue L & 114th St,41.69,-87.54
+DIVVY CASSETTE REPAIR MOBILE STATION,DIVVY CASSETTE REPAIR MOBILE STATION,41.880958,-87.616743
+358,Kilpatrick Ave & Parker Ave,41.93,-87.74
+329.0,Central Park Ave & Douglas Blvd,41.86,-87.72
+316,Lamon Ave & Belmont Ave,41.94,-87.75
+368.0,Tripp Ave & 31st St,41.84,-87.73
+317,Long Ave & Belmont Ave,41.94,-87.76
+353,Meade Ave & Diversey Ave,41.93,-87.78
+313,Long Ave & Belden Ave,41.92,-87.76
+363.0,Tripp Ave & 15th St,41.86,-87.73
+355,Central Ave & Parker Ave,41.93,-87.77
+334.0,Lawndale Ave & 30th St,41.84,-87.72
+324,Meade Ave & Addison St,41.95,-87.78
+360,Kilbourn & Roscoe,41.94,-87.74
+351,Mulligan Ave & Wellington Ave,41.93,-87.78
+354,Parkside Ave & Armitage Ave,41.92,-87.77
+312,Lockwood Ave & Wrightwood Ave,41.93,-87.76
+327,Plainfield & Irving Park,41.95,-87.83
+397,Narragansett Ave & School St,41.94,-87.79
+396,Central Ave & Roscoe St,41.94,-87.77
+398,Long & Irving Park,41.95,-87.76
+330.0,Keeler Ave & Roosevelt Rd,41.87,-87.73
+335.0,Komensky Ave & 31st St,41.84,-87.73
+321,Kostner Ave & Wrightwood Ave,41.93,-87.74
+473,Mason Ave & Belmont Ave,41.94,-87.77
+310,North Ave & New England Ave,41.91,-87.8
+332.0,Harding Ave & 26th St,41.84,-87.72
+331.0,Pulaski Rd & 21st St,41.85,-87.72
+325,Harlem Ave & Grace St,41.95,-87.81
+393,Oketo Ave & Addison St,41.94,-87.81
+319,Roscoe & Harlem,41.94,-87.81
+357,Lamon Ave & Armitage Ave,41.92,-87.75
+352,Sayre & Diversey,41.93,-87.8
+359,Kilbourn & Belden,41.92,-87.74
+320,Orange & Addison,41.94,-87.82
+326,Harlem & Irving Park,41.95,-87.81
+305,Menard Ave & Division St,41.9,-87.77
+384,Kedzie Ave & 52nd St,41.8,-87.7
+394,Panama Ave & Grace St,41.95,-87.83
+308,Major Ave & Bloomingdale Ave,41.91,-87.77
+378,Nordica & Medill,41.92,-87.8
+323,Narragansett & Irving Park,41.95,-87.79
+348,Western Ave & 62nd St,41.78,-87.68
+20114,Doty Ave & 111th St,41.6950195,-87.59875433333332
+314,Narragansett & Wrightwood,41.93,-87.79
+361,Kenosha & Wellington,41.93,-87.73
+341,Archer Ave & 43rd St,41.82,-87.7
+318,Oak Park & Wellington,41.93,-87.8
+309,Narragansett & McLean,41.92,-87.79
+301,Monticello Ave & Chicago Ave,41.9,-87.72
+388,Richmond St & 59th St,41.79,-87.7
+302,Lamon Ave & Chicago Ave,41.9,-87.75
+377,Bloomingdale Ave & Harlem Ave,41.91,-87.81
+337,Hoyne Ave & 34th St,41.83,-87.68
+375,Long Ave & North Ave,41.91,-87.76
+304,Lavergne Ave & Division St,41.9,-87.75
+385,St Louis Ave & Norman Bobbins Ave,41.79,-87.71
+371,Kildare Ave & Chicago Ave,41.9,-87.73
+382,Kedzie Ave & 48th Pl,41.8,-87.7
+389,Maplewood Ave & 59th St,41.79,-87.69
+303,Kildare Ave & Division St,41.9,-87.73
+20260.0,Ping Tom Park (East),41.86,-87.63
+379,Rockwell St & Archer Ave,41.82,-87.69
+339,Sacramento Ave & Pershing Rd,41.82,-87.7
+338,California Ave & 36th St,41.83,-87.69
+307,Leamington Ave & Hirsch St,41.91,-87.75
+445,Western Ave & Gunnison St,41.97,-87.69
+386,Rockwell St & 57th St,41.79,-87.69
+471,Damen Ave & 33rd St,41.83,-87.68
+403,Kildare Ave & 55th St,41.79,-87.73
+20255.0,N Damen Ave & W Chicago Ave,41.9,-87.68
+406,Kostner Ave & 63rd St,41.78,-87.73
+344,Springfield Ave & 47th St,41.81,-87.72
+343,Pulaski Rd & 51st St,41.8,-87.72
+399,Lavergne Ave & 46th St,41.81,-87.75
+380,Fairfield Ave & 44th St,41.81,-87.69
+407,Tripp Ave & 65th St,41.77,-87.73
+20209,S Michigan Ave & E 118th St,41.68,-87.62
+430,Troy St & Grace St,41.95,-87.71
+404,Pulaski Rd & 60th St,41.78,-87.72
+347,Komensky Ave & 55th St,41.79,-87.72
+346,Kedzie Ave & 57th St,41.79,-87.7
+370,Central Park & Augusta Blvd,41.9,-87.72
+400,Lawler Ave & 50th St,41.8,-87.75
+369,Central Park Ave & Ohio St,41.89,-87.72
+434,Albany Ave & Belmont Ave,41.94,-87.71
+428,Milwaukee Ave & Fullerton Ave,41.92,-87.7
+349,Spaulding Ave & 63rd St,41.78,-87.71
+345,Artesian Ave & 55th St,41.79,-87.69
+340,Pulaski & Ann Lurie Pl,41.82,-87.72
+20240,Indiana Ave & 133rd St,41.65,-87.62
+442,Lincoln Ave & Balmoral Ave,41.98,-87.69
+402,Kenneth Ave & 50th St,41.8,-87.73
+20128,S Wentworth Ave & W 111th St,41.69,-87.63
+374,Kilpatrick Ave & Grand Ave,41.91,-87.74
+443,California Ave & Winona St,41.97,-87.7
+475,Whipple/Irving Park,41.95,-87.7
+431,Western Ave & Grace St,41.95,-87.69
+435,Rockwell St & Fletcher St,41.94,-87.69
+458,Washtenaw Ave & Peterson Ave,41.99,-87.7
+472,Elston Ave & George St,41.93,-87.69
+462,Lincoln Ave & Peterson Ave,41.99,-87.71
+429,Francisco Ave & Bloomingdale Ave,41.91,-87.7
+444,N Shore Channel Trail & Argyle Ave,41.97,-87.7
+436,Kedzie Ave & George St,41.93,-87.71
+401,Kildare Ave & 47th St,41.81,-87.73
+373,Augusta Blvd & Laramie Ave,41.9,-87.76
+387,St Louis Ave & 59th St,41.79,-87.71
+425,Rockwell St & Cermak Rd,41.85,-87.69
+446,Francisco Ave & Montrose Ave,41.96,-87.7
+441,Virginia Ave & Catalpa Ave,41.98,-87.7
+390,California Ave & Marquette Rd,41.77,-87.69
+452,Richmond St & Lincoln Ave,41.99,-87.7
+419,Sacramento Blvd & Polk St,41.87,-87.7
+350,Hamlin Ave & 62nd Pl,41.78,-87.72
+433,Elston Ave & Henderson St,41.94,-87.7
+Throop/Hastings Mobile Station,Throop/Hastings Mobile Station,41.851560473,-87.659110785
+376,Menard Ave & North Ave,41.91,-87.77
+424,Sacramento Ave & 25th St,41.85,-87.7
+464,Western Ave & Ardmore Ave,41.99,-87.69
+432,Sacramento Blvd & Addison St,41.95,-87.7
+20102,Loomis St & 89th St,41.73247816666667,-87.6580595
+460,Francisco Ave & Hollywood Ave,41.98,-87.7
+466,California Ave & 29th St,41.84,-87.69
+21544,State St & Chicago Ave,41.896932,-87.62876016666668
+418,Mozart St & Jackson Blvd,41.88,-87.7
+415,Western Ave & Lake St,41.88,-87.69
+416,Washtenaw Ave & Madison St,41.88,-87.69
+381,Francisco Ave & 47th St,41.81,-87.7
+414,Sacramento Blvd & Fulton Ave,41.89,-87.7
+20111,Olive Harvey College,41.709526000000004,-87.590236
+383,Campbell Ave & 51st St,41.8,-87.69
+342,Kedzie Ave & 45th St,41.81,-87.7
+Pawel Bialowas - Test- PBSC charging station,Pawel Bialowas - Test- PBSC charging station,45.635034323,-73.79647696
+Hastings WH 2,Hastings WH 2,41.863533139,-87.679664254
+420,Washtenaw Ave & Polk St,41.87,-87.69
+474,Fullerton & Monitor,41.92,-87.77
+Lincoln Ave & Roscoe St - Charging,Lincoln Ave & Roscoe St - Charging,41.943063378000005,-87.670833826
+427,Whipple St & Roosevelt Rd,41.87,-87.7
+20258.0,N Damen Ave & W Wabansia St,41.91,-87.68
+437,Whipple St & Irving Park Rd,41.95,-87.7
