@@ -6,6 +6,8 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 The bikes can be returned to the same station or to another station. The City of Chicago makes the anonymized bike trip data publicly available for projects like this where we can analyze the data.
 
 ## About dataset:
+You can get data from this link: https://video.udacity-data.com/topher/2022/March/62420bb1_azure-data-lakehouse-projectdatafiles/azure-data-lakehouse-projectdatafiles.zip
+
 Since the data from Divvy are anonymous, we have created fake rider and account profiles along with fake payment data to go along with the data from Divvy. The dataset looks like this:
 
 ![This is a alt text.](https://video.udacity-data.com/topher/2022/March/6239366d_dend-project-erd/dend-project-erd.jpeg "This is a sample image.")
